@@ -1,0 +1,141 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 11/1/2023 16:30:34
+  ==========================================
+  
+
+[2023-01-11T22:30:38.418Z] : [success]: Robot saved successfully
+
+[2023-01-11T22:46:16.259Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-01-11T22:46:16.290Z] : [error]: Total execution time: 6m 52s 709ms
+
+[2023-01-11T22:46:16.298Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 11/1/2023 16:46:16
+  ==========================================
+  
+
+[2023-01-11T22:46:53.825Z] : [success]: Robot saved successfully
+
+[2023-01-11T22:58:34.971Z] : [error]: Script Stopped.
+
+[2023-01-11T22:58:34.978Z] : [warn]: Total execution time: 8m 32s 592ms
+
+[2023-01-11T22:58:34.982Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 11/1/2023 16:58:35
+  ==========================================
+  
+
+[2023-01-11T23:02:40.822Z] : [success]: Robot saved successfully
+
+[2023-01-11T23:16:43.554Z] : [error]: Script Stopped.
+
+[2023-01-11T23:16:43.559Z] : [warn]: Total execution time: 13m 38s 603ms
+
+[2023-01-11T23:16:43.562Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 11/1/2023 17:16:44
+  ==========================================
+  
+
+[2023-01-11T23:19:21.526Z] : [success]: Robot saved successfully
+
+[2023-01-11T23:31:19.547Z] : [error]: Script Stopped.
+
+[2023-01-11T23:31:19.552Z] : [warn]: Total execution time: 11m 26s 283ms
+
+[2023-01-11T23:31:19.555Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 11/1/2023 17:31:20
+  ==========================================
+  
+
+[2023-01-11T23:33:41.469Z] : [success]: Robot saved successfully
+
+[2023-01-11T23:33:41.908Z] : [success]: Bot started
+
+[2023-01-11T23:33:41.917Z] : [info]: Robot start
+
+[2023-01-11T23:34:13.239Z] : [error]: Script Stopped.
+
+[2023-01-11T23:34:13.245Z] : [warn]: Total execution time: 31s 321ms
+
+[2023-01-11T23:34:13.250Z] : [info]: ---------------------------------------------
+
+[2023-01-11T23:34:18.991Z] : [success]: Bot started
+
+[2023-01-11T23:34:19.000Z] : [info]: Robot start
+
+[2023-01-11T23:37:53.515Z] : [error]: Script Stopped.
+
+[2023-01-11T23:37:53.522Z] : [warn]: Total execution time: 3m 34s 514ms
+
+[2023-01-11T23:37:53.527Z] : [info]: ---------------------------------------------
+
+[2023-01-11T23:42:40.777Z] : [success]: Robot saved successfully
+
+[2023-01-11T23:42:46.684Z] : [success]: Bot started
+
+[2023-01-11T23:42:46.688Z] : [info]: Robot start
+
+[2023-01-11T23:46:13.428Z] : [error]: Script stopped.
+
+[2023-01-11T23:46:13.465Z] : [error]: Total execution time: 3m 26s 739ms
+
+[2023-01-11T23:46:13.480Z] : [info]: ---------------------------------------------
+
+[2023-01-11T23:47:39.771Z] : [success]: Robot saved successfully
+
+[2023-01-11T23:47:40.105Z] : [success]: Bot started
+
+[2023-01-11T23:47:40.109Z] : [info]: Robot start
+
+[2023-01-11T23:48:53.447Z] : [error]: Script Stopped.
+
+[2023-01-11T23:48:53.453Z] : [info]: ---------------------------------------------
+
+[2023-01-11T23:49:18.140Z] : [success]: Robot saved successfully
+
+[2023-01-11T23:49:18.543Z] : [success]: Bot started
+
+[2023-01-11T23:49:18.549Z] : [info]: Robot start
+
+[2023-01-11T23:49:47.119Z] : [success]: Robot saved successfully
+
+[2023-01-11T23:50:03.779Z] : [error]: Script Stopped.
+
+[2023-01-11T23:50:03.783Z] : [info]: ---------------------------------------------
+
+[2023-01-11T23:50:31.869Z] : [success]: Robot saved successfully
+
+[2023-01-11T23:50:34.322Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-11T23:50:34.331Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-11T23:50:34.336Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-11T23:50:34.341Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-11T23:50:34.346Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-11T23:50:34.351Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-11T23:50:34.354Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-11T23:50:34.359Z] : [error]: Cannot read properties of null (reading 'type')
+

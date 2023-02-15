@@ -1,0 +1,195 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 15/2/2023, 9:40:11
+  ==========================================
+  
+
+[2023-02-15T15:40:15.647Z] : [success]: Robot saved successfully
+
+[2023-02-15T15:40:20.224Z] : [info]: ---------------------------------------------
+
+[2023-02-15T15:40:20.225Z] : [success]: Bot started
+
+[2023-02-15T15:40:20.228Z] : [info]: Robot start
+
+[2023-02-15T15:40:41.681Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-15T15:41:03.580Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-02-15T15:41:46.641Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-15T15:41:47.651Z] : [success]: Bot finished successfully, total execution time: 1m 27s 421ms
+
+[2023-02-15T15:41:47.653Z] : [info]: ---------------------------------------------
+
+[2023-02-15T15:43:04.672Z] : [success]: Bot started
+
+[2023-02-15T15:43:04.673Z] : [info]: Robot start
+
+[2023-02-15T15:43:24.281Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-15T15:43:54.311Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-02-15T15:44:30.820Z] : [info]: 10
+
+[2023-02-15T15:44:32.051Z] : [info]: 1
+
+[2023-02-15T15:44:33.978Z] : [info]: 2
+
+[2023-02-15T15:44:34.295Z] : [info]: 3
+
+[2023-02-15T15:44:36.332Z] : [info]: 4
+
+[2023-02-15T15:44:36.780Z] : [info]: 5
+
+[2023-02-15T15:44:37.219Z] : [info]: 6
+
+[2023-02-15T15:44:37.525Z] : [info]: 7
+
+[2023-02-15T15:44:37.920Z] : [info]: 8
+
+[2023-02-15T15:44:38.421Z] : [info]: 9
+
+[2023-02-15T15:44:39.979Z] : [info]: 10
+
+[2023-02-15T15:45:00.400Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-15T15:45:01.614Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-15T15:45:03.951Z] : [info]: 10
+
+[2023-02-15T15:45:09.766Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-15T15:45:11.994Z] : [info]: 10
+
+[2023-02-15T15:45:16.303Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-15T15:45:18.549Z] : [info]: 10
+
+[2023-02-15T15:45:53.424Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-15T15:45:54.411Z] : [success]: Bot finished successfully, total execution time: 2m 49s 735ms
+
+[2023-02-15T15:45:54.413Z] : [info]: ---------------------------------------------
+
+[2023-02-15T15:46:36.346Z] : [success]: Bot started
+
+[2023-02-15T15:46:36.347Z] : [info]: Robot start
+
+[2023-02-15T15:46:55.613Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-15T15:47:25.277Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-02-15T15:48:03.461Z] : [info]: 10
+
+[2023-02-15T15:48:04.803Z] : [info]: 1
+
+[2023-02-15T15:48:06.726Z] : [info]: 2
+
+[2023-02-15T15:48:07.057Z] : [info]: 3
+
+[2023-02-15T15:48:09.126Z] : [info]: 4
+
+[2023-02-15T15:48:09.613Z] : [info]: 5
+
+[2023-02-15T15:48:10.072Z] : [info]: 6
+
+[2023-02-15T15:48:10.371Z] : [info]: 7
+
+[2023-02-15T15:48:10.812Z] : [info]: 8
+
+[2023-02-15T15:48:11.296Z] : [info]: 9
+
+[2023-02-15T15:48:12.894Z] : [info]: 10
+
+[2023-02-15T15:48:29.636Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-15T15:48:31.136Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-15T15:48:33.510Z] : [info]: 10
+
+[2023-02-15T15:48:39.551Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-15T15:48:42.808Z] : [info]: 10
+
+[2023-02-15T15:48:44.490Z] : [info]: 1
+
+[2023-02-15T15:48:46.938Z] : [info]: 2
+
+[2023-02-15T15:48:47.337Z] : [info]: 3
+
+[2023-02-15T15:48:49.408Z] : [info]: 4
+
+[2023-02-15T15:48:49.957Z] : [info]: 5
+
+[2023-02-15T15:48:50.414Z] : [info]: 6
+
+[2023-02-15T15:48:50.730Z] : [info]: 7
+
+[2023-02-15T15:48:51.183Z] : [info]: 8
+
+[2023-02-15T15:48:51.704Z] : [info]: 9
+
+[2023-02-15T15:48:53.423Z] : [info]: 10
+
+[2023-02-15T15:49:08.849Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-15T15:51:16.616Z] : [success]: Bot started
+
+[2023-02-15T15:51:16.619Z] : [info]: Robot start
+
+[2023-02-15T15:51:36.455Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-15T15:52:05.557Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-02-15T15:52:44.707Z] : [info]: 10
+
+[2023-02-15T15:52:46.213Z] : [info]: 1
+
+[2023-02-15T15:52:48.369Z] : [info]: 2
+
+[2023-02-15T15:52:48.666Z] : [info]: 3
+
+[2023-02-15T15:52:50.743Z] : [info]: 4
+
+[2023-02-15T15:52:51.216Z] : [info]: 5
+
+[2023-02-15T15:52:51.686Z] : [info]: 6
+
+[2023-02-15T15:52:52.013Z] : [info]: 7
+
+[2023-02-15T15:52:52.442Z] : [info]: 8
+
+[2023-02-15T15:52:52.950Z] : [info]: 9
+
+[2023-02-15T15:52:54.547Z] : [info]: 10
+
+[2023-02-15T15:53:13.295Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-15T15:53:14.268Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-15T15:53:16.695Z] : [info]: 10
+
+[2023-02-15T15:53:21.725Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-15T15:53:23.951Z] : [info]: 10
+
+[2023-02-15T15:53:28.287Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-15T15:53:30.226Z] : [info]: 10
+
+[2023-02-15T15:53:37.758Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-15T15:53:38.500Z] : [success]: Bot finished successfully, total execution time: 2m 21s 879ms
+
+[2023-02-15T15:53:38.502Z] : [info]: ---------------------------------------------
+
+[2023-02-15T15:53:46.030Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-15T15:53:46.037Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-15T15:53:46.039Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-15T15:53:46.043Z] : [error]: Cannot read properties of null (reading 'type')
+

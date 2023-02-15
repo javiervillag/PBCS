@@ -1,0 +1,153 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 12/1/2023 08:57:45
+  ==========================================
+  
+
+[2023-01-12T18:11:02.805Z] : [success]: Robot saved successfully
+
+[2023-01-12T18:11:40.894Z] : [success]: Bot started
+
+[2023-01-12T18:11:40.899Z] : [info]: Robot start
+
+[2023-01-12T18:12:19.880Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-01-12T18:13:00.093Z] : [info]: 11
+
+[2023-01-12T18:13:00.437Z] : [info]: 1
+
+[2023-01-12T18:13:00.799Z] : [info]: 2
+
+[2023-01-12T18:13:01.185Z] : [info]: 3
+
+[2023-01-12T18:13:02.059Z] : [info]: 4
+
+[2023-01-12T18:13:04.587Z] : [info]: 5
+
+[2023-01-12T18:13:05.136Z] : [info]: 6
+
+[2023-01-12T18:13:05.559Z] : [info]: 7
+
+[2023-01-12T18:13:05.903Z] : [info]: 8
+
+[2023-01-12T18:13:06.324Z] : [info]: 9
+
+[2023-01-12T18:13:06.820Z] : [info]: 10
+
+[2023-01-12T18:13:08.197Z] : [info]: 11
+
+[2023-01-12T18:14:26.885Z] : [info]: 11
+
+[2023-01-12T18:14:27.289Z] : [info]: 1
+
+[2023-01-12T18:14:27.665Z] : [info]: 2
+
+[2023-01-12T18:14:27.983Z] : [info]: 3
+
+[2023-01-12T18:14:28.958Z] : [info]: 4
+
+[2023-01-12T18:14:31.655Z] : [info]: 5
+
+[2023-01-12T18:14:32.281Z] : [info]: 6
+
+[2023-01-12T18:14:32.805Z] : [info]: 7
+
+[2023-01-12T18:14:33.114Z] : [info]: 8
+
+[2023-01-12T18:14:33.571Z] : [info]: 9
+
+[2023-01-12T18:14:34.069Z] : [info]: 10
+
+[2023-01-12T18:14:35.519Z] : [info]: 11
+
+[2023-01-12T18:23:24.199Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-12T18:23:25.226Z] : [success]: Bot finished successfully, total execution time: 11m 44s 326ms
+
+[2023-01-12T18:23:25.231Z] : [info]: ---------------------------------------------
+
+[2023-01-12T21:14:50.134Z] : [success]: Bot started
+
+[2023-01-12T21:14:50.140Z] : [info]: Robot start
+
+[2023-01-12T21:15:11.266Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-12T21:15:51.464Z] : [success]: Bot started
+
+[2023-01-12T21:15:51.469Z] : [info]: Robot start
+
+[2023-01-12T21:16:24.555Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-01-12T21:16:27.456Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-12T21:17:15.675Z] : [success]: Bot started
+
+[2023-01-12T21:17:15.679Z] : [info]: Robot start
+
+[2023-01-12T21:17:47.584Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-01-12T21:18:27.169Z] : [info]: 11
+
+[2023-01-12T21:18:27.574Z] : [info]: 1
+
+[2023-01-12T21:18:27.978Z] : [info]: 2
+
+[2023-01-12T21:18:28.414Z] : [info]: 3
+
+[2023-01-12T21:18:29.381Z] : [info]: 4
+
+[2023-01-12T21:18:32.030Z] : [info]: 5
+
+[2023-01-12T21:18:32.545Z] : [info]: 6
+
+[2023-01-12T21:18:33.007Z] : [info]: 7
+
+[2023-01-12T21:18:33.382Z] : [info]: 8
+
+[2023-01-12T21:18:33.737Z] : [info]: 9
+
+[2023-01-12T21:18:34.161Z] : [info]: 10
+
+[2023-01-12T21:18:35.564Z] : [info]: 11
+
+[2023-01-12T21:19:29.162Z] : [info]: 11
+
+[2023-01-12T21:19:29.534Z] : [info]: 1
+
+[2023-01-12T21:19:29.909Z] : [info]: 2
+
+[2023-01-12T21:19:30.319Z] : [info]: 3
+
+[2023-01-12T21:19:31.302Z] : [info]: 4
+
+[2023-01-12T21:19:34.136Z] : [info]: 5
+
+[2023-01-12T21:19:34.743Z] : [info]: 6
+
+[2023-01-12T21:19:35.192Z] : [info]: 7
+
+[2023-01-12T21:19:35.630Z] : [info]: 8
+
+[2023-01-12T21:19:36.041Z] : [info]: 9
+
+[2023-01-12T21:19:36.522Z] : [info]: 10
+
+[2023-01-12T21:19:37.829Z] : [info]: 11
+
+[2023-01-12T21:27:40.515Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-12T21:27:41.376Z] : [success]: Bot finished successfully, total execution time: 10m 25s 696ms
+
+[2023-01-12T21:27:41.404Z] : [info]: ---------------------------------------------
+
+[2023-01-12T22:45:46.625Z] : [info]: Internet connection // error
+
+[2023-01-12T22:45:52.729Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-12T23:19:05.614Z] : [success]: Robot saved successfully
+
+[2023-01-13T18:02:37.693Z] : [info]: Internet connection // error
+
+[2023-01-13T18:02:43.663Z] : [success]: Connection to our licenses server is restored
+

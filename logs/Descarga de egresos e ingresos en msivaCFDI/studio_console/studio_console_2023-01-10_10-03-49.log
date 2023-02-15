@@ -1,0 +1,255 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 10:03:54
+  ==========================================
+  
+
+[2023-01-10T16:04:05.506Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:04:05.804Z] : [info]: ---------------------------------------------
+
+[2023-01-10T16:04:05.808Z] : [success]: Bot started
+
+[2023-01-10T16:04:05.812Z] : [info]: Robot start
+
+[2023-01-10T16:04:31.886Z] : [success]: Bot started
+
+[2023-01-10T16:04:31.891Z] : [info]: Robot start
+
+[2023-01-10T16:05:22.728Z] : [info]: 11
+
+[2023-01-10T16:07:51.743Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:07:54.906Z] : [success]: Bot started
+
+[2023-01-10T16:07:54.910Z] : [info]: Robot start
+
+[2023-01-10T16:08:41.307Z] : [info]: 11
+
+[2023-01-10T16:08:56.059Z] : [info]: 11
+
+[2023-01-10T16:08:56.302Z] : [info]: 1
+
+[2023-01-10T16:08:56.439Z] : [info]: 2
+
+[2023-01-10T16:08:56.615Z] : [info]: 3
+
+[2023-01-10T16:08:57.119Z] : [info]: 4
+
+[2023-01-10T16:08:58.649Z] : [info]: 5
+
+[2023-01-10T16:08:58.965Z] : [info]: 6
+
+[2023-01-10T16:08:59.157Z] : [info]: 7
+
+[2023-01-10T16:08:59.356Z] : [info]: 8
+
+[2023-01-10T16:08:59.559Z] : [info]: 9
+
+[2023-01-10T16:08:59.797Z] : [info]: 10
+
+[2023-01-10T16:09:00.603Z] : [info]: 11
+
+[2023-01-10T16:09:22.121Z] : [success]: Bot finished successfully, total execution time: 1m 27s 210ms
+
+[2023-01-10T16:09:22.127Z] : [info]: ---------------------------------------------
+
+[2023-01-10T16:37:42.763Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:37:52.436Z] : [success]: Bot started
+
+[2023-01-10T16:37:52.439Z] : [info]: Robot start
+
+[2023-01-10T16:38:25.395Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:38:25.577Z] : [success]: Bot started
+
+[2023-01-10T16:38:25.582Z] : [info]: Robot start
+
+[2023-01-10T16:39:16.705Z] : [info]: 11
+
+[2023-01-10T16:39:16.935Z] : [info]: 1
+
+[2023-01-10T16:39:17.122Z] : [info]: 2
+
+[2023-01-10T16:39:17.327Z] : [info]: 3
+
+[2023-01-10T16:39:17.872Z] : [info]: 4
+
+[2023-01-10T16:39:19.363Z] : [info]: 5
+
+[2023-01-10T16:39:19.653Z] : [info]: 6
+
+[2023-01-10T16:39:19.867Z] : [info]: 7
+
+[2023-01-10T16:39:20.063Z] : [info]: 8
+
+[2023-01-10T16:39:20.300Z] : [info]: 9
+
+[2023-01-10T16:39:20.553Z] : [info]: 10
+
+[2023-01-10T16:39:21.350Z] : [info]: 11
+
+[2023-01-10T16:39:27.438Z] : [success]: Bot finished successfully, total execution time: 1m 1s 855ms
+
+[2023-01-10T16:39:27.445Z] : [info]: ---------------------------------------------
+
+[2023-01-10T16:39:51.595Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:42:31.566Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:42:35.577Z] : [success]: Bot started
+
+[2023-01-10T16:42:35.580Z] : [info]: Robot start
+
+[2023-01-10T16:43:20.887Z] : [info]: 11
+
+[2023-01-10T16:43:21.074Z] : [info]: 1
+
+[2023-01-10T16:43:21.262Z] : [info]: 2
+
+[2023-01-10T16:43:21.449Z] : [info]: 3
+
+[2023-01-10T16:43:22.017Z] : [info]: 4
+
+[2023-01-10T16:43:23.555Z] : [info]: 5
+
+[2023-01-10T16:43:23.819Z] : [info]: 6
+
+[2023-01-10T16:43:24.025Z] : [info]: 7
+
+[2023-01-10T16:43:24.248Z] : [info]: 8
+
+[2023-01-10T16:43:24.471Z] : [info]: 9
+
+[2023-01-10T16:43:24.756Z] : [info]: 10
+
+[2023-01-10T16:43:25.520Z] : [info]: 11
+
+[2023-01-10T16:43:58.415Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-10T16:49:06.571Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:49:10.565Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:50:12.662Z] : [success]: Bot started
+
+[2023-01-10T16:50:12.666Z] : [info]: Robot start
+
+[2023-01-10T16:56:02.251Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:56:13.630Z] : [success]: Bot started
+
+[2023-01-10T16:56:13.634Z] : [info]: Robot start
+
+[2023-01-10T16:57:07.855Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:57:08.084Z] : [success]: Bot started
+
+[2023-01-10T16:57:08.088Z] : [info]: Robot start
+
+[2023-01-10T16:58:26.288Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:58:26.506Z] : [success]: Bot started
+
+[2023-01-10T16:58:26.510Z] : [info]: Robot start
+
+[2023-01-10T16:59:05.842Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:59:06.058Z] : [success]: Bot started
+
+[2023-01-10T16:59:06.063Z] : [info]: Robot start
+
+[2023-01-10T17:00:15.678Z] : [success]: Robot saved successfully
+
+[2023-01-10T17:00:15.895Z] : [success]: Bot started
+
+[2023-01-10T17:00:15.900Z] : [info]: Robot start
+
+[2023-01-10T17:02:23.602Z] : [success]: Robot saved successfully
+
+[2023-01-10T17:02:23.813Z] : [success]: Bot started
+
+[2023-01-10T17:02:23.819Z] : [info]: Robot start
+
+[2023-01-10T17:02:41.157Z] : [error]: Script Stopped.
+
+[2023-01-10T17:02:41.164Z] : [warn]: Total execution time: 17s 337ms
+
+[2023-01-10T17:02:41.179Z] : [info]: ---------------------------------------------
+
+[2023-01-10T17:04:45.355Z] : [success]: Robot saved successfully
+
+[2023-01-10T17:04:45.586Z] : [success]: Bot started
+
+[2023-01-10T17:04:45.590Z] : [info]: Robot start
+
+[2023-01-10T17:05:46.789Z] : [info]: 11
+
+[2023-01-10T17:06:01.726Z] : [info]: 11
+
+[2023-01-10T17:06:01.963Z] : [info]: 1
+
+[2023-01-10T17:06:02.155Z] : [info]: 2
+
+[2023-01-10T17:06:02.355Z] : [info]: 3
+
+[2023-01-10T17:06:02.826Z] : [info]: 4
+
+[2023-01-10T17:06:04.312Z] : [info]: 5
+
+[2023-01-10T17:06:04.642Z] : [info]: 6
+
+[2023-01-10T17:06:04.862Z] : [info]: 7
+
+[2023-01-10T17:06:05.079Z] : [info]: 8
+
+[2023-01-10T17:06:05.314Z] : [info]: 9
+
+[2023-01-10T17:06:05.534Z] : [info]: 10
+
+[2023-01-10T17:06:06.363Z] : [info]: 11
+
+[2023-01-10T17:06:34.963Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-10T17:06:35.502Z] : [success]: Bot finished successfully, total execution time: 1m 49s 911ms
+
+[2023-01-10T17:06:35.507Z] : [info]: ---------------------------------------------
+
+[2023-01-10T18:02:51.374Z] : [success]: Robot saved successfully
+
+[2023-01-10T18:03:56.574Z] : [success]: Bot started
+
+[2023-01-10T18:03:56.579Z] : [info]: Robot start
+
+[2023-01-10T18:05:03.821Z] : [info]: 11
+
+[2023-01-10T18:05:04.027Z] : [info]: 1
+
+[2023-01-10T18:05:04.184Z] : [info]: 2
+
+[2023-01-10T18:05:04.390Z] : [info]: 3
+
+[2023-01-10T18:05:04.936Z] : [info]: 4
+
+[2023-01-10T18:05:06.364Z] : [info]: 5
+
+[2023-01-10T18:05:06.716Z] : [info]: 6
+
+[2023-01-10T18:05:06.927Z] : [info]: 7
+
+[2023-01-10T18:05:07.157Z] : [info]: 8
+
+[2023-01-10T18:05:07.378Z] : [info]: 9
+
+[2023-01-10T18:05:07.626Z] : [info]: 10
+
+[2023-01-10T18:05:08.386Z] : [info]: 11
+
+[2023-01-10T18:05:13.881Z] : [success]: Bot finished successfully, total execution time: 1m 17s 301ms
+
+[2023-01-10T18:05:13.887Z] : [info]: ---------------------------------------------
+
+[2023-01-10T20:40:06.400Z] : [success]: Robot saved successfully
+

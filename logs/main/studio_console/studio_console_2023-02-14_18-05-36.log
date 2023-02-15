@@ -1,0 +1,33 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 14/2/2023, 18:08:34
+  ==========================================
+  
+
+[2023-02-15T00:08:43.019Z] : [success]: Robot saved successfully
+
+[2023-02-15T00:08:43.833Z] : [info]: ---------------------------------------------
+
+[2023-02-15T00:08:43.835Z] : [success]: Bot started
+
+[2023-02-15T00:08:43.838Z] : [info]: Robot start
+
+[2023-02-15T00:09:27.656Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-15T00:09:53.694Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-02-15T00:10:49.950Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-15T00:11:21.455Z] : [success]: Robot saved successfully
+
+[2023-02-15T00:11:22.519Z] : [success]: Bot started
+
+[2023-02-15T00:11:22.520Z] : [info]: Robot start
+
+[2023-02-15T00:11:59.181Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-15T00:12:40.597Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-02-15T00:13:56.823Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+

@@ -1,0 +1,115 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 16:14:38
+  ==========================================
+  
+
+[2022-12-31T22:29:41.532Z] : [success]: Robot saved successfully
+
+[2022-12-31T22:43:32.909Z] : [success]: Robot saved successfully
+
+[2022-12-31T22:44:20.298Z] : [success]: Robot saved successfully
+
+[2022-12-31T22:44:36.178Z] : [success]: Robot saved successfully
+
+[2022-12-31T22:44:36.475Z] : [success]: Bot started
+
+[2022-12-31T22:44:36.480Z] : [info]: Robot start
+
+[2022-12-31T22:45:05.065Z] : [success]: Bot finished successfully, total execution time: 28s 584ms
+
+[2022-12-31T22:45:05.069Z] : [info]: ---------------------------------------------
+
+[2022-12-31T22:45:18.055Z] : [success]: Robot saved successfully
+
+[2022-12-31T23:25:07.705Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:02:57.957Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:04:18.595Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:05:31.884Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:05:54.506Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:06:52.905Z] : [success]: Bot started
+
+[2023-01-01T00:06:52.935Z] : [info]: Robot start
+
+[2023-01-01T00:07:24.116Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\SANTANDER 04 ABRIL 2022.xlsx : OK
+
+[2023-01-01T00:07:49.093Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\BANREGIO.xlsx : OK
+
+[2023-01-01T00:08:23.925Z] : [success]: Bot finished successfully, total execution time: 1m 30s 989ms
+
+[2023-01-01T00:08:23.931Z] : [info]: ---------------------------------------------
+
+[2023-01-01T00:09:31.967Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:10:14.241Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:10:17.219Z] : [info]: ---------------------------------------------
+
+[2023-01-01T00:10:17.224Z] : [success]: Bot started
+
+[2023-01-01T00:10:17.228Z] : [info]: Robot start
+
+[2023-01-01T00:11:31.063Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:11:31.310Z] : [success]: Bot started
+
+[2023-01-01T00:11:31.315Z] : [info]: Robot start
+
+[2023-01-01T00:14:17.063Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:14:17.289Z] : [success]: Bot started
+
+[2023-01-01T00:14:17.349Z] : [info]: Robot start
+
+[2023-01-01T00:14:58.646Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\SANTANDER 04 ABRIL 2022.xlsx : OK
+
+[2023-01-01T00:15:29.438Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\BANREGIO.xlsx : OK
+
+[2023-01-01T00:16:01.598Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\BBVA_Estado de cuenta Noviembre.xlsx : OK
+
+[2023-01-01T00:16:33.841Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\EDO.CUENTA NOVIEMBRE 2022 AFIRME.xlsx : OK
+
+[2023-01-01T00:17:06.055Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\Estado de cuenta  BANORTE.XLSX : OK
+
+[2023-01-01T00:17:39.548Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\ESTADO DE CUENTA BANAMEX.xlsx : OK
+
+[2023-01-01T00:18:13.937Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\Periodo_NOV 2022 INBURSA.xlsx : OK
+
+[2023-01-01T00:18:14.534Z] : [success]: Bot finished successfully, total execution time: 3m 57s 184ms
+
+[2023-01-01T00:18:14.539Z] : [info]: ---------------------------------------------
+
+[2023-01-01T00:39:08.870Z] : [success]: Robot saved successfully
+
+[2023-01-01T01:02:56.252Z] : [success]: Robot saved successfully
+
+[2023-01-01T01:02:56.556Z] : [success]: Bot started
+
+[2023-01-01T01:02:56.575Z] : [info]: Robot start
+
+[2023-01-01T01:04:02.993Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\SANTANDER 04 ABRIL 2022.xlsx : OK
+
+[2023-01-01T01:04:11.348Z] : [success]: Bot finished successfully, total execution time: 1m 14s 772ms
+
+[2023-01-01T01:04:11.353Z] : [info]: ---------------------------------------------
+
+[2023-01-02T21:22:46.871Z] : [success]: Robot saved successfully
+
+[2023-01-02T21:26:05.125Z] : [success]: Robot saved successfully
+
+[2023-01-02T21:26:06.273Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-02T21:26:06.279Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-02T21:26:06.283Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-02T21:26:06.287Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-02T21:26:06.293Z] : [error]: Cannot read properties of null (reading 'type')
+

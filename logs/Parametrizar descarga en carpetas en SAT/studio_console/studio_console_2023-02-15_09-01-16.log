@@ -1,0 +1,21 @@
+[2023-02-15T15:29:34.557Z] : [error]: Script stopped.
+
+[2023-02-15T15:29:34.563Z] : [info]: Total execution time: 4m 39s 729ms
+
+[2023-02-15T15:29:34.565Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 15/2/2023, 9:29:35
+  ==========================================
+  
+
+[2023-02-15T15:34:52.827Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-15T15:34:54.123Z] : [error]: Script Stopped.
+
+[2023-02-15T15:34:54.128Z] : [info]: Total execution time: 3m 50s 184ms
+
+[2023-02-15T15:34:54.130Z] : [info]: ---------------------------------------------
+

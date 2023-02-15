@@ -1,0 +1,205 @@
+[2023-01-01T04:11:04.009Z] : [info]: Internet connection // error
+
+[2023-01-01T04:11:07.911Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-01T19:47:25.629Z] : [success]: Robot saved successfully
+
+[2023-01-01T19:47:26.038Z] : [success]: Bot started
+
+[2023-01-01T19:47:26.043Z] : [info]: Robot start
+
+[2023-01-01T19:47:29.184Z] : [success]: Bot finished successfully, total execution time: 3s 140ms
+
+[2023-01-01T19:47:29.190Z] : [info]: ---------------------------------------------
+
+[2023-01-01T19:51:50.306Z] : [success]: Robot saved successfully
+
+[2023-01-01T19:51:51.094Z] : [success]: Bot started
+
+[2023-01-01T19:51:51.099Z] : [info]: Robot start
+
+[2023-01-01T19:51:53.935Z] : [info]: undefined : ok
+
+[2023-01-01T19:51:54.329Z] : [success]: Bot finished successfully, total execution time: 3s 230ms
+
+[2023-01-01T19:51:54.334Z] : [info]: ---------------------------------------------
+
+[2023-01-01T19:53:14.371Z] : [success]: Robot saved successfully
+
+[2023-01-01T19:53:14.626Z] : [success]: Bot started
+
+[2023-01-01T19:53:14.630Z] : [info]: Robot start
+
+[2023-01-01T19:53:17.409Z] : [info]: undefined : ok
+
+[2023-01-01T19:53:17.748Z] : [success]: Bot finished successfully, total execution time: 3s 117ms
+
+[2023-01-01T19:53:17.777Z] : [info]: ---------------------------------------------
+
+[2023-01-01T19:53:53.307Z] : [success]: Robot saved successfully
+
+[2023-01-01T19:53:53.937Z] : [success]: Bot started
+
+[2023-01-01T19:53:53.941Z] : [info]: Robot start
+
+[2023-01-01T19:53:56.691Z] : [info]: 28 : ok
+
+[2023-01-01T19:53:57.058Z] : [success]: Bot finished successfully, total execution time: 3s 116ms
+
+[2023-01-01T19:53:57.063Z] : [info]: ---------------------------------------------
+
+[2023-01-01T19:55:56.131Z] : [success]: Robot saved successfully
+
+[2023-01-01T19:55:56.386Z] : [success]: Bot started
+
+[2023-01-01T19:55:56.391Z] : [info]: Robot start
+
+[2023-01-01T19:55:59.155Z] : [info]: 28 : ok
+
+[2023-01-01T19:55:59.171Z] : [info]: undefined
+
+[2023-01-01T19:55:59.493Z] : [success]: Bot finished successfully, total execution time: 3s 101ms
+
+[2023-01-01T19:55:59.497Z] : [info]: ---------------------------------------------
+
+[2023-01-01T19:56:44.412Z] : [success]: Robot saved successfully
+
+[2023-01-01T19:56:45.149Z] : [success]: Bot started
+
+[2023-01-01T19:56:45.153Z] : [info]: Robot start
+
+[2023-01-01T19:56:48.052Z] : [info]: 28 : ok
+
+[2023-01-01T19:56:48.360Z] : [error]: Cannot convert undefined or null to object
+
+[2023-01-01T19:56:48.366Z] : [error]: Total execution time: 3s 207ms
+
+[2023-01-01T19:56:48.394Z] : [info]: ---------------------------------------------
+
+[2023-01-01T19:57:25.812Z] : [success]: Robot saved successfully
+
+[2023-01-01T19:57:26.218Z] : [success]: Bot started
+
+[2023-01-01T19:57:26.223Z] : [info]: Robot start
+
+[2023-01-01T19:57:29.110Z] : [info]: 28 : ok
+
+[2023-01-01T19:57:29.142Z] : [info]: [{"A":"ÏÏÏiipabiorgiÏx"},{"A":"REORGANIZA    CONTABILIDAD    EMPRESARIAL    SC\nALFONSO   REYES   1420\nBUROCRATAS   MUNICIPALES,   MONTERREY MONTERREY,   NUEVO   LEON\nCiPi   64769                            CiRi   64821                                 E05803924\n*0422215289742613096001*\n0422215289742613096001","E":"CODIGO    DE    CLIENTE    NO¿    42613096\nRiFiCi           RCE170407   B63 MONEDA      :   MONEDA   NACIONAL SUCURSAL:   3924   SUCi   BRISAS TELEFONO:   55   51-69-43-00\nPERIODO   :   01   AL   30   DE   ABRIL   DE   2022\nHOJA     1   DE      15"},{"A":"INFORMACION A CLIENTES\nRESUMEN INFORMATIVO"},{"A":"INTERESES           COÏISIONES        *   GAT             *   GAT BRUTOS                 COBRADAS        NOÏINAL            REAL\n0i00                      520i00"},{"A":"PRODUCTO                                                                                                                                  ÏES   ANTERIOR                                           ÏES   ACTUAL\nCUENTA   SANTANDER   PYME                                     65-50617656-0                      100,693i02   100i00%                     189,051i28  100i00%\nTOTAL                                                                                                                                          100,693z02   100z00%                     189,051z28  100z00%\nCUENTA DE CHEQUES\nCUENTA SANTANDER PYME 65-50617656-0\nSALDO   PROMEDIO                                                                    179,446i22          SALDO   INICIAL                                                       100,693i02","F":"+   INTERESES   BRUTOS","H":"CLABE      014580655061765601"},{"A":"TASA   BRUTA   DE   INTERES   ANUAL                                         0z0000%          +   DEPOSITOS                                                            959,740i06                -   IiSiRi   RETENIDO   (z08%)\nDIAS   DEL   PERIODO                                                                                     30         -   RETIROS                                                                  871,381i80                =   INTERESES   NETOS NO   REQUIERE   SDOi   PROMEDIO   MINIMO\nCORTE   AL   30/04/2022          =   SALDO   ACTUAL                                                    189,051i28                COMISIONES   COBRADAS                                       520i00\nGRAFICO CUENTA DE CHEQUES\nCUENTA SANTANDER PYME 65-50617656-0"},{"A":"(Saldo   IÏicial   de   $100,693i02)"},{},{},{},{},{"A":"F   E   C   H   A\n31-MAR-2022","B":"FOLIO","C":"DESCRIPCION\nSALDO   FINAL   DEL   PERIODO   ANTERIOR","E":"DEPOSITOS","G":"RETIROS","I":"SALDO\n100,693i02"},{"A":"2022-04-01T00:00:00","B":0,"C":"COM   MEMBRESIA   CUENTA   E   PYME   MAR   2022","G":"520i00","I":"100,173i02"},{"A":"2022-04-01T00:00:00","B":0,"C":"I   V   A   MAR   2022","G":"83i20","I":"100,089i82"},{"A":"2022-04-01T00:00:00","B":4868821,"C":"ABONO   TRANSFERENCIA   SPEI   HORA   09:04:38","E":"1,392i00","I":"101,481i82"},{"C":"RECIBIDO   DE   BANREGIO"},{"C":"DE   LA   CUENTA   058580095934200165"},{"C":"DEL   CLIENTE   iALTER   GENARO   CERDA   RANGEL"},{"C":"CLAVE   DE   RASTREO   058-01/04/2022/01-009LLD3082"},{"C":"REF   010422"},{"C":"CONCEPTO   pago   facturaciÏ"},{"C":"RFC   CERi860910U5A"},{"A":"2022-04-01T00:00:00","B":5691,"C":"CONSUMO   LOCAL   PROPIO   TERMINACION:   0288   01ABR22","G":"10,000i00","I":"91,481i82"},{"C":"AVA   880310UI1   CORPORATIVO   HER   MERIDA   YUC"},{"A":"2022-04-01T00:00:00","B":5174987,"C":"ABONO   TRANSFERENCIA   SPEI   HORA   11:10:17","E":"1,670i40","I":"93,152i22"},{"C":"RECIBIDO   DE   BANORTE"},{},{},{},{},{},{}]
+
+[2023-01-01T19:57:29.347Z] : [success]: Bot finished successfully, total execution time: 3s 123ms
+
+[2023-01-01T19:57:29.351Z] : [info]: ---------------------------------------------
+
+[2023-01-01T19:58:29.086Z] : [success]: Robot saved successfully
+
+[2023-01-01T19:58:29.716Z] : [success]: Bot started
+
+[2023-01-01T19:58:29.721Z] : [info]: Robot start
+
+[2023-01-01T19:58:32.626Z] : [info]: 28 : ok
+
+[2023-01-01T19:58:32.657Z] : [info]: {"A":"ÏÏÏiipabiorgiÏx"}
+
+[2023-01-01T19:58:32.980Z] : [success]: Bot finished successfully, total execution time: 3s 259ms
+
+[2023-01-01T19:58:32.985Z] : [info]: ---------------------------------------------
+
+[2023-01-01T19:59:06.435Z] : [success]: Robot saved successfully
+
+[2023-01-01T19:59:07.060Z] : [success]: Bot started
+
+[2023-01-01T19:59:07.064Z] : [info]: Robot start
+
+[2023-01-01T19:59:09.912Z] : [info]: 28 : ok
+
+[2023-01-01T19:59:10.348Z] : [success]: Bot finished successfully, total execution time: 3s 283ms
+
+[2023-01-01T19:59:10.352Z] : [info]: ---------------------------------------------
+
+[2023-01-01T20:02:14.812Z] : [success]: Robot saved successfully
+
+[2023-01-01T20:02:14.989Z] : [success]: Bot started
+
+[2023-01-01T20:02:14.994Z] : [info]: Robot start
+
+[2023-01-01T20:02:18.085Z] : [error]: Cannot read properties of undefined (reading 'push')
+
+[2023-01-01T20:02:18.090Z] : [error]: Total execution time: 3s 90ms
+
+[2023-01-01T20:02:18.094Z] : [info]: ---------------------------------------------
+
+[2023-01-01T20:03:38.891Z] : [success]: Robot saved successfully
+
+[2023-01-01T20:03:39.279Z] : [success]: Bot started
+
+[2023-01-01T20:03:39.283Z] : [info]: Robot start
+
+[2023-01-01T20:03:42.388Z] : [success]: Bot finished successfully, total execution time: 3s 105ms
+
+[2023-01-01T20:03:42.393Z] : [info]: ---------------------------------------------
+
+[2023-01-01T20:04:46.505Z] : [success]: Robot saved successfully
+
+[2023-01-01T20:04:47.083Z] : [success]: Bot started
+
+[2023-01-01T20:04:47.088Z] : [info]: Robot start
+
+[2023-01-01T20:07:06.186Z] : [error]: Script Stopped.
+
+[2023-01-01T20:07:06.191Z] : [warn]: Total execution time: 2m 19s 97ms
+
+[2023-01-01T20:07:06.195Z] : [info]: ---------------------------------------------
+
+[2023-01-01T20:07:48.574Z] : [success]: Robot saved successfully
+
+[2023-01-01T20:07:48.883Z] : [success]: Bot started
+
+[2023-01-01T20:07:48.887Z] : [info]: Robot start
+
+[2023-01-01T20:07:53.061Z] : [error]: Selectors: Cannot deserialize the current JSON array (e.g. [1,2,3]) into type 'System.Collections.Generic.IDictionary`2[System.String,System.Collections.Generic.IDictionary`2[System.String,System.String][]]' because the type requires a JSON object (e.g. {"name":"value"}) to deserialize correctly.
+To fix this error either change the JSON to a JSON object (e.g. {"name":"value"}) or change the deserialized type to an array or a type that implements a collection interface (e.g. ICollection, IList) like List<T> that can be deserialized from a JSON array. JsonArrayAttribute can also be added to the type to force it to deserialize from a JSON array.
+Path '', line 1, position 1.
+
+[2023-01-01T20:07:53.067Z] : [error]: Total execution time: 4s 174ms
+
+[2023-01-01T20:07:53.070Z] : [info]: ---------------------------------------------
+
+[2023-01-01T20:08:22.355Z] : [success]: Robot saved successfully
+
+[2023-01-01T20:08:23.118Z] : [success]: Bot started
+
+[2023-01-01T20:08:23.123Z] : [info]: Robot start
+
+[2023-01-01T20:08:28.067Z] : [success]: Bot finished successfully, total execution time: 4s 943ms
+
+[2023-01-01T20:08:28.077Z] : [info]: ---------------------------------------------
+
+[2023-01-02T02:57:49.718Z] : [info]: Internet connection // error
+
+[2023-01-02T02:59:27.822Z] : [success]: Connection to our licenses server is restored
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 2/1/2023 15:21:01
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 2/1/2023 15:21:48
+  ==========================================
+  
+
+[2023-01-02T21:22:07.182Z] : [success]: Robot saved successfully
+
+[2023-01-02T21:22:17.779Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 2/1/2023 15:22:50
+  ==========================================
+  
+

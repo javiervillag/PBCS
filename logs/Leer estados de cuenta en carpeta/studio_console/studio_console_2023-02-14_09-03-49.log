@@ -1,0 +1,17 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 14/2/2023, 9:13:10
+  ==========================================
+  
+
+[2023-02-14T15:17:07.148Z] : [info]: Internet connection // error
+
+[2023-02-14T15:17:55.462Z] : [error]: Script Stopped.
+
+[2023-02-14T15:17:55.464Z] : [info]: Total execution time: 7m 3s 655ms
+
+[2023-02-14T15:17:55.466Z] : [info]: ---------------------------------------------
+
+[2023-02-14T15:17:57.712Z] : [error]: Cannot read properties of null (reading 'type')
+

@@ -1,0 +1,75 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 15/2/2023, 9:54:23
+  ==========================================
+  
+
+[2023-02-15T15:54:28.249Z] : [info]: ---------------------------------------------
+
+[2023-02-15T15:54:28.251Z] : [success]: Bot started
+
+[2023-02-15T15:54:28.253Z] : [info]: Robot start
+
+[2023-02-15T15:54:58.343Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-15T15:55:31.459Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-02-15T15:56:11.154Z] : [info]: 10
+
+[2023-02-15T15:56:12.468Z] : [info]: 1
+
+[2023-02-15T15:56:14.565Z] : [info]: 2
+
+[2023-02-15T15:56:14.881Z] : [info]: 3
+
+[2023-02-15T15:56:17.026Z] : [info]: 4
+
+[2023-02-15T15:56:17.469Z] : [info]: 5
+
+[2023-02-15T15:56:17.908Z] : [info]: 6
+
+[2023-02-15T15:56:18.198Z] : [info]: 7
+
+[2023-02-15T15:56:18.648Z] : [info]: 8
+
+[2023-02-15T15:56:19.165Z] : [info]: 9
+
+[2023-02-15T15:56:20.912Z] : [info]: 10
+
+[2023-02-15T15:56:36.814Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-15T15:56:38.102Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-15T15:56:42.625Z] : [info]: 10
+
+[2023-02-15T15:56:48.839Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-15T15:56:50.996Z] : [info]: 10
+
+[2023-02-15T15:56:54.880Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-15T15:56:57.074Z] : [info]: 10
+
+[2023-02-15T16:05:13.280Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-15T16:05:14.475Z] : [success]: Bot finished successfully, total execution time: 10m 46s 218ms
+
+[2023-02-15T16:05:14.477Z] : [info]: ---------------------------------------------
+
+[2023-02-15T16:10:22.649Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-15T16:10:22.652Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-15T16:10:22.654Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-15T16:10:22.656Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-15T16:10:22.706Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-15T16:10:22.707Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-15T16:10:22.709Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-15T16:10:22.712Z] : [error]: Cannot read properties of null (reading 'type')
+

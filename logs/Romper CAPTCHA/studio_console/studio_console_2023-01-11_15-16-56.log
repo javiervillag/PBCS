@@ -1,0 +1,55 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 11/1/2023 16:10:41
+  ==========================================
+  
+
+[2023-01-11T22:12:16.800Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 11/1/2023 16:13:25
+  ==========================================
+  
+
+[2023-01-11T22:13:37.172Z] : [success]: Robot saved successfully
+
+[2023-01-11T22:24:57.059Z] : [error]: Bad Gateway
+
+[2023-01-11T22:24:57.065Z] : [error]: Total execution time: 24s 678ms
+
+[2023-01-11T22:24:57.070Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 11/1/2023 16:24:57
+  ==========================================
+  
+
+[2023-01-11T22:25:40.051Z] : [success]: Robot saved successfully
+
+[2023-01-11T22:25:40.316Z] : [success]: Bot started
+
+[2023-01-11T22:25:40.326Z] : [info]: Robot start
+
+[2023-01-11T22:25:41.469Z] : [error]: Programming activity: ubicacion_python_myenv is not defined
+
+[2023-01-11T22:25:41.475Z] : [error]: Total execution time: 1s 143ms
+
+[2023-01-11T22:25:41.478Z] : [info]: ---------------------------------------------
+
+[2023-01-11T22:25:57.962Z] : [success]: Robot saved successfully
+
+[2023-01-11T22:25:58.237Z] : [success]: Bot started
+
+[2023-01-11T22:25:58.241Z] : [info]: Robot start
+
+[2023-01-11T22:25:59.312Z] : [success]: Bot finished successfully, total execution time: 1s 71ms
+
+[2023-01-11T22:25:59.316Z] : [info]: ---------------------------------------------
+
+[2023-01-11T22:26:10.015Z] : [success]: Robot saved successfully
+

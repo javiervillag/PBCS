@@ -1,0 +1,92 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 17/1/2023 11:54:19
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 17/1/2023 12:40:27
+  ==========================================
+  
+
+[2023-01-17T18:41:18.386Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:44:48.539Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:56:01.106Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:56:01.527Z] : [success]: Bot started
+
+[2023-01-17T18:56:01.532Z] : [info]: Robot start
+
+[2023-01-17T18:56:03.676Z] : [error]: estados_cuenta is not defined
+
+[2023-01-17T18:56:03.682Z] : [info]: Total execution time: 2s 144ms
+
+[2023-01-17T18:56:03.698Z] : [info]: ---------------------------------------------
+
+[2023-01-17T18:56:27.070Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:56:27.396Z] : [success]: Bot started
+
+[2023-01-17T18:56:27.400Z] : [info]: Robot start
+
+[2023-01-17T18:56:29.516Z] : [error]: Unexpected token ')'
+
+[2023-01-17T18:56:29.521Z] : [info]: Total execution time: 2s 116ms
+
+[2023-01-17T18:56:29.526Z] : [info]: ---------------------------------------------
+
+[2023-01-17T18:56:47.110Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:56:47.546Z] : [success]: Bot started
+
+[2023-01-17T18:56:47.550Z] : [info]: Robot start
+
+[2023-01-17T18:56:49.651Z] : [success]: Bot finished successfully, total execution time: 2s 100ms
+
+[2023-01-17T18:56:49.656Z] : [info]: ---------------------------------------------
+
+[2023-01-17T18:57:08.299Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:57:08.606Z] : [success]: Bot started
+
+[2023-01-17T18:57:08.610Z] : [info]: Robot start
+
+[2023-01-17T18:57:10.749Z] : [success]: Bot finished successfully, total execution time: 2s 138ms
+
+[2023-01-17T18:57:10.754Z] : [info]: ---------------------------------------------
+
+[2023-01-17T18:57:15.190Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:57:15.568Z] : [success]: Bot started
+
+[2023-01-17T18:57:15.571Z] : [info]: Robot start
+
+[2023-01-17T18:57:17.668Z] : [success]: Bot finished successfully, total execution time: 2s 96ms
+
+[2023-01-17T18:57:17.672Z] : [info]: ---------------------------------------------
+
+[2023-01-17T18:58:18.799Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:58:19.212Z] : [success]: Bot started
+
+[2023-01-17T18:58:19.217Z] : [info]: Robot start
+
+[2023-01-17T18:58:21.374Z] : [success]: Bot finished successfully, total execution time: 2s 157ms
+
+[2023-01-17T18:58:21.379Z] : [info]: ---------------------------------------------
+
+[2023-01-17T18:58:45.639Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:58:45.964Z] : [success]: Bot started
+
+[2023-01-17T18:58:45.969Z] : [info]: Robot start
+
+[2023-01-17T18:58:48.079Z] : [success]: Bot finished successfully, total execution time: 2s 109ms
+
+[2023-01-17T18:58:48.083Z] : [info]: ---------------------------------------------
+

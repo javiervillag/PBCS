@@ -1,0 +1,123 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 24/1/2023 15:38:09
+  ==========================================
+  
+
+[2023-01-24T21:38:14.410Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 24/1/2023 15:38:33
+  ==========================================
+  
+
+[2023-01-24T21:40:07.705Z] : [success]: Robot saved successfully
+
+[2023-01-24T21:40:08.107Z] : [info]: ---------------------------------------------
+
+[2023-01-24T21:40:08.111Z] : [success]: Bot started
+
+[2023-01-24T21:40:08.115Z] : [info]: Robot start
+
+[2023-01-24T21:41:30.739Z] : [success]: Robot saved successfully
+
+[2023-01-24T21:41:31.074Z] : [success]: Bot started
+
+[2023-01-24T21:41:31.089Z] : [info]: Robot start
+
+[2023-01-24T21:42:34.575Z] : [success]: Robot saved successfully
+
+[2023-01-24T21:42:34.752Z] : [success]: Bot started
+
+[2023-01-24T21:42:34.756Z] : [info]: Robot start
+
+[2023-01-24T21:44:22.599Z] : [success]: Robot saved successfully
+
+[2023-01-24T21:44:22.770Z] : [success]: Bot started
+
+[2023-01-24T21:44:22.773Z] : [info]: Robot start
+
+[2023-01-24T21:44:59.736Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-01-24T21:44:59.742Z] : [info]: Total execution time: 36s 963ms
+
+[2023-01-24T21:44:59.745Z] : [info]: ---------------------------------------------
+
+[2023-01-24T21:46:44.714Z] : [success]: Robot saved successfully
+
+[2023-01-24T21:46:45.095Z] : [success]: Bot started
+
+[2023-01-24T21:46:45.099Z] : [info]: Robot start
+
+[2023-01-24T21:46:55.292Z] : [success]: Bot finished successfully, total execution time: 10s 192ms
+
+[2023-01-24T21:46:55.308Z] : [info]: ---------------------------------------------
+
+[2023-01-24T21:51:31.350Z] : [success]: Robot saved successfully
+
+[2023-01-24T21:51:47.855Z] : [success]: Robot saved successfully
+
+[2023-01-24T21:51:47.998Z] : [success]: Bot started
+
+[2023-01-24T21:51:48.002Z] : [info]: Robot start
+
+[2023-01-24T21:52:50.245Z] : [success]: Robot saved successfully
+
+[2023-01-24T21:52:50.645Z] : [success]: Bot started
+
+[2023-01-24T21:52:50.649Z] : [info]: Robot start
+
+[2023-01-24T21:53:00.840Z] : [success]: Bot finished successfully, total execution time: 10s 190ms
+
+[2023-01-24T21:53:00.844Z] : [info]: ---------------------------------------------
+
+[2023-01-24T21:53:24.111Z] : [success]: Bot started
+
+[2023-01-24T21:53:24.115Z] : [info]: Robot start
+
+[2023-01-24T21:53:32.278Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-01-24T21:53:32.285Z] : [info]: Total execution time: 8s 163ms
+
+[2023-01-24T21:53:32.290Z] : [info]: ---------------------------------------------
+
+[2023-01-24T21:53:37.395Z] : [success]: Bot started
+
+[2023-01-24T21:53:37.399Z] : [info]: Robot start
+
+[2023-01-24T21:53:47.554Z] : [success]: Bot finished successfully, total execution time: 10s 153ms
+
+[2023-01-24T21:53:47.558Z] : [info]: ---------------------------------------------
+
+[2023-01-24T21:54:34.750Z] : [success]: Bot started
+
+[2023-01-24T21:54:34.755Z] : [info]: Robot start
+
+[2023-01-24T21:54:45.956Z] : [success]: Bot finished successfully, total execution time: 11s 200ms
+
+[2023-01-24T21:54:45.961Z] : [info]: ---------------------------------------------
+
+[2023-01-24T21:59:14.531Z] : [success]: Robot saved successfully
+
+[2023-01-24T21:59:44.024Z] : [success]: Robot saved successfully
+
+[2023-01-24T21:59:44.169Z] : [success]: Bot started
+
+[2023-01-24T21:59:44.172Z] : [info]: Robot start
+
+[2023-01-24T22:00:15.701Z] : [success]: Bot finished successfully, total execution time: 31s 528ms
+
+[2023-01-24T22:00:15.707Z] : [info]: ---------------------------------------------
+
+[2023-01-24T22:00:29.094Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 24/1/2023 16:05:26
+  ==========================================
+  
+

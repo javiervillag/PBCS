@@ -1,0 +1,108 @@
+[2023-01-10T16:04:22.475Z] : [error]: Script Stopped.
+
+[2023-01-10T16:04:22.484Z] : [warn]: Total execution time: 16s 662ms
+
+[2023-01-10T16:04:22.489Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 10:04:22
+  ==========================================
+  
+
+[2023-01-10T16:05:53.146Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:37:55.045Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-01-10T16:37:55.050Z] : [error]: Total execution time: 2s 606ms
+
+[2023-01-10T16:37:55.065Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 10:37:55
+  ==========================================
+  
+
+[2023-01-10T16:37:56.816Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 10:39:57
+  ==========================================
+  
+
+[2023-01-10T16:42:27.825Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 10:46:48
+  ==========================================
+  
+
+[2023-01-10T16:50:30.527Z] : [error]: Script Stopped.
+
+[2023-01-10T16:50:30.533Z] : [warn]: Total execution time: 17s 861ms
+
+[2023-01-10T16:50:30.537Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 10:50:30
+  ==========================================
+  
+
+[2023-01-10T16:55:00.220Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:55:48.852Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:55:56.507Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:56:30.060Z] : [error]: Script Stopped.
+
+[2023-01-10T16:56:30.065Z] : [warn]: Total execution time: 16s 426ms
+
+[2023-01-10T16:56:30.069Z] : [info]: ---------------------------------------------
+
+[2023-01-10T16:56:48.406Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:57:25.486Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2023-01-10T16:57:25.492Z] : [error]: Total execution time: 17s 398ms
+
+[2023-01-10T16:57:25.496Z] : [info]: ---------------------------------------------
+
+[2023-01-10T16:58:15.070Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:58:43.883Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2023-01-10T16:58:43.889Z] : [error]: Total execution time: 17s 373ms
+
+[2023-01-10T16:58:43.893Z] : [info]: ---------------------------------------------
+
+[2023-01-10T16:58:57.408Z] : [success]: Robot saved successfully
+
+[2023-01-10T16:59:24.535Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2023-01-10T16:59:24.540Z] : [error]: Total execution time: 18s 471ms
+
+[2023-01-10T16:59:24.544Z] : [info]: ---------------------------------------------
+
+[2023-01-10T17:00:06.151Z] : [success]: Robot saved successfully
+
+[2023-01-10T17:02:13.823Z] : [success]: Robot saved successfully
+
+[2023-01-10T17:04:32.399Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 16:50:11
+  ==========================================
+  
+

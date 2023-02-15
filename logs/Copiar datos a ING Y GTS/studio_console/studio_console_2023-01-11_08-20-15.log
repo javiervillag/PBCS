@@ -1,0 +1,92 @@
+[2023-01-11T17:47:08.348Z] : [success]: Robot saved successfully
+
+[2023-01-11T17:47:08.630Z] : [success]: Bot started
+
+[2023-01-11T17:47:08.634Z] : [info]: Robot start
+
+[2023-01-11T17:47:09.728Z] : [success]: Bot finished successfully, total execution time: 1s 93ms
+
+[2023-01-11T17:47:09.745Z] : [info]: ---------------------------------------------
+
+[2023-01-11T17:54:28.315Z] : [success]: Robot saved successfully
+
+[2023-01-11T17:55:26.462Z] : [success]: Robot saved successfully
+
+[2023-01-11T17:55:26.733Z] : [success]: Bot started
+
+[2023-01-11T17:55:26.737Z] : [info]: Robot start
+
+[2023-01-11T17:55:28.842Z] : [error]: Selectors: Unfortunately, the Excel sheet name you're searching for is either invalid or does not exist. Check the sheet name exists and it is well written in Studion Pro and/or validate the characters formatting is correct.
+
+[2023-01-11T17:55:28.852Z] : [error]: Total execution time: 2s 105ms
+
+[2023-01-11T17:55:28.855Z] : [info]: ---------------------------------------------
+
+[2023-01-11T17:57:46.575Z] : [success]: Robot saved successfully
+
+[2023-01-11T17:57:46.849Z] : [success]: Bot started
+
+[2023-01-11T17:57:46.855Z] : [info]: Robot start
+
+[2023-01-11T17:57:47.966Z] : [success]: Bot finished successfully, total execution time: 1s 112ms
+
+[2023-01-11T17:57:47.971Z] : [info]: ---------------------------------------------
+
+[2023-01-11T17:58:35.091Z] : [success]: Robot saved successfully
+
+[2023-01-11T17:58:35.389Z] : [success]: Bot started
+
+[2023-01-11T17:58:35.394Z] : [info]: Robot start
+
+[2023-01-11T17:58:38.554Z] : [success]: Bot finished successfully, total execution time: 3s 160ms
+
+[2023-01-11T17:58:38.559Z] : [info]: ---------------------------------------------
+
+[2023-01-11T18:01:17.179Z] : [success]: Robot saved successfully
+
+[2023-01-11T18:01:17.506Z] : [success]: Bot started
+
+[2023-01-11T18:01:17.510Z] : [info]: Robot start
+
+[2023-01-11T18:01:18.653Z] : [error]: Unexpected token '('
+
+[2023-01-11T18:01:18.684Z] : [error]: Total execution time: 1s 142ms
+
+[2023-01-11T18:01:18.688Z] : [info]: ---------------------------------------------
+
+[2023-01-11T18:01:49.876Z] : [success]: Robot saved successfully
+
+[2023-01-11T18:01:50.195Z] : [success]: Bot started
+
+[2023-01-11T18:01:50.200Z] : [info]: Robot start
+
+[2023-01-11T18:01:51.317Z] : [success]: Bot finished successfully, total execution time: 1s 117ms
+
+[2023-01-11T18:01:51.322Z] : [info]: ---------------------------------------------
+
+[2023-01-11T18:02:21.320Z] : [success]: Robot saved successfully
+
+[2023-01-11T18:03:54.474Z] : [success]: Robot saved successfully
+
+[2023-01-11T18:03:54.752Z] : [success]: Bot started
+
+[2023-01-11T18:03:54.757Z] : [info]: Robot start
+
+[2023-01-11T18:03:55.871Z] : [error]: ubicacion_IngYgsts_anterior is not defined
+
+[2023-01-11T18:03:55.877Z] : [error]: Total execution time: 1s 114ms
+
+[2023-01-11T18:03:55.881Z] : [info]: ---------------------------------------------
+
+[2023-01-11T18:04:14.922Z] : [success]: Robot saved successfully
+
+[2023-01-11T18:04:15.220Z] : [success]: Bot started
+
+[2023-01-11T18:04:15.224Z] : [info]: Robot start
+
+[2023-01-11T18:04:18.344Z] : [success]: Bot finished successfully, total execution time: 3s 119ms
+
+[2023-01-11T18:04:18.348Z] : [info]: ---------------------------------------------
+
+[2023-01-11T18:07:04.104Z] : [success]: Robot saved successfully
+

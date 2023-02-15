@@ -1,0 +1,57 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 12/1/2023 11:42:43
+  ==========================================
+  
+
+[2023-01-12T17:43:04.119Z] : [success]: Robot saved successfully
+
+[2023-01-12T17:43:04.399Z] : [success]: Bot started
+
+[2023-01-12T17:43:04.405Z] : [info]: Robot start
+
+[2023-01-12T17:45:33.027Z] : [error]: Script Stopped.
+
+[2023-01-12T17:45:33.035Z] : [info]: Total execution time: 2m 28s 621ms
+
+[2023-01-12T17:45:33.039Z] : [info]: ---------------------------------------------
+
+[2023-01-12T17:45:46.492Z] : [success]: Robot saved successfully
+
+[2023-01-12T17:45:46.819Z] : [success]: Bot started
+
+[2023-01-12T17:45:46.825Z] : [info]: Robot start
+
+[2023-01-12T17:46:26.329Z] : [error]: Selectors: ENOENT: no such file or directory, mkdir 'G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT'
+
+[2023-01-12T17:46:26.335Z] : [info]: Total execution time: 39s 503ms
+
+[2023-01-12T17:46:26.339Z] : [info]: ---------------------------------------------
+
+[2023-01-12T17:46:50.374Z] : [info]: ---------------------------------------------
+
+[2023-01-12T17:46:50.378Z] : [success]: Bot started
+
+[2023-01-12T17:46:50.383Z] : [info]: Robot start
+
+[2023-01-12T17:46:52.458Z] : [error]: Selectors: ENOENT: no such file or directory, mkdir 'G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT'
+
+[2023-01-12T17:46:52.463Z] : [info]: Total execution time: 2s 75ms
+
+[2023-01-12T17:46:52.466Z] : [info]: ---------------------------------------------
+
+[2023-01-12T17:47:33.716Z] : [success]: Robot saved successfully
+
+[2023-01-12T17:47:39.395Z] : [info]: ---------------------------------------------
+
+[2023-01-12T17:47:39.399Z] : [success]: Bot started
+
+[2023-01-12T17:47:39.403Z] : [info]: Robot start
+
+[2023-01-12T17:47:43.486Z] : [success]: Bot finished successfully, total execution time: 4s 83ms
+
+[2023-01-12T17:47:43.492Z] : [info]: ---------------------------------------------
+
+[2023-01-12T17:48:23.175Z] : [success]: Robot saved successfully
+

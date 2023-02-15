@@ -1,0 +1,66 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 17/1/2023 12:21:36
+  ==========================================
+  
+
+[2023-01-17T18:24:02.855Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:24:03.272Z] : [success]: Bot started
+
+[2023-01-17T18:24:03.276Z] : [info]: Robot start
+
+[2023-01-17T18:24:12.553Z] : [success]: Bot finished successfully, total execution time: 9s 276ms
+
+[2023-01-17T18:24:12.559Z] : [info]: ---------------------------------------------
+
+[2023-01-17T18:25:23.214Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:25:23.524Z] : [success]: Bot started
+
+[2023-01-17T18:25:23.530Z] : [info]: Robot start
+
+[2023-01-17T18:25:25.644Z] : [error]: "No file exists at: G:\\Mi unidad\\BOTGET\\5. PoC\\PANDOTEK\\3. Desarrollo\\Bot de Conciliacion de egresos e ingresos del SAT\\Mi unidadBOTGET\u0005. PoCPANDOTEK\u0003. DesarrolloEstado de cuentaESTADO DE CUENTA BANAMEX_NOV 2022.pdf"
+
+
+[2023-01-17T18:25:25.662Z] : [info]: Total execution time: 2s 113ms
+
+[2023-01-17T18:25:25.666Z] : [info]: ---------------------------------------------
+
+[2023-01-17T18:26:23.285Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:26:23.686Z] : [success]: Bot started
+
+[2023-01-17T18:26:23.691Z] : [info]: Robot start
+
+[2023-01-17T18:26:26.776Z] : [success]: Bot finished successfully, total execution time: 3s 84ms
+
+[2023-01-17T18:26:26.782Z] : [info]: ---------------------------------------------
+
+[2023-01-17T18:36:34.122Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:36:34.422Z] : [success]: Bot started
+
+[2023-01-17T18:36:34.427Z] : [info]: Robot start
+
+[2023-01-17T18:36:37.541Z] : [error]: Unexpected token ':'
+
+[2023-01-17T18:36:37.547Z] : [info]: Total execution time: 3s 113ms
+
+[2023-01-17T18:36:37.550Z] : [info]: ---------------------------------------------
+
+[2023-01-17T18:37:12.123Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:37:12.489Z] : [success]: Bot started
+
+[2023-01-17T18:37:12.494Z] : [info]: Robot start
+
+[2023-01-17T18:37:15.596Z] : [success]: Bot finished successfully, total execution time: 3s 101ms
+
+[2023-01-17T18:37:15.602Z] : [info]: ---------------------------------------------
+
+[2023-01-17T18:37:28.309Z] : [success]: Robot saved successfully
+
+[2023-01-17T18:37:32.109Z] : [success]: Robot saved successfully
+

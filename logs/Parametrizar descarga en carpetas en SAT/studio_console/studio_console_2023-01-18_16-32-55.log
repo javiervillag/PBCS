@@ -1,0 +1,217 @@
+[2023-01-18T22:33:33.831Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 18/1/2023 16:33:34
+  ==========================================
+  
+
+[2023-01-18T22:38:35.281Z] : [success]: Robot saved successfully
+
+[2023-01-18T22:38:35.734Z] : [info]: ---------------------------------------------
+
+[2023-01-18T22:38:35.739Z] : [success]: Bot started
+
+[2023-01-18T22:38:35.742Z] : [info]: Robot start
+
+[2023-01-18T22:38:37.631Z] : [info]: //*[text()='A0FDD6AB-FBA8-40E9-AB80-B3ACED0FBA22']/../*[1]/div/span
+
+[2023-01-18T22:38:38.250Z] : [success]: Bot finished successfully, total execution time: 2s 506ms
+
+[2023-01-18T22:38:38.254Z] : [info]: ---------------------------------------------
+
+[2023-01-18T22:40:12.015Z] : [success]: Robot saved successfully
+
+[2023-01-18T22:40:12.492Z] : [success]: Bot started
+
+[2023-01-18T22:40:12.497Z] : [info]: Robot start
+
+[2023-01-18T22:40:21.730Z] : [success]: Bot finished successfully, total execution time: 9s 232ms
+
+[2023-01-18T22:40:21.734Z] : [info]: ---------------------------------------------
+
+[2023-01-18T22:43:51.062Z] : [success]: Robot saved successfully
+
+[2023-01-18T22:43:51.469Z] : [success]: Bot started
+
+[2023-01-18T22:43:51.476Z] : [info]: Robot start
+
+[2023-01-18T22:43:53.571Z] : [success]: Bot finished successfully, total execution time: 2s 94ms
+
+[2023-01-18T22:43:53.576Z] : [info]: ---------------------------------------------
+
+[2023-01-18T22:47:39.992Z] : [success]: Robot saved successfully
+
+[2023-01-18T22:47:40.372Z] : [success]: Bot started
+
+[2023-01-18T22:47:40.376Z] : [info]: Robot start
+
+[2023-01-18T22:47:42.471Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2023-01-18T22:47:42.477Z] : [info]: Total execution time: 2s 95ms
+
+[2023-01-18T22:47:42.481Z] : [info]: ---------------------------------------------
+
+[2023-01-18T22:48:04.584Z] : [success]: Robot saved successfully
+
+[2023-01-18T22:48:04.989Z] : [success]: Bot started
+
+[2023-01-18T22:48:04.992Z] : [info]: Robot start
+
+[2023-01-18T22:48:07.094Z] : [success]: Bot finished successfully, total execution time: 2s 101ms
+
+[2023-01-18T22:48:07.099Z] : [info]: ---------------------------------------------
+
+[2023-01-18T22:48:42.639Z] : [success]: Robot saved successfully
+
+[2023-01-18T22:48:43.013Z] : [success]: Bot started
+
+[2023-01-18T22:48:43.018Z] : [info]: Robot start
+
+[2023-01-18T22:48:45.133Z] : [error]: directory doesn't exist
+
+[2023-01-18T22:48:45.139Z] : [info]: Total execution time: 2s 115ms
+
+[2023-01-18T22:48:45.143Z] : [info]: ---------------------------------------------
+
+[2023-01-18T22:49:37.563Z] : [success]: Robot saved successfully
+
+[2023-01-18T22:49:37.911Z] : [success]: Bot started
+
+[2023-01-18T22:49:37.915Z] : [info]: Robot start
+
+[2023-01-18T22:49:40.014Z] : [success]: Bot finished successfully, total execution time: 2s 98ms
+
+[2023-01-18T22:49:40.019Z] : [info]: ---------------------------------------------
+
+[2023-01-18T22:53:28.442Z] : [success]: Robot saved successfully
+
+[2023-01-18T22:53:28.835Z] : [success]: Bot started
+
+[2023-01-18T22:53:28.879Z] : [info]: Robot start
+
+[2023-01-18T22:53:30.994Z] : [success]: Bot finished successfully, total execution time: 2s 114ms
+
+[2023-01-18T22:53:30.998Z] : [info]: ---------------------------------------------
+
+[2023-01-18T22:53:58.506Z] : [success]: Robot saved successfully
+
+[2023-01-18T22:53:58.967Z] : [success]: Bot started
+
+[2023-01-18T22:53:58.972Z] : [info]: Robot start
+
+[2023-01-18T22:54:01.095Z] : [success]: Bot finished successfully, total execution time: 2s 122ms
+
+[2023-01-18T22:54:01.102Z] : [info]: ---------------------------------------------
+
+[2023-01-18T23:00:08.879Z] : [success]: Robot saved successfully
+
+[2023-01-18T23:00:09.272Z] : [success]: Bot started
+
+[2023-01-18T23:00:09.277Z] : [info]: Robot start
+
+[2023-01-18T23:00:12.367Z] : [error]: Cannot read properties of null (reading 'filter')
+
+[2023-01-18T23:00:12.373Z] : [info]: Total execution time: 3s 89ms
+
+[2023-01-18T23:00:12.377Z] : [info]: ---------------------------------------------
+
+[2023-01-18T23:01:38.961Z] : [success]: Robot saved successfully
+
+[2023-01-18T23:01:39.367Z] : [success]: Bot started
+
+[2023-01-18T23:01:39.372Z] : [info]: Robot start
+
+[2023-01-18T23:01:41.210Z] : [info]: G://Mi unidad//BOTGET//5. PoC//PANDOTEK//3. Desarrollo//CONTABILIDAD//DANIEL ROBERTO ALVAREZ MARTINEZ//EJERCICIO 2022//INGRESOS//10 OCT
+
+[2023-01-18T23:01:41.452Z] : [success]: Bot finished successfully, total execution time: 2s 79ms
+
+[2023-01-18T23:01:41.456Z] : [info]: ---------------------------------------------
+
+[2023-01-18T23:02:30.405Z] : [success]: Robot saved successfully
+
+[2023-01-18T23:02:30.854Z] : [success]: Bot started
+
+[2023-01-18T23:02:30.861Z] : [info]: Robot start
+
+[2023-01-18T23:02:32.635Z] : [info]: G://Mi unidad//BOTGET//5. PoC//PANDOTEK//3. Desarrollo//CONTABILIDAD//DANIEL ROBERTO ALVAREZ MARTINEZ//EJERCICIO 2022//INGRESOS//10 OCT
+
+[2023-01-18T23:02:32.950Z] : [success]: Bot finished successfully, total execution time: 2s 88ms
+
+[2023-01-18T23:02:32.954Z] : [info]: ---------------------------------------------
+
+[2023-01-18T23:03:11.370Z] : [success]: Robot saved successfully
+
+[2023-01-18T23:03:11.763Z] : [success]: Bot started
+
+[2023-01-18T23:03:11.767Z] : [info]: Robot start
+
+[2023-01-18T23:03:15.322Z] : [success]: Bot finished successfully, total execution time: 3s 555ms
+
+[2023-01-18T23:03:15.327Z] : [info]: ---------------------------------------------
+
+[2023-01-18T23:03:28.735Z] : [success]: Robot saved successfully
+
+[2023-01-18T23:03:29.166Z] : [success]: Bot started
+
+[2023-01-18T23:03:29.171Z] : [info]: Robot start
+
+[2023-01-18T23:03:44.541Z] : [error]: Cannot read properties of null (reading 'filter')
+
+[2023-01-18T23:03:44.547Z] : [info]: Total execution time: 15s 370ms
+
+[2023-01-18T23:03:44.550Z] : [info]: ---------------------------------------------
+
+[2023-01-18T23:04:00.737Z] : [success]: Robot saved successfully
+
+[2023-01-18T23:04:01.157Z] : [success]: Bot started
+
+[2023-01-18T23:04:01.162Z] : [info]: Robot start
+
+[2023-01-18T23:04:15.553Z] : [error]: Script Stopped.
+
+[2023-01-18T23:04:15.559Z] : [info]: Total execution time: 14s 391ms
+
+[2023-01-18T23:04:15.562Z] : [info]: ---------------------------------------------
+
+[2023-01-18T23:05:04.919Z] : [success]: Robot saved successfully
+
+[2023-01-18T23:05:05.295Z] : [success]: Bot started
+
+[2023-01-18T23:05:05.298Z] : [info]: Robot start
+
+[2023-01-18T23:05:07.395Z] : [success]: Bot finished successfully, total execution time: 2s 96ms
+
+[2023-01-18T23:05:07.399Z] : [info]: ---------------------------------------------
+
+[2023-01-18T23:07:21.132Z] : [success]: Robot saved successfully
+
+[2023-01-18T23:07:21.536Z] : [success]: Bot started
+
+[2023-01-18T23:07:21.540Z] : [info]: Robot start
+
+[2023-01-18T23:07:23.686Z] : [success]: Bot finished successfully, total execution time: 2s 145ms
+
+[2023-01-18T23:07:23.692Z] : [info]: ---------------------------------------------
+
+[2023-01-18T23:09:44.595Z] : [success]: Robot saved successfully
+
+[2023-01-18T23:09:44.994Z] : [success]: Bot started
+
+[2023-01-18T23:09:44.999Z] : [info]: Robot start
+
+[2023-01-18T23:10:05.337Z] : [success]: Bot finished successfully, total execution time: 20s 337ms
+
+[2023-01-18T23:10:05.357Z] : [info]: ---------------------------------------------
+
+[2023-01-18T23:10:35.402Z] : [success]: Bot started
+
+[2023-01-18T23:10:35.406Z] : [info]: Robot start
+
+[2023-01-18T23:10:45.593Z] : [success]: Bot finished successfully, total execution time: 10s 186ms
+
+[2023-01-18T23:10:45.598Z] : [info]: ---------------------------------------------
+
+[2023-01-18T23:13:25.683Z] : [success]: Robot saved successfully
+

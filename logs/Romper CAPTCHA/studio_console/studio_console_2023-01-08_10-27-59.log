@@ -1,0 +1,170 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 8/1/2023 10:29:18
+  ==========================================
+  
+
+[2023-01-08T16:29:29.973Z] : [success]: Robot saved successfully
+
+[2023-01-08T16:29:30.163Z] : [info]: ---------------------------------------------
+
+[2023-01-08T16:29:30.167Z] : [success]: Bot started
+
+[2023-01-08T16:29:30.170Z] : [info]: Robot start
+
+[2023-01-08T16:29:32.313Z] : [error]: Service Unavailable
+
+[2023-01-08T16:29:32.319Z] : [error]: Total execution time: 2s 143ms
+
+[2023-01-08T16:29:32.323Z] : [info]: ---------------------------------------------
+
+[2023-01-08T16:30:49.233Z] : [success]: Robot saved successfully
+
+[2023-01-08T16:30:49.408Z] : [success]: Bot started
+
+[2023-01-08T16:30:49.412Z] : [info]: Robot start
+
+[2023-01-08T16:30:51.482Z] : [error]: Service Unavailable
+
+[2023-01-08T16:30:51.488Z] : [error]: Total execution time: 2s 69ms
+
+[2023-01-08T16:30:51.492Z] : [info]: ---------------------------------------------
+
+[2023-01-08T16:35:35.236Z] : [success]: Bot started
+
+[2023-01-08T16:35:35.240Z] : [info]: Robot start
+
+[2023-01-08T16:35:39.348Z] : [error]: Bad Gateway
+
+[2023-01-08T16:35:39.354Z] : [error]: Total execution time: 4s 107ms
+
+[2023-01-08T16:35:39.357Z] : [info]: ---------------------------------------------
+
+[2023-01-08T16:38:22.391Z] : [success]: Robot saved successfully
+
+[2023-01-08T16:38:22.554Z] : [success]: Bot started
+
+[2023-01-08T16:38:22.559Z] : [info]: Robot start
+
+[2023-01-08T16:38:23.620Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2023-01-08T16:38:23.625Z] : [error]: Total execution time: 1s 61ms
+
+[2023-01-08T16:38:23.629Z] : [info]: ---------------------------------------------
+
+[2023-01-08T16:43:36.459Z] : [success]: Robot saved successfully
+
+[2023-01-08T16:43:36.647Z] : [success]: Bot started
+
+[2023-01-08T16:43:36.652Z] : [info]: Robot start
+
+[2023-01-08T16:43:37.739Z] : [error]: Unable to execute this activity because you do not have a Python interpreter installed on the computer
+
+[2023-01-08T16:43:37.745Z] : [error]: Total execution time: 1s 87ms
+
+[2023-01-08T16:43:37.749Z] : [info]: ---------------------------------------------
+
+[2023-01-08T16:43:52.046Z] : [success]: Robot saved successfully
+
+[2023-01-08T16:43:52.253Z] : [success]: Bot started
+
+[2023-01-08T16:43:52.258Z] : [info]: Robot start
+
+[2023-01-08T16:43:53.331Z] : [success]: Bot finished successfully, total execution time: 1s 72ms
+
+[2023-01-08T16:43:53.336Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:05:19.008Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:05:19.167Z] : [success]: Bot started
+
+[2023-01-08T17:05:19.170Z] : [info]: Robot start
+
+[2023-01-08T17:05:20.242Z] : [success]: Bot finished successfully, total execution time: 1s 71ms
+
+[2023-01-08T17:05:20.246Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:07:10.942Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:07:11.142Z] : [success]: Bot started
+
+[2023-01-08T17:07:11.148Z] : [info]: Robot start
+
+[2023-01-08T17:07:12.225Z] : [success]: Bot finished successfully, total execution time: 1s 76ms
+
+[2023-01-08T17:07:12.229Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:07:42.029Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:07:42.170Z] : [success]: Bot started
+
+[2023-01-08T17:07:42.173Z] : [info]: Robot start
+
+[2023-01-08T17:07:43.233Z] : [success]: Bot finished successfully, total execution time: 1s 59ms
+
+[2023-01-08T17:07:43.239Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:08:20.342Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:08:20.477Z] : [success]: Bot started
+
+[2023-01-08T17:08:20.506Z] : [info]: Robot start
+
+[2023-01-08T17:08:30.677Z] : [success]: Bot finished successfully, total execution time: 10s 170ms
+
+[2023-01-08T17:08:30.682Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:09:03.921Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:09:04.107Z] : [success]: Bot started
+
+[2023-01-08T17:09:04.113Z] : [info]: Robot start
+
+[2023-01-08T17:09:13.255Z] : [success]: Bot finished successfully, total execution time: 9s 141ms
+
+[2023-01-08T17:09:13.260Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:09:22.841Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:23:23.621Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 8/1/2023 11:23:36
+  ==========================================
+  
+
+[2023-01-08T17:24:04.846Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:29:05.447Z] : [error]: Programming activity: ubicacion_python_venv is not defined
+
+[2023-01-08T17:29:05.465Z] : [error]: Total execution time: 16s 686ms
+
+[2023-01-08T17:29:05.470Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 8/1/2023 11:29:05
+  ==========================================
+  
+
+[2023-01-09T21:47:41.141Z] : [error]: Bad Gateway
+
+[2023-01-09T21:47:41.148Z] : [error]: Total execution time: 13s 576ms
+
+[2023-01-09T21:47:41.152Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 9/1/2023 15:47:41
+  ==========================================
+  
+
+[2023-01-09T21:48:07.369Z] : [success]: Robot saved successfully
+
+[2023-01-09T23:27:53.966Z] : [success]: Robot saved successfully
+

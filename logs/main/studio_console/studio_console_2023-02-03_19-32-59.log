@@ -1,0 +1,23 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 3/2/2023 19:33:09
+  ==========================================
+  
+
+[2023-02-04T02:33:17.499Z] : [success]: Robot saved successfully
+
+[2023-02-04T02:33:18.338Z] : [error]: Maximum call stack size exceeded
+
+[2023-02-04T02:33:18.348Z] : [info]: ---------------------------------------------
+
+[2023-02-04T02:33:19.577Z] : [error]: Maximum call stack size exceeded
+
+[2023-02-04T02:33:33.678Z] : [success]: Robot saved successfully
+
+[2023-02-04T02:33:34.219Z] : [error]: Maximum call stack size exceeded
+
+[2023-02-04T02:33:34.228Z] : [info]: ---------------------------------------------
+
+[2023-02-04T02:33:50.368Z] : [error]: Cannot read properties of null (reading 'type')
+

@@ -1,0 +1,39 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 13/2/2023, 12:38:52
+  ==========================================
+  
+
+[2023-02-13T18:38:59.413Z] : [success]: Robot saved successfully
+
+[2023-02-13T18:38:59.679Z] : [info]: ---------------------------------------------
+
+[2023-02-13T18:38:59.691Z] : [success]: Bot started
+
+[2023-02-13T18:38:59.707Z] : [info]: Robot start
+
+[2023-02-13T18:39:35.759Z] : [success]: Bot finished successfully, total execution time: 36s 50ms
+
+[2023-02-13T18:39:35.769Z] : [info]: ---------------------------------------------
+
+[2023-02-13T18:45:51.402Z] : [success]: Robot saved successfully
+
+[2023-02-13T18:45:51.870Z] : [success]: Bot started
+
+[2023-02-13T18:45:51.882Z] : [info]: Robot start
+
+[2023-02-13T18:46:33.806Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-02-13T18:46:33.817Z] : [info]: Total execution time: 41s 923ms
+
+[2023-02-13T18:46:33.834Z] : [info]: ---------------------------------------------
+
+[2023-02-13T18:55:48.447Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-13T18:55:48.463Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-13T18:55:48.491Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-13T18:55:48.511Z] : [error]: Cannot read properties of null (reading 'type')
+

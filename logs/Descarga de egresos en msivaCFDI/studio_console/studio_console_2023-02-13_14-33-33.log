@@ -1,0 +1,9 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 13/2/2023, 14:38:53
+  ==========================================
+  
+
+[2023-02-13T23:37:19.783Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+

@@ -1,0 +1,25 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 11/1/2023 17:55:51
+  ==========================================
+  
+
+[2023-01-12T00:01:53.722Z] : [success]: Robot saved successfully
+
+[2023-01-12T00:01:54.005Z] : [info]: ---------------------------------------------
+
+[2023-01-12T00:01:54.009Z] : [success]: Bot started
+
+[2023-01-12T00:01:54.043Z] : [info]: Robot start
+
+[2023-01-12T00:05:15.318Z] : [error]: Script Stopped.
+
+[2023-01-12T00:05:15.325Z] : [info]: ---------------------------------------------
+
+[2023-01-12T00:07:19.292Z] : [success]: Robot saved successfully
+
+[2023-01-12T00:07:21.619Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-12T00:07:21.627Z] : [error]: Cannot read properties of null (reading 'type')
+

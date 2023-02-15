@@ -1,0 +1,27 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 14/2/2023, 15:46:02
+  ==========================================
+  
+
+[2023-02-14T22:00:48.188Z] : [info]: 10
+
+[2023-02-14T22:08:23.693Z] : [error]: Script Stopped.
+
+[2023-02-14T22:08:23.696Z] : [info]: Total execution time: 20m 27s 737ms
+
+[2023-02-14T22:08:23.700Z] : [info]: ---------------------------------------------
+
+[2023-02-14T22:08:28.156Z] : [success]: Bot started
+
+[2023-02-14T22:08:28.157Z] : [info]: Robot start
+
+[2023-02-14T22:08:32.858Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-02-14T22:08:38.018Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-14T22:08:40.265Z] : [success]: Bot finished successfully, total execution time: 12s 106ms
+
+[2023-02-14T22:08:40.267Z] : [info]: ---------------------------------------------
+

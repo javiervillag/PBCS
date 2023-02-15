@@ -1,0 +1,37 @@
+[2023-01-10T14:33:54.178Z] : [success]: Robot saved successfully
+
+[2023-01-10T14:35:55.897Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+[2023-01-10T14:35:56.211Z] : [error]: Selectors: Selector is empty
+
+[2023-01-10T14:35:56.216Z] : [error]: Total execution time: 22s 859ms
+
+[2023-01-10T14:35:56.219Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 08:35:56
+  ==========================================
+  
+
+[2023-01-10T14:36:14.695Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 08:44:03
+  ==========================================
+  
+
+[2023-01-10T14:47:41.091Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 08:50:48
+  ==========================================
+  
+
+[2023-01-10T14:51:41.423Z] : [success]: Robot saved successfully
+

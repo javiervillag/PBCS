@@ -1,0 +1,191 @@
+[2022-12-31T23:30:50.788Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 17:32:19
+  ==========================================
+  
+
+[2022-12-31T23:48:04.247Z] : [success]: Connection to our licenses server is restored
+
+[2022-12-31T23:48:04.470Z] : [success]: Robot saved successfully
+
+[2022-12-31T23:48:04.757Z] : [success]: Bot started
+
+[2022-12-31T23:48:04.761Z] : [info]: Robot start
+
+[2022-12-31T23:48:40.397Z] : [info]: C:\Users\botget\Downloads\SANTANDER 04 ABRIL 2022.xlxs : ok
+
+[2022-12-31T23:48:40.762Z] : [success]: Bot finished successfully, total execution time: 36s
+
+[2022-12-31T23:48:40.766Z] : [info]: ---------------------------------------------
+
+[2022-12-31T23:49:54.701Z] : [success]: Robot saved successfully
+
+[2022-12-31T23:49:55.122Z] : [success]: Bot started
+
+[2022-12-31T23:49:55.126Z] : [info]: Robot start
+
+[2022-12-31T23:50:30.910Z] : [error]: ENOENT: no such file or directory, stat 'C:\Users\botget\Downloads\SANTANDER 04 ABRIL 2022.xlxs'
+
+[2022-12-31T23:50:30.917Z] : [error]: Total execution time: 35s 783ms
+
+[2022-12-31T23:50:30.922Z] : [info]: ---------------------------------------------
+
+[2022-12-31T23:51:18.892Z] : [success]: Robot saved successfully
+
+[2022-12-31T23:51:33.233Z] : [success]: Bot started
+
+[2022-12-31T23:51:33.237Z] : [info]: Robot start
+
+[2022-12-31T23:52:07.970Z] : [error]: ENOENT: no such file or directory, stat 'C:\Users\botget\Descargas\SANTANDER 04 ABRIL 2022.xlxs'
+
+[2022-12-31T23:52:07.975Z] : [error]: Total execution time: 34s 733ms
+
+[2022-12-31T23:52:07.979Z] : [info]: ---------------------------------------------
+
+[2022-12-31T23:53:04.070Z] : [success]: Robot saved successfully
+
+[2022-12-31T23:53:20.382Z] : [success]: Bot started
+
+[2022-12-31T23:53:20.388Z] : [info]: Robot start
+
+[2022-12-31T23:54:00.262Z] : [error]: ENOENT: no such file or directory, stat 'C:\Users\botget\Descargas\SANTANDER 04 ABRIL 2022.xlxs'
+
+[2022-12-31T23:54:00.268Z] : [error]: Total execution time: 39s 873ms
+
+[2022-12-31T23:54:00.274Z] : [info]: ---------------------------------------------
+
+[2022-12-31T23:55:12.180Z] : [success]: Robot saved successfully
+
+[2022-12-31T23:55:12.446Z] : [success]: Bot started
+
+[2022-12-31T23:55:12.450Z] : [info]: Robot start
+
+[2022-12-31T23:55:52.283Z] : [success]: Bot finished successfully, total execution time: 39s 832ms
+
+[2022-12-31T23:55:52.303Z] : [info]: ---------------------------------------------
+
+[2022-12-31T23:59:19.881Z] : [success]: Robot saved successfully
+
+[2022-12-31T23:59:22.854Z] : [success]: Bot started
+
+[2022-12-31T23:59:22.858Z] : [info]: Robot start
+
+[2023-01-01T00:00:01.722Z] : [success]: Bot finished successfully, total execution time: 38s 863ms
+
+[2023-01-01T00:00:01.727Z] : [info]: ---------------------------------------------
+
+[2023-01-01T00:01:00.231Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:01:17.253Z] : [success]: Bot started
+
+[2023-01-01T00:01:17.257Z] : [info]: Robot start
+
+[2023-01-01T00:01:55.012Z] : [success]: Bot finished successfully, total execution time: 37s 753ms
+
+[2023-01-01T00:01:55.017Z] : [info]: ---------------------------------------------
+
+[2023-01-01T00:02:08.982Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:06:32.767Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 18:08:31
+  ==========================================
+  
+
+[2023-01-01T00:08:47.479Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 18:09:02
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 18:09:34
+  ==========================================
+  
+
+[2023-01-01T00:09:45.277Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:10:37.100Z] : [error]: Script Stopped.
+
+[2023-01-01T00:10:37.104Z] : [warn]: Total execution time: 19s 871ms
+
+[2023-01-01T00:10:37.108Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 18:10:37
+  ==========================================
+  
+
+[2023-01-01T00:11:20.371Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:12:01.985Z] : [error]: ENOENT: no such file or directory, stat 'C:\Users\botget\Descargas\SANTANDER 04 ABRIL 2022.xlsx'
+
+[2023-01-01T00:12:01.991Z] : [error]: Total execution time: 30s 669ms
+
+[2023-01-01T00:12:01.995Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 18:12:02
+  ==========================================
+  
+
+[2023-01-01T00:13:53.660Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 19:01:50
+  ==========================================
+  
+
+[2023-01-01T01:02:00.216Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 19:02:39
+  ==========================================
+  
+
+[2023-01-01T01:02:44.685Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 19:03:37
+  ==========================================
+  
+
+[2023-01-02T21:19:34.812Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 2/1/2023 15:21:14
+  ==========================================
+  
+
+[2023-01-02T21:22:23.987Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 2/1/2023 15:24:20
+  ==========================================
+  
+

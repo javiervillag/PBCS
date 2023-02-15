@@ -1,0 +1,19 @@
+[2023-01-16T22:04:37.194Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2023-01-16T22:04:37.203Z] : [info]: Total execution time: 39s 105ms
+
+[2023-01-16T22:04:37.206Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 16/1/2023 16:04:37
+  ==========================================
+  
+
+[2023-01-16T22:04:53.047Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:04:53.829Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-16T22:04:53.839Z] : [error]: Cannot read properties of null (reading 'type')
+

@@ -1,0 +1,235 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 8/1/2023 10:29:00
+  ==========================================
+  
+
+[2023-01-08T17:24:27.014Z] : [info]: Internet connection // error
+
+[2023-01-08T17:24:27.173Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:24:27.338Z] : [success]: Bot started
+
+[2023-01-08T17:24:27.343Z] : [info]: Robot start
+
+[2023-01-08T17:24:44.724Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-01-08T17:24:44.729Z] : [error]: Total execution time: 17s 380ms
+
+[2023-01-08T17:24:44.745Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:25:48.736Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:25:51.426Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-08T17:25:51.647Z] : [success]: Bot started
+
+[2023-01-08T17:25:51.651Z] : [info]: Robot start
+
+[2023-01-08T17:26:09.938Z] : [error]: Script Stopped.
+
+[2023-01-08T17:26:09.944Z] : [warn]: Total execution time: 18s 287ms
+
+[2023-01-08T17:26:09.948Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:26:42.570Z] : [success]: Bot started
+
+[2023-01-08T17:26:42.575Z] : [info]: Robot start
+
+[2023-01-08T17:27:08.119Z] : [success]: Bot finished successfully, total execution time: 25s 543ms
+
+[2023-01-08T17:27:08.125Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:27:22.182Z] : [success]: Bot started
+
+[2023-01-08T17:27:22.188Z] : [info]: Robot start
+
+[2023-01-08T17:27:35.516Z] : [error]: Script Stopped.
+
+[2023-01-08T17:27:35.522Z] : [warn]: Total execution time: 13s 329ms
+
+[2023-01-08T17:27:35.526Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:28:48.754Z] : [success]: Bot started
+
+[2023-01-08T17:28:48.761Z] : [info]: Robot start
+
+[2023-01-08T17:29:16.831Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:29:25.158Z] : [success]: Bot started
+
+[2023-01-08T17:29:25.204Z] : [info]: Robot start
+
+[2023-01-08T17:29:51.821Z] : [success]: Bot finished successfully, total execution time: 26s 616ms
+
+[2023-01-08T17:29:51.827Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:31:11.692Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:32:04.231Z] : [success]: Bot started
+
+[2023-01-08T17:32:04.236Z] : [info]: Robot start
+
+[2023-01-08T17:32:30.903Z] : [success]: Bot finished successfully, total execution time: 26s 666ms
+
+[2023-01-08T17:32:30.909Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:43:37.551Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:43:37.873Z] : [success]: Bot started
+
+[2023-01-08T17:43:37.877Z] : [info]: Robot start
+
+[2023-01-08T17:44:05.413Z] : [success]: Bot finished successfully, total execution time: 27s 535ms
+
+[2023-01-08T17:44:05.418Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:45:06.857Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:45:09.706Z] : [success]: Bot started
+
+[2023-01-08T17:45:09.710Z] : [info]: Robot start
+
+[2023-01-08T17:45:36.265Z] : [success]: Bot finished successfully, total execution time: 26s 554ms
+
+[2023-01-08T17:45:36.270Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:45:58.298Z] : [success]: Bot started
+
+[2023-01-08T17:45:58.306Z] : [info]: Robot start
+
+[2023-01-08T17:46:30.917Z] : [success]: Bot finished successfully, total execution time: 32s 610ms
+
+[2023-01-08T17:46:30.922Z] : [info]: ---------------------------------------------
+
+[2023-01-08T17:46:58.360Z] : [success]: Robot saved successfully
+
+[2023-01-08T17:47:05.957Z] : [success]: Bot started
+
+[2023-01-08T17:47:05.962Z] : [info]: Robot start
+
+[2023-01-08T17:47:34.581Z] : [success]: Bot finished successfully, total execution time: 28s 618ms
+
+[2023-01-08T17:47:34.586Z] : [info]: ---------------------------------------------
+
+[2023-01-09T15:28:15.580Z] : [info]: Internet connection // error
+
+[2023-01-09T15:28:22.063Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-09T15:58:26.512Z] : [info]: Internet connection // error
+
+[2023-01-09T15:58:37.446Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-09T16:09:26.687Z] : [info]: Internet connection // error
+
+[2023-01-09T16:09:28.691Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-09T16:13:00.778Z] : [info]: Internet connection // error
+
+[2023-01-09T16:13:15.565Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-09T16:20:33.788Z] : [info]: Internet connection // error
+
+[2023-01-09T16:20:35.871Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-09T19:27:31.853Z] : [warn]: There is a small amount of free memory (RAM) left, 90.47% of RAM is being used (14703 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-09T19:30:31.880Z] : [warn]: There is a small amount of free memory (RAM) left, 91.77% of RAM is being used (14915 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-09T19:33:31.899Z] : [warn]: There is a small amount of free memory (RAM) left, 93.68% of RAM is being used (15225 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-09T19:36:31.930Z] : [warn]: There is a small amount of free memory (RAM) left, 95.03% of RAM is being used (15445 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-09T19:44:17.465Z] : [success]: Robot saved successfully
+
+[2023-01-09T19:44:17.789Z] : [success]: Bot started
+
+[2023-01-09T19:44:17.793Z] : [info]: Robot start
+
+[2023-01-09T19:44:48.562Z] : [success]: Bot finished successfully, total execution time: 30s 768ms
+
+[2023-01-09T19:44:48.567Z] : [info]: ---------------------------------------------
+
+[2023-01-09T19:46:07.629Z] : [info]: Internet connection // error
+
+[2023-01-09T19:46:16.633Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-09T21:39:53.495Z] : [success]: Robot saved successfully
+
+[2023-01-09T21:40:05.136Z] : [success]: Bot started
+
+[2023-01-09T21:40:05.141Z] : [info]: Robot start
+
+[2023-01-09T21:40:39.869Z] : [success]: Bot finished successfully, total execution time: 34s 727ms
+
+[2023-01-09T21:40:39.873Z] : [info]: ---------------------------------------------
+
+[2023-01-09T21:41:00.031Z] : [success]: Robot saved successfully
+
+[2023-01-09T21:41:03.154Z] : [success]: Bot started
+
+[2023-01-09T21:41:03.159Z] : [info]: Robot start
+
+[2023-01-09T21:41:29.684Z] : [success]: Bot finished successfully, total execution time: 26s 524ms
+
+[2023-01-09T21:41:29.690Z] : [info]: ---------------------------------------------
+
+[2023-01-09T21:44:24.486Z] : [success]: Robot saved successfully
+
+[2023-01-09T21:44:24.812Z] : [success]: Bot started
+
+[2023-01-09T21:44:24.816Z] : [info]: Robot start
+
+[2023-01-09T21:45:08.643Z] : [success]: Bot finished successfully, total execution time: 43s 826ms
+
+[2023-01-09T21:45:08.647Z] : [info]: ---------------------------------------------
+
+[2023-01-09T21:46:34.017Z] : [success]: Robot saved successfully
+
+[2023-01-09T21:46:34.367Z] : [success]: Bot started
+
+[2023-01-09T21:46:34.371Z] : [info]: Robot start
+
+[2023-01-09T21:46:36.475Z] : [error]: rfc_cliente is not defined
+
+[2023-01-09T21:46:36.481Z] : [error]: Total execution time: 2s 104ms
+
+[2023-01-09T21:46:36.493Z] : [info]: ---------------------------------------------
+
+[2023-01-09T21:47:27.203Z] : [success]: Robot saved successfully
+
+[2023-01-09T21:47:27.561Z] : [success]: Bot started
+
+[2023-01-09T21:47:27.565Z] : [info]: Robot start
+
+[2023-01-09T21:48:47.262Z] : [success]: Robot saved successfully
+
+[2023-01-09T21:48:47.666Z] : [success]: Bot started
+
+[2023-01-09T21:48:47.670Z] : [info]: Robot start
+
+[2023-01-09T21:49:20.232Z] : [success]: Bot finished successfully, total execution time: 32s 561ms
+
+[2023-01-09T21:49:20.237Z] : [info]: ---------------------------------------------
+
+[2023-01-09T23:27:49.461Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 9/1/2023 17:44:31
+  ==========================================
+  
+
+[2023-01-09T23:44:57.759Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 9/1/2023 17:47:40
+  ==========================================
+  
+
+[2023-01-10T00:02:40.709Z] : [success]: Robot saved successfully
+

@@ -1,0 +1,482 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 12:33:14
+  ==========================================
+  
+
+[2023-01-10T18:43:18.367Z] : [success]: Robot saved successfully
+
+[2023-01-10T18:43:18.827Z] : [success]: Bot started
+
+[2023-01-10T18:43:18.831Z] : [info]: Robot start
+
+[2023-01-10T18:43:20.038Z] : [success]: Bot finished successfully, total execution time: 1s 206ms
+
+[2023-01-10T18:43:20.043Z] : [info]: ---------------------------------------------
+
+[2023-01-10T19:24:27.805Z] : [success]: Bot started
+
+[2023-01-10T19:24:27.810Z] : [info]: Robot start
+
+[2023-01-10T19:24:30.103Z] : [success]: Bot finished successfully, total execution time: 2s 292ms
+
+[2023-01-10T19:24:30.108Z] : [info]: ---------------------------------------------
+
+[2023-01-10T19:24:53.629Z] : [success]: Robot saved successfully
+
+[2023-01-10T19:24:54.486Z] : [success]: Bot started
+
+[2023-01-10T19:24:54.496Z] : [info]: Robot start
+
+[2023-01-10T19:24:55.792Z] : [success]: Bot finished successfully, total execution time: 1s 295ms
+
+[2023-01-10T19:24:55.797Z] : [info]: ---------------------------------------------
+
+[2023-01-10T20:38:57.351Z] : [success]: Robot saved successfully
+
+[2023-01-10T20:39:43.328Z] : [success]: Robot saved successfully
+
+[2023-01-10T21:59:19.108Z] : [warn]: There is a small amount of free memory (RAM) left, 90.14% of RAM is being used (14650 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:02:19.098Z] : [warn]: There is a small amount of free memory (RAM) left, 90.08% of RAM is being used (14639 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:06:49.166Z] : [warn]: There is a small amount of free memory (RAM) left, 90.13% of RAM is being used (14648 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:09:49.198Z] : [warn]: There is a small amount of free memory (RAM) left, 91.39% of RAM is being used (14853 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:12:49.214Z] : [warn]: There is a small amount of free memory (RAM) left, 95.11% of RAM is being used (15457 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:15:49.229Z] : [warn]: There is a small amount of free memory (RAM) left, 94.82% of RAM is being used (15410 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:18:49.236Z] : [warn]: There is a small amount of free memory (RAM) left, 96.44% of RAM is being used (15673 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:21:49.253Z] : [warn]: There is a small amount of free memory (RAM) left, 92.91% of RAM is being used (15100 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:24:49.276Z] : [warn]: There is a small amount of free memory (RAM) left, 93.98% of RAM is being used (15273 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:27:49.282Z] : [warn]: There is a small amount of free memory (RAM) left, 94.03% of RAM is being used (15281 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:30:49.288Z] : [warn]: There is a small amount of free memory (RAM) left, 94.85% of RAM is being used (15415 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:33:49.309Z] : [warn]: There is a small amount of free memory (RAM) left, 94.35% of RAM is being used (15334 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:36:45.950Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:36:46.258Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:36:46.262Z] : [success]: Bot started
+
+[2023-01-10T22:36:46.265Z] : [info]: Robot start
+
+[2023-01-10T22:36:47.010Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT\ING Y GTS EJERCICIO
+
+[2023-01-10T22:36:47.337Z] : [success]: Bot finished successfully, total execution time: 1s 71ms
+
+[2023-01-10T22:36:47.342Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:36:49.319Z] : [warn]: There is a small amount of free memory (RAM) left, 90.62% of RAM is being used (14728 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:36:56.584Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:36:56.877Z] : [success]: Bot started
+
+[2023-01-10T22:36:56.882Z] : [info]: Robot start
+
+[2023-01-10T22:36:57.626Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT\ING Y GTS 2022
+
+[2023-01-10T22:36:57.958Z] : [success]: Bot finished successfully, total execution time: 1s 75ms
+
+[2023-01-10T22:36:57.971Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:37:12.210Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:37:12.492Z] : [success]: Bot started
+
+[2023-01-10T22:37:12.496Z] : [info]: Robot start
+
+[2023-01-10T22:37:13.218Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT\ING Y GTS 2022.xlsx
+
+[2023-01-10T22:37:13.555Z] : [success]: Bot finished successfully, total execution time: 1s 59ms
+
+[2023-01-10T22:37:13.560Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:38:06.133Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:38:06.475Z] : [success]: Bot started
+
+[2023-01-10T22:38:06.479Z] : [info]: Robot start
+
+[2023-01-10T22:38:07.302Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT\ING Y GTS 2022.xlsx
+
+[2023-01-10T22:38:07.577Z] : [success]: Bot finished successfully, total execution time: 1s 95ms
+
+[2023-01-10T22:38:07.591Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:38:57.105Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:38:57.407Z] : [success]: Bot started
+
+[2023-01-10T22:38:57.411Z] : [info]: Robot start
+
+[2023-01-10T22:38:58.183Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT\ING Y GTS 2022.xlsx
+
+[2023-01-10T22:38:58.488Z] : [success]: Bot finished successfully, total execution time: 1s 77ms
+
+[2023-01-10T22:38:58.495Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:39:49.327Z] : [warn]: There is a small amount of free memory (RAM) left, 90.56% of RAM is being used (14718 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:39:56.228Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:39:56.509Z] : [success]: Bot started
+
+[2023-01-10T22:39:56.511Z] : [info]: Robot start
+
+[2023-01-10T22:39:57.281Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT\ING Y GTS 2022.xlsx
+
+[2023-01-10T22:39:57.575Z] : [success]: Bot finished successfully, total execution time: 1s 63ms
+
+[2023-01-10T22:39:57.580Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:40:55.510Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:40:55.868Z] : [success]: Bot started
+
+[2023-01-10T22:40:55.872Z] : [info]: Robot start
+
+[2023-01-10T22:40:56.646Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT\ING Y GTS 2022.xlsx
+
+[2023-01-10T22:40:56.994Z] : [error]: Destination folder contains trailing whitespaces
+
+[2023-01-10T22:40:57.000Z] : [error]: Total execution time: 1s 120ms
+
+[2023-01-10T22:40:57.004Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:41:18.656Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:41:18.978Z] : [success]: Bot started
+
+[2023-01-10T22:41:18.982Z] : [info]: Robot start
+
+[2023-01-10T22:41:19.713Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT\ING Y GTS 2022.xlsx
+
+[2023-01-10T22:41:20.043Z] : [success]: Bot finished successfully, total execution time: 1s 60ms
+
+[2023-01-10T22:41:20.047Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:42:07.681Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:42:08.051Z] : [success]: Bot started
+
+[2023-01-10T22:42:08.055Z] : [info]: Robot start
+
+[2023-01-10T22:42:08.784Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT
+
+[2023-01-10T22:42:09.119Z] : [success]: Bot finished successfully, total execution time: 1s 63ms
+
+[2023-01-10T22:42:09.123Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:42:42.713Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:42:43.014Z] : [success]: Bot started
+
+[2023-01-10T22:42:43.017Z] : [info]: Robot start
+
+[2023-01-10T22:42:43.756Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT\ING Y GTS 2022
+
+[2023-01-10T22:42:44.105Z] : [success]: Bot finished successfully, total execution time: 1s 85ms
+
+[2023-01-10T22:42:44.120Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:42:49.451Z] : [warn]: There is a small amount of free memory (RAM) left, 92.27% of RAM is being used (14995 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:43:13.354Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:43:13.696Z] : [success]: Bot started
+
+[2023-01-10T22:43:13.701Z] : [info]: Robot start
+
+[2023-01-10T22:43:14.455Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT\ING Y GTS 2022.xlsx
+
+[2023-01-10T22:43:14.775Z] : [success]: Bot finished successfully, total execution time: 1s 73ms
+
+[2023-01-10T22:43:14.779Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:43:42.178Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:43:42.475Z] : [success]: Bot started
+
+[2023-01-10T22:43:42.512Z] : [info]: Robot start
+
+[2023-01-10T22:43:43.421Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\10 OCT\ING Y GTS 2022.xlsx
+
+[2023-01-10T22:43:43.614Z] : [success]: Bot finished successfully, total execution time: 1s 102ms
+
+[2023-01-10T22:43:43.619Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:45:21.036Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:45:21.357Z] : [success]: Bot started
+
+[2023-01-10T22:45:21.361Z] : [info]: Robot start
+
+[2023-01-10T22:45:22.430Z] : [success]: Bot finished successfully, total execution time: 1s 68ms
+
+[2023-01-10T22:45:22.435Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:45:37.606Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:45:37.926Z] : [success]: Bot started
+
+[2023-01-10T22:45:37.931Z] : [info]: Robot start
+
+[2023-01-10T22:45:38.996Z] : [success]: Bot finished successfully, total execution time: 1s 64ms
+
+[2023-01-10T22:45:39.001Z] : [info]: ---------------------------------------------
+
+[2023-01-10T22:45:49.466Z] : [warn]: There is a small amount of free memory (RAM) left, 91.29% of RAM is being used (14837 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:46:38.816Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:48:49.471Z] : [warn]: There is a small amount of free memory (RAM) left, 92.45% of RAM is being used (15025 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:48:57.169Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:52:06.735Z] : [success]: Robot saved successfully
+
+[2023-01-10T22:54:19.098Z] : [warn]: There is a small amount of free memory (RAM) left, 90.01% of RAM is being used (14628 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:55:19.110Z] : [warn]: There is a small amount of free memory (RAM) left, 90.84% of RAM is being used (14764 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T22:56:49.199Z] : [warn]: There is a small amount of free memory (RAM) left, 90.37% of RAM is being used (14687 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T23:03:19.111Z] : [warn]: There is a small amount of free memory (RAM) left, 90.03% of RAM is being used (14632 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T23:06:19.418Z] : [warn]: There is a small amount of free memory (RAM) left, 92.17% of RAM is being used (14979 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T23:06:33.258Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:15:49.210Z] : [warn]: There is a small amount of free memory (RAM) left, 90.24% of RAM is being used (14666 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T23:16:49.208Z] : [warn]: There is a small amount of free memory (RAM) left, 90.25% of RAM is being used (14668 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T23:22:49.247Z] : [warn]: There is a small amount of free memory (RAM) left, 90.16% of RAM is being used (14652 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T23:23:44.897Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:23:45.150Z] : [info]: ---------------------------------------------
+
+[2023-01-10T23:23:45.154Z] : [success]: Bot started
+
+[2023-01-10T23:23:45.157Z] : [info]: Robot start
+
+[2023-01-10T23:25:02.096Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 10/1/2023 17:27:01
+  ==========================================
+  
+
+[2023-01-10T23:27:13.959Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:27:14.256Z] : [success]: Bot started
+
+[2023-01-10T23:27:14.283Z] : [info]: Robot start
+
+[2023-01-10T23:27:57.844Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:28:49.707Z] : [warn]: There is a small amount of free memory (RAM) left, 93.58% of RAM is being used (15209 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T23:29:20.018Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:29:20.492Z] : [success]: Bot started
+
+[2023-01-10T23:29:20.495Z] : [info]: Robot start
+
+[2023-01-10T23:29:50.591Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-01-10T23:29:50.596Z] : [error]: Total execution time: 30s 95ms
+
+[2023-01-10T23:29:50.600Z] : [info]: ---------------------------------------------
+
+[2023-01-10T23:41:56.224Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:41:56.391Z] : [success]: Bot started
+
+[2023-01-10T23:41:56.395Z] : [info]: Robot start
+
+[2023-01-10T23:42:25.458Z] : [info]: 12
+
+[2023-01-10T23:42:25.699Z] : [info]: 1
+
+[2023-01-10T23:42:25.918Z] : [info]: 2
+
+[2023-01-10T23:42:26.121Z] : [info]: 3
+
+[2023-01-10T23:42:26.731Z] : [info]: 4
+
+[2023-01-10T23:42:28.449Z] : [info]: 5
+
+[2023-01-10T23:42:28.847Z] : [info]: 6
+
+[2023-01-10T23:42:29.120Z] : [info]: 7
+
+[2023-01-10T23:42:29.324Z] : [info]: 8
+
+[2023-01-10T23:42:29.620Z] : [info]: 9
+
+[2023-01-10T23:42:29.942Z] : [info]: 10
+
+[2023-01-10T23:42:30.683Z] : [info]: 11
+
+[2023-01-10T23:42:53.511Z] : [info]: 12
+
+[2023-01-10T23:42:53.699Z] : [info]: 1
+
+[2023-01-10T23:42:53.932Z] : [info]: 2
+
+[2023-01-10T23:42:54.152Z] : [info]: 3
+
+[2023-01-10T23:42:54.720Z] : [info]: 4
+
+[2023-01-10T23:42:56.297Z] : [info]: 5
+
+[2023-01-10T23:42:56.653Z] : [info]: 6
+
+[2023-01-10T23:42:56.950Z] : [info]: 7
+
+[2023-01-10T23:42:57.157Z] : [info]: 8
+
+[2023-01-10T23:42:57.436Z] : [info]: 9
+
+[2023-01-10T23:42:57.732Z] : [info]: 10
+
+[2023-01-10T23:42:58.449Z] : [info]: 11
+
+[2023-01-10T23:43:35.958Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:48:22.648Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:48:22.963Z] : [success]: Bot started
+
+[2023-01-10T23:48:22.967Z] : [info]: Robot start
+
+[2023-01-10T23:49:08.394Z] : [error]: Script Stopped.
+
+[2023-01-10T23:49:08.413Z] : [warn]: Total execution time: 45s 426ms
+
+[2023-01-10T23:49:08.418Z] : [info]: ---------------------------------------------
+
+[2023-01-10T23:49:22.256Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:49:22.827Z] : [success]: Bot started
+
+[2023-01-10T23:49:22.830Z] : [info]: Robot start
+
+[2023-01-10T23:49:50.130Z] : [warn]: There is a small amount of free memory (RAM) left, 97.76% of RAM is being used (15888 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-01-10T23:50:04.931Z] : [error]: Script Stopped.
+
+[2023-01-10T23:50:04.938Z] : [warn]: Total execution time: 42s 101ms
+
+[2023-01-10T23:50:04.944Z] : [info]: ---------------------------------------------
+
+[2023-01-10T23:50:16.816Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:50:17.485Z] : [success]: Bot started
+
+[2023-01-10T23:50:17.490Z] : [info]: Robot start
+
+[2023-01-10T23:50:50.478Z] : [error]: Script Stopped.
+
+[2023-01-10T23:50:50.484Z] : [warn]: Total execution time: 32s 988ms
+
+[2023-01-10T23:50:50.501Z] : [info]: ---------------------------------------------
+
+[2023-01-10T23:51:07.726Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:51:08.413Z] : [success]: Bot started
+
+[2023-01-10T23:51:08.417Z] : [info]: Robot start
+
+[2023-01-10T23:51:28.778Z] : [error]: Script Stopped.
+
+[2023-01-10T23:51:28.785Z] : [warn]: Total execution time: 20s 361ms
+
+[2023-01-10T23:51:28.790Z] : [info]: ---------------------------------------------
+
+[2023-01-10T23:51:40.307Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:51:41.256Z] : [success]: Bot started
+
+[2023-01-10T23:51:41.260Z] : [info]: Robot start
+
+[2023-01-10T23:52:34.470Z] : [error]: Script Stopped.
+
+[2023-01-10T23:52:34.477Z] : [warn]: Total execution time: 53s 209ms
+
+[2023-01-10T23:52:34.481Z] : [info]: ---------------------------------------------
+
+[2023-01-10T23:52:38.720Z] : [success]: Bot started
+
+[2023-01-10T23:52:38.724Z] : [info]: Robot start
+
+[2023-01-10T23:52:51.999Z] : [error]: Script Stopped.
+
+[2023-01-10T23:52:52.007Z] : [warn]: Total execution time: 13s 275ms
+
+[2023-01-10T23:52:52.013Z] : [info]: ---------------------------------------------
+
+[2023-01-10T23:52:52.875Z] : [success]: Robot saved successfully
+
+[2023-01-10T23:52:54.936Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:54.941Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:54.947Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:54.952Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:54.960Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:54.966Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:54.977Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:54.982Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:54.986Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:54.990Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:54.995Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:54.999Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.003Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.008Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.013Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.017Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.020Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.024Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.028Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.033Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.037Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.042Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.046Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-01-10T23:52:55.051Z] : [error]: Cannot read properties of null (reading 'type')
+

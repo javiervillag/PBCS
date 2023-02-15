@@ -1,0 +1,121 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 17/1/2023 15:19:38
+  ==========================================
+  
+
+[2023-01-17T21:27:32.714Z] : [success]: Robot saved successfully
+
+[2023-01-17T21:27:33.090Z] : [info]: ---------------------------------------------
+
+[2023-01-17T21:27:33.095Z] : [success]: Bot started
+
+[2023-01-17T21:27:33.100Z] : [info]: Robot start
+
+[2023-01-17T21:27:44.568Z] : [success]: Bot finished successfully, total execution time: 11s 467ms
+
+[2023-01-17T21:27:44.574Z] : [info]: ---------------------------------------------
+
+[2023-01-17T21:27:55.943Z] : [success]: Bot started
+
+[2023-01-17T21:27:55.947Z] : [info]: Robot start
+
+[2023-01-17T21:28:01.098Z] : [success]: Bot finished successfully, total execution time: 5s 150ms
+
+[2023-01-17T21:28:01.103Z] : [info]: ---------------------------------------------
+
+[2023-01-17T21:28:10.210Z] : [success]: Robot saved successfully
+
+[2023-01-17T21:28:10.563Z] : [success]: Bot started
+
+[2023-01-17T21:28:10.567Z] : [info]: Robot start
+
+[2023-01-17T21:28:15.706Z] : [success]: Bot finished successfully, total execution time: 5s 138ms
+
+[2023-01-17T21:28:15.712Z] : [info]: ---------------------------------------------
+
+[2023-01-17T21:29:52.789Z] : [success]: Robot saved successfully
+
+[2023-01-17T21:29:53.209Z] : [success]: Bot started
+
+[2023-01-17T21:29:53.215Z] : [info]: Robot start
+
+[2023-01-17T21:30:04.447Z] : [success]: Bot finished successfully, total execution time: 11s 231ms
+
+[2023-01-17T21:30:04.451Z] : [info]: ---------------------------------------------
+
+[2023-01-17T21:34:59.193Z] : [success]: Robot saved successfully
+
+[2023-01-17T21:34:59.561Z] : [success]: Bot started
+
+[2023-01-17T21:34:59.565Z] : [info]: Robot start
+
+[2023-01-17T21:35:12.886Z] : [success]: Bot finished successfully, total execution time: 13s 318ms
+
+[2023-01-17T21:35:12.897Z] : [info]: ---------------------------------------------
+
+[2023-01-17T21:37:44.456Z] : [success]: Robot saved successfully
+
+[2023-01-17T21:37:44.846Z] : [success]: Bot started
+
+[2023-01-17T21:37:44.852Z] : [info]: Robot start
+
+[2023-01-17T21:40:54.573Z] : [success]: Robot saved successfully
+
+[2023-01-17T21:40:54.751Z] : [success]: Bot started
+
+[2023-01-17T21:40:54.754Z] : [info]: Robot start
+
+[2023-01-17T21:41:09.158Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-01-17T21:41:19.092Z] : [success]: Bot finished successfully, total execution time: 24s 336ms
+
+[2023-01-17T21:41:19.098Z] : [info]: ---------------------------------------------
+
+[2023-01-17T23:22:20.574Z] : [success]: Robot saved successfully
+
+[2023-01-17T23:22:20.964Z] : [success]: Bot started
+
+[2023-01-17T23:22:20.968Z] : [info]: Robot start
+
+[2023-01-17T23:22:35.959Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-01-17T23:23:00.755Z] : [error]: Script Stopped.
+
+[2023-01-17T23:23:00.762Z] : [info]: Total execution time: 39s 786ms
+
+[2023-01-17T23:23:00.765Z] : [info]: ---------------------------------------------
+
+[2023-01-17T23:23:15.735Z] : [success]: Robot saved successfully
+
+[2023-01-17T23:23:20.633Z] : [success]: Bot started
+
+[2023-01-17T23:23:20.640Z] : [info]: Robot start
+
+[2023-01-17T23:23:35.202Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-01-17T23:24:00.087Z] : [success]: Bot finished successfully, total execution time: 39s 446ms
+
+[2023-01-17T23:24:00.092Z] : [info]: ---------------------------------------------
+
+[2023-01-17T23:24:24.839Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 18/1/2023 10:08:20
+  ==========================================
+  
+
+[2023-01-18T16:08:38.710Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 18/1/2023 15:44:03
+  ==========================================
+  
+
+[2023-01-18T21:44:08.716Z] : [success]: Robot saved successfully
+

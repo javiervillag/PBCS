@@ -1,0 +1,77 @@
+[2023-01-16T22:15:15.022Z] : [error]: Script Stopped.
+
+[2023-01-16T22:15:15.029Z] : [info]: Total execution time: 29s 966ms
+
+[2023-01-16T22:15:15.033Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 16/1/2023 16:15:15
+  ==========================================
+  
+
+[2023-01-16T22:15:24.569Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:15:24.853Z] : [success]: Bot started
+
+[2023-01-16T22:15:24.858Z] : [info]: Robot start
+
+[2023-01-16T22:15:43.351Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2023-01-16T22:15:43.357Z] : [info]: Total execution time: 18s 493ms
+
+[2023-01-16T22:15:43.361Z] : [info]: ---------------------------------------------
+
+[2023-01-16T22:16:08.272Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:16:08.374Z] : [success]: Bot started
+
+[2023-01-16T22:16:08.390Z] : [info]: Robot start
+
+[2023-01-16T22:16:16.588Z] : [error]: Script Stopped.
+
+[2023-01-16T22:16:16.595Z] : [info]: Total execution time: 8s 198ms
+
+[2023-01-16T22:16:16.600Z] : [info]: ---------------------------------------------
+
+[2023-01-16T22:16:18.959Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 17/1/2023 10:46:24
+  ==========================================
+  
+
+[2023-01-17T17:54:08.968Z] : [success]: Robot saved successfully
+
+[2023-01-17T17:56:28.593Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 17/1/2023 13:03:58
+  ==========================================
+  
+
+[2023-01-17T19:26:02.848Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 17/1/2023 15:16:12
+  ==========================================
+  
+
+[2023-01-17T21:16:15.285Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 17/1/2023 17:24:50
+  ==========================================
+  
+
+[2023-01-17T23:24:57.918Z] : [success]: Robot saved successfully
+

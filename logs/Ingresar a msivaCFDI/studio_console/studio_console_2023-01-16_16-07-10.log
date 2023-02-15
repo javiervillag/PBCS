@@ -1,0 +1,80 @@
+[2023-01-16T22:07:53.332Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2023-01-16T22:07:53.340Z] : [info]: Total execution time: 34s 713ms
+
+[2023-01-16T22:07:53.343Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 16/1/2023 16:07:53
+  ==========================================
+  
+
+[2023-01-16T22:08:31.944Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:09:06.732Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2023-01-16T22:09:06.741Z] : [info]: Total execution time: 28s 11ms
+
+[2023-01-16T22:09:06.745Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 16/1/2023 16:09:06
+  ==========================================
+  
+
+[2023-01-16T22:09:35.873Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:10:11.197Z] : [error]: An error occured while performing the activity as multiple elements were found for the selector you provided. Please, make sure the selector of the indicated element is unique before interacting with it
+
+[2023-01-16T22:10:11.215Z] : [info]: Total execution time: 30s 941ms
+
+[2023-01-16T22:10:11.218Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 16/1/2023 16:10:11
+  ==========================================
+  
+
+[2023-01-16T22:10:45.994Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:11:26.344Z] : [error]: Script Stopped.
+
+[2023-01-16T22:11:26.350Z] : [info]: Total execution time: 36s 36ms
+
+[2023-01-16T22:11:26.353Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 16/1/2023 16:11:26
+  ==========================================
+  
+
+[2023-01-16T22:11:58.758Z] : [error]: Selectors: Could not activate window
+
+
+[2023-01-16T22:11:58.764Z] : [info]: Total execution time: 28s 454ms
+
+[2023-01-16T22:11:58.767Z] : [info]: ---------------------------------------------
+
+[2023-01-16T22:12:19.541Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:13:11.617Z] : [error]: Script Stopped.
+
+[2023-01-16T22:13:11.622Z] : [info]: Total execution time: 47s 198ms
+
+[2023-01-16T22:13:11.626Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 16/1/2023 16:13:11
+  ==========================================
+  
+

@@ -1,0 +1,33 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 13/2/2023 12:44:35
+  ==========================================
+  
+
+[2023-02-13T19:46:23.176Z] : [success]: Robot saved successfully
+
+[2023-02-13T19:46:33.162Z] : [success]: Robot saved successfully
+
+[2023-02-13T19:46:33.729Z] : [success]: The workflow has been exported successfully
+
+[2023-02-13T19:46:39.880Z] : [success]: Robot saved successfully
+
+[2023-02-13T19:51:40.091Z] : [info]: ---------------------------------------------
+
+[2023-02-13T19:51:40.098Z] : [success]: Bot started
+
+[2023-02-13T19:51:40.102Z] : [info]: Robot start
+
+[2023-02-13T19:51:50.794Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS SEP 2022.xlsx
+
+[2023-02-13T19:52:14.956Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"iVBORw0KGgoAAAANSUhEUgAAAKAAAAA8CAYAAADha7EVAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAq0SURBVHhe7Z19yJ5VHcevjVZtWqEhxLKtx17Mx8EwerFpL6xYMeawmmP5yiYkRim6Bk1HIkwX2BzTECw2SZ2NOU1MxEYtX5CMpTKYjxXlkyOHIdUfkbMMre+5z++5f/fvPi+/c65zXff9PLs/cDi/6+W+bhgfvr9zrvtBZ735f6pEli88ZKt+Hn5xka3aYd1jV9oqzs7PbjfzZb+91syc2z92g62ObbaO7bZVl/WTa6qV3zrLHuXz4K1P2qpLsoAh+Yg2JUwV0CUfISW86uP/slU/2w4cZ6vB8cmT/22rfn7zl7fZSo9LPtCogN/90HhQwOv/8JytOkxnAeccd7yt/EDCkHiSQYgYEk+SKqJLwsdW3GqremQJCEhCjXygLQFT5AMaAeddfo2t9LQpYYp8BCRcf98ye9TP1q/us1X7LXi2nYNc9+HTzewSa8nS79mqfWhNV4KnVm+z1fRm/pwxW3UJyQdwne6BbHI0STQB55x1hpnHPzqrmnime6s85my6424zb1574VTdFNoUfHrtj8x85p6remSTx5yl737FVlW1/28n9RxL2khBpB8JduT1yR7Z5DEH187efo6pX/j2oeqU7/s7FE9DzkASkOQD2+680VYd5LEE8vF5kJB8uUA+Pg8Kn2BaIB+fhwGvgPvf9Yituvz80BZbVdUXF220VS9NJ54kpw0j9QhN+g0rSDYilH4p+Nq1K71S8H3e2YIp+TTC+ZAiUhI2JairFVPyHXzhVTODxafMs5UOKSKloDzfZAv+8th8M2uE8yHbLqWgqx372jDIacUheaObEIiXKh+AcG22XyShHByIlyofgHCDbr0ciJfTiiFcidabmoSx+/sE5K03RzzJMKwBc8STDELCi//6aTOIumtA0KaEmvt6WjBvvSXk4/CdMWhyrUjCofWWkI9DrVe24oOXbzAzZ/+622yVDsT755l/MvU7nvrAVF0Kar2uVhxqwaWZSkC+4y0tH2grCblwpeUDriQsvf7j8oHS8oESSViC4BoQScgHJ3QN6cbHdAKJxoeGpTu/Yav68JZbB2xYaITe+w2avl0wT0IpFk/G0DUpHU+/toTMTT+0bf5bsG/tR3JS+rkkDLXgc5+/2la9vPPEA7bqkJt+tGPmL6BdSDnbbL/AJCCk4+LFkPKlAiFpaLjg6reYEQPSlWi7kCrWVnEdcqZ859dWdH7W8slHQLq6bRe//5J8MSAnDQ3jG5baqj4mAUPycdko5XwC0nWecjHJcC/Jtevm//aIJo85uEbgHhyXkI+/MwTaZ46PrzTzTx7q/JhPsgGc48ecozfNN/PcDUfMPGfHS0XWfD+d7DyPXixr5cLnSLCJm/b3yCaPOeNf6nSAiUdum6r3fn6VmcE9C3fZqpfoe0AtTxx4n5lTW2ws2bhoLujzsee0hUu0Hb9aYis3JF8ToKWmtNU66Qb5+Lzql3vN7JMPGAFff/JZM2LUbb0EJKUhkcnmEssnJdJLJliT0Pfx76QE/ML6w2YGv9i6wFa9UPrRTOC1C0ZbIPVoSJB6RCz9XJCEPsxfRKNNQgZXu3RtNmRbJpHoORzXM3EPiSWFS0GKiHa56Nz/VIceeKs9k44UONSCcS8lHokHfO3WBxcQmxC04Lef/pnqtecet2fTkTLRz3kuZNslUtNQikhJiPNfWef+O8bZJIhLFBdcPmq7hCvRNPiSLgb/HIlSR766QLxU+QBaMLVhWv/Vka8uEC+nFUM4kk5y/073X2bPjkmDhINorhGTViN1jngSPEMmV9vkiCeBhG8+XP85dcgRT+KT0IVZA0LC3PRK5fkTdhthYpuLVPDMD37zsBkxaN1GIwfseiEdb70lIAk1IvK1m2y5Wn6/6iNGOt56SwAJ0XoxQsloBERSaVuwC+1nIR9RIvkkf/zBAjNSIQm1MtIrF1Ai+SSzlu82IxWSUCsj5CNKJJ9Ek4Q9r2HaSkEtSEnXiIGNSAjXxsIln/YdoBakJQ2583WBjUgI18bCJV9oA+ICacgHJZmEzsuRQvZ7wJzEPO0fa1QCgdB9sWe8dvLLtmqGiYkHa7feB0672VZ+Srd3yal7f6dqvfRCOVUuwFuxi541oE+qHNnkZ9B+MTTP0kjqugfJh6Fpw0g3X8KFrqH9YqSmY4pMSD4MTXLhHt99oWtovxia7ygBRNy8eocZHPMeEEWOZCnw9V8MKZdv0+JaRzb9Goav/7T45AutH5t+DcPXfxJXKtILZb6u86VabO23ac+ltmIteFjWfy75+Bwjtv5rm9w2Glv/DZqcduyibxPShIh4JtZ/GDEgGh85QMLc1ysh8Eys/zA01F3DQcLc1ysh8Eys/zA0YIfsWwdqdroAqUeDE9yElJCRnpHSgl34klFDCRnpGTktmKj7yqaEjPSMUAv2wf+6JQes/zA4TgFLJiHWliRLroSu9Z8G2pTUgcTDpoME0kg4duIb1TUXr54adeSjTcn79z1kz6RD4mHTQe/8fBJuueAlW/VTV0JJMAH5xkQrpeu+XIHwOddnU1sz37FCKE0iuu7Ttl7Ix5n8e/efGTLmcsZlX7dVVT17+w/NiAHxZHJqWm9IQs2rGy1Tu2AfJCGkkkJy5DXfvVp5fNLmfp4khFRSSI7rmutcKNGkgC5uvHOPrcLP4utIJCBJCPmkkBx+jacf8YklnT/9v2v+RWbmXHTkLltV1cZd751KTJd4rp/xXL+q+KSNCsgJScaRcoKU1CqReoTrWVIofsyRcgJNKy0pIPHrK/r/raWA/JhDAvJUc4lHaAWMnXch7w224BRc0rnwJRvhu47zcvjg11LFldLdO3mLGZK6O1wN/Ds+dYvu35eQbdcHl60puHRSziQBIRmN0PGwA8lohI7BeWNXmJEC1ny+wUHyadLPB60Dqf3KY77+C63pBkmxBIxBqZXbSrXw76DvLAlSCaOOOBr4d9B31uHggk226oDkwwi1YkmotfpA+vFWLVtw0hqwLk3LB6SATdC0fEAKSGhexfx52QpbdVmzcW21+PBme9QhRb5cpICS1hIQNCUEpw3J66aRBp/kLrk4seucNtZ/sdRsNQE5pUVpI/lclE5DX/LVAelHyBQkSqdhLPmIVhPQRQlZ2hTORwlZmkrW3VvuMPPKp0+tFr4STr0SqRgSTjKwBOTkpiFPPTBIEXlqpaZiSupd/7P+n8+uOyf+y8Y9y3r/bwYvnuRPvBJpqJVw4AK6BIoJyUUbNgEBSRQT0XVfSECXfERIQilfiM2Lu/8VhU0Hl1Xn7/tOdB1HsvH7tAIOXQuWQvFBxAQdJC6p5s19uWcQ2tSrQ4p8ANJxpFR8EDFBQwxFC+ZoE5ELOYxIAV89+h571ItWvlD6AV8Cpgoo4YkI6XyycSFTGHgCpjDs0mnhKahFs85rm1zpOEOXgLnc8MZRW3W5dvZcWw2OS8/7nK267Lj3UVulkbMGrJuAAOvAppgRArrkI4ZBwpKk7IJLyAdGAkY4lgRMZdgTcFqtAV2E5Bsx/GQl4OrtP7ZVlz1XXmKr9hkloJ8Zl4Au+YDv/IgRIaZ9Cwa+lDvW0w/UTa8m0w8kteBYyg2yDY8Ik9OKm5YPJCXgSLDpS6pMbcgHZkQLHqFDK1Vb8oEZsQseMb04//7ltpohL6JHTC+4gKMWPKJVuHxVVVX/A2ItdDHLWOs1AAAAAElFTkSuQmCC"} : API
+
+[2023-02-13T20:02:19.198Z] : [success]: The workflow has been exported successfully
+
+[2023-02-13T20:02:19.300Z] : [success]: Robot saved successfully
+
+[2023-02-13T20:02:20.436Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-02-13T20:02:20.444Z] : [error]: Cannot read properties of null (reading 'type')
+

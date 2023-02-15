@@ -1,0 +1,386 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 12/1/2023 08:58:01
+  ==========================================
+  
+
+[2023-01-12T14:58:07.040Z] : [success]: Robot saved successfully
+
+[2023-01-12T14:58:07.287Z] : [info]: ---------------------------------------------
+
+[2023-01-12T14:58:07.291Z] : [success]: Bot started
+
+[2023-01-12T14:58:07.294Z] : [info]: Robot start
+
+[2023-01-12T15:01:38.112Z] : [error]: Script Stopped.
+
+[2023-01-12T15:01:38.131Z] : [info]: Total execution time: 3m 30s 818ms
+
+[2023-01-12T15:01:38.136Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:02:23.828Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:03:31.539Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:03:32.225Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:03:52.193Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:03:52.200Z] : [success]: Bot started
+
+[2023-01-12T15:03:52.205Z] : [info]: Robot start
+
+[2023-01-12T15:05:04.495Z] : [info]: -1 : contador_estados-1
+
+[2023-01-12T15:05:05.122Z] : [success]: Bot finished successfully, total execution time: 1m 12s 916ms
+
+[2023-01-12T15:05:05.127Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:09:16.061Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:09:42.788Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:10:00.548Z] : [success]: Bot started
+
+[2023-01-12T15:10:00.553Z] : [info]: Robot start
+
+[2023-01-12T15:11:27.855Z] : [info]: -1 : contador_estados-1
+
+[2023-01-12T15:11:28.418Z] : [success]: Bot finished successfully, total execution time: 1m 27s 864ms
+
+[2023-01-12T15:11:28.424Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:14:29.841Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:44:26.076Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:44:26.403Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:44:26.408Z] : [success]: Bot started
+
+[2023-01-12T15:44:26.413Z] : [info]: Robot start
+
+[2023-01-12T15:45:22.175Z] : [error]: Script Stopped.
+
+[2023-01-12T15:45:22.182Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:55:31.622Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:55:31.973Z] : [success]: Bot started
+
+[2023-01-12T15:55:31.978Z] : [info]: Robot start
+
+[2023-01-12T15:55:34.065Z] : [error]: contador_estados is not defined
+
+[2023-01-12T15:55:34.071Z] : [info]: Total execution time: 2s 87ms
+
+[2023-01-12T15:55:34.074Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:56:00.591Z] : [success]: Robot saved successfully
+
+[2023-01-12T15:56:00.880Z] : [success]: Bot started
+
+[2023-01-12T15:56:00.885Z] : [info]: Robot start
+
+[2023-01-12T15:56:03.418Z] : [info]: 1 : contador_estados+1
+
+[2023-01-12T15:56:04.062Z] : [info]: 2 : contador_estados+1
+
+[2023-01-12T15:56:04.729Z] : [info]: 3 : contador_estados+1
+
+[2023-01-12T15:56:05.391Z] : [info]: 4 : contador_estados+1
+
+[2023-01-12T15:56:06.071Z] : [info]: 5 : contador_estados+1
+
+[2023-01-12T15:56:06.760Z] : [info]: 6 : contador_estados+1
+
+[2023-01-12T15:56:07.429Z] : [info]: 7 : contador_estados+1
+
+[2023-01-12T15:56:08.124Z] : [info]: 8 : contador_estados+1
+
+[2023-01-12T15:56:08.812Z] : [info]: 9 : contador_estados+1
+
+[2023-01-12T15:56:09.523Z] : [info]: 10 : contador_estados+1
+
+[2023-01-12T15:56:10.185Z] : [info]: 11 : contador_estados+1
+
+[2023-01-12T15:56:10.861Z] : [info]: 12 : contador_estados+1
+
+[2023-01-12T15:56:11.567Z] : [info]: 13 : contador_estados+1
+
+[2023-01-12T15:56:12.257Z] : [info]: 14 : contador_estados+1
+
+[2023-01-12T15:56:12.901Z] : [info]: 15 : contador_estados+1
+
+[2023-01-12T15:56:13.608Z] : [info]: 16 : contador_estados+1
+
+[2023-01-12T15:56:14.299Z] : [info]: 17 : contador_estados+1
+
+[2023-01-12T15:56:14.961Z] : [info]: 18 : contador_estados+1
+
+[2023-01-12T15:56:15.695Z] : [info]: 19 : contador_estados+1
+
+[2023-01-12T15:56:16.374Z] : [info]: 20 : contador_estados+1
+
+[2023-01-12T15:56:17.123Z] : [info]: 21 : contador_estados+1
+
+[2023-01-12T15:56:17.851Z] : [info]: 22 : contador_estados+1
+
+[2023-01-12T15:56:18.497Z] : [info]: 23 : contador_estados+1
+
+[2023-01-12T15:56:19.154Z] : [info]: 24 : contador_estados+1
+
+[2023-01-12T15:56:19.819Z] : [info]: 25 : contador_estados+1
+
+[2023-01-12T15:56:20.465Z] : [info]: 26 : contador_estados+1
+
+[2023-01-12T15:56:21.126Z] : [info]: 27 : contador_estados+1
+
+[2023-01-12T15:56:21.758Z] : [info]: 28 : contador_estados+1
+
+[2023-01-12T15:56:22.425Z] : [info]: 29 : contador_estados+1
+
+[2023-01-12T15:56:23.113Z] : [info]: 30 : contador_estados+1
+
+[2023-01-12T15:56:23.788Z] : [info]: 31 : contador_estados+1
+
+[2023-01-12T15:56:24.430Z] : [info]: 32 : contador_estados+1
+
+[2023-01-12T15:56:25.061Z] : [info]: 33 : contador_estados+1
+
+[2023-01-12T15:56:25.736Z] : [info]: 34 : contador_estados+1
+
+[2023-01-12T15:56:26.484Z] : [info]: 35 : contador_estados+1
+
+[2023-01-12T15:56:27.143Z] : [info]: 36 : contador_estados+1
+
+[2023-01-12T15:56:27.801Z] : [info]: 37 : contador_estados+1
+
+[2023-01-12T15:56:28.508Z] : [info]: 38 : contador_estados+1
+
+[2023-01-12T15:56:29.199Z] : [info]: 39 : contador_estados+1
+
+[2023-01-12T15:56:29.849Z] : [info]: 40 : contador_estados+1
+
+[2023-01-12T15:56:30.552Z] : [info]: 41 : contador_estados+1
+
+[2023-01-12T15:56:31.199Z] : [info]: 42 : contador_estados+1
+
+[2023-01-12T15:56:31.821Z] : [info]: 43 : contador_estados+1
+
+[2023-01-12T15:56:32.488Z] : [info]: 44 : contador_estados+1
+
+[2023-01-12T15:56:33.151Z] : [info]: 45 : contador_estados+1
+
+[2023-01-12T15:56:33.830Z] : [info]: 46 : contador_estados+1
+
+[2023-01-12T15:56:34.478Z] : [info]: 47 : contador_estados+1
+
+[2023-01-12T15:56:35.168Z] : [info]: 48 : contador_estados+1
+
+[2023-01-12T15:56:35.797Z] : [info]: 49 : contador_estados+1
+
+[2023-01-12T15:56:36.477Z] : [info]: 50 : contador_estados+1
+
+[2023-01-12T15:56:37.151Z] : [info]: 51 : contador_estados+1
+
+[2023-01-12T15:56:37.789Z] : [info]: 52 : contador_estados+1
+
+[2023-01-12T15:56:38.478Z] : [info]: 53 : contador_estados+1
+
+[2023-01-12T15:56:39.154Z] : [info]: 54 : contador_estados+1
+
+[2023-01-12T15:56:39.801Z] : [info]: 55 : contador_estados+1
+
+[2023-01-12T15:56:40.492Z] : [info]: 56 : contador_estados+1
+
+[2023-01-12T15:56:41.165Z] : [info]: 57 : contador_estados+1
+
+[2023-01-12T15:56:41.876Z] : [info]: 58 : contador_estados+1
+
+[2023-01-12T15:56:42.538Z] : [info]: 59 : contador_estados+1
+
+[2023-01-12T15:56:43.198Z] : [info]: 60 : contador_estados+1
+
+[2023-01-12T15:56:43.934Z] : [info]: 61 : contador_estados+1
+
+[2023-01-12T15:56:44.621Z] : [info]: 62 : contador_estados+1
+
+[2023-01-12T15:56:45.293Z] : [info]: 63 : contador_estados+1
+
+[2023-01-12T15:56:46.111Z] : [info]: 64 : contador_estados+1
+
+[2023-01-12T15:56:46.783Z] : [info]: 65 : contador_estados+1
+
+[2023-01-12T15:56:47.427Z] : [info]: 66 : contador_estados+1
+
+[2023-01-12T15:56:48.125Z] : [info]: 67 : contador_estados+1
+
+[2023-01-12T15:56:48.749Z] : [info]: 68 : contador_estados+1
+
+[2023-01-12T15:56:49.488Z] : [error]: Script Stopped.
+
+[2023-01-12T15:56:49.493Z] : [info]: Total execution time: 48s 603ms
+
+[2023-01-12T15:56:49.497Z] : [info]: ---------------------------------------------
+
+[2023-01-12T15:57:32.769Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:00:24.448Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:00:24.854Z] : [success]: Bot started
+
+[2023-01-12T16:00:24.859Z] : [info]: Robot start
+
+[2023-01-12T16:00:26.993Z] : [success]: Bot finished successfully, total execution time: 2s 133ms
+
+[2023-01-12T16:00:26.998Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:00:56.940Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:00:57.312Z] : [success]: Bot started
+
+[2023-01-12T16:00:57.317Z] : [info]: Robot start
+
+[2023-01-12T16:00:59.425Z] : [success]: Bot finished successfully, total execution time: 2s 107ms
+
+[2023-01-12T16:00:59.430Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:02:36.091Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:02:36.438Z] : [success]: Bot started
+
+[2023-01-12T16:02:36.441Z] : [info]: Robot start
+
+[2023-01-12T16:02:38.528Z] : [success]: Bot finished successfully, total execution time: 2s 86ms
+
+[2023-01-12T16:02:38.533Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:03:23.580Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:03:23.915Z] : [success]: Bot started
+
+[2023-01-12T16:03:23.919Z] : [info]: Robot start
+
+[2023-01-12T16:03:26.006Z] : [success]: Bot finished successfully, total execution time: 2s 87ms
+
+[2023-01-12T16:03:26.011Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:03:45.587Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:03:45.916Z] : [success]: Bot started
+
+[2023-01-12T16:03:45.921Z] : [info]: Robot start
+
+[2023-01-12T16:03:48.259Z] : [success]: Bot finished successfully, total execution time: 2s 338ms
+
+[2023-01-12T16:03:48.264Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:04:53.441Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:05:03.455Z] : [success]: Bot started
+
+[2023-01-12T16:05:03.460Z] : [info]: Robot start
+
+[2023-01-12T16:05:06.560Z] : [success]: Bot finished successfully, total execution time: 3s 99ms
+
+[2023-01-12T16:05:06.565Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:05:30.891Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:05:31.255Z] : [success]: Bot started
+
+[2023-01-12T16:05:31.260Z] : [info]: Robot start
+
+[2023-01-12T16:05:34.374Z] : [success]: Bot finished successfully, total execution time: 3s 113ms
+
+[2023-01-12T16:05:34.378Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:09:44.573Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:13:30.002Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:13:39.566Z] : [success]: Bot started
+
+[2023-01-12T16:13:39.570Z] : [info]: Robot start
+
+[2023-01-12T16:33:53.669Z] : [error]: Script stopped.
+
+[2023-01-12T16:33:53.676Z] : [info]: Total execution time: 20m 14s 98ms
+
+[2023-01-12T16:33:53.680Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:34:12.189Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:34:37.982Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:34:37.986Z] : [success]: Bot started
+
+[2023-01-12T16:34:37.990Z] : [info]: Robot start
+
+[2023-01-12T16:40:17.903Z] : [error]: Script stopped.
+
+[2023-01-12T16:40:17.910Z] : [info]: Total execution time: 5m 39s 913ms
+
+[2023-01-12T16:40:17.914Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:40:36.230Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:40:47.517Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:42:55.126Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:42:55.437Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:42:55.441Z] : [success]: Bot started
+
+[2023-01-12T16:42:55.445Z] : [info]: Robot start
+
+[2023-01-12T16:53:30.547Z] : [error]: Script Stopped.
+
+[2023-01-12T16:53:30.553Z] : [info]: Total execution time: 10m 35s 102ms
+
+[2023-01-12T16:53:30.557Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:54:15.636Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:54:15.935Z] : [success]: Bot started
+
+[2023-01-12T16:54:15.940Z] : [info]: Robot start
+
+[2023-01-12T16:54:19.034Z] : [success]: Bot finished successfully, total execution time: 3s 93ms
+
+[2023-01-12T16:54:19.038Z] : [info]: ---------------------------------------------
+
+[2023-01-12T16:57:52.723Z] : [success]: Robot saved successfully
+
+[2023-01-12T16:57:58.293Z] : [success]: Bot started
+
+[2023-01-12T16:57:58.297Z] : [info]: Robot start
+
+[2023-01-12T17:09:41.828Z] : [success]: Bot finished successfully, total execution time: 11m 43s 529ms
+
+[2023-01-12T17:09:41.833Z] : [info]: ---------------------------------------------
+
+[2023-01-12T17:29:41.756Z] : [success]: Robot saved successfully
+
+[2023-01-12T17:31:12.881Z] : [success]: Bot started
+
+[2023-01-12T17:31:12.886Z] : [info]: Robot start
+
+[2023-01-12T17:41:41.325Z] : [success]: Bot finished successfully, total execution time: 10m 28s 438ms
+
+[2023-01-12T17:41:41.331Z] : [info]: ---------------------------------------------
+
+[2023-01-12T17:42:35.930Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 12/1/2023 15:28:06
+  ==========================================
+  
+
+[2023-01-12T21:28:19.364Z] : [success]: Robot saved successfully
+

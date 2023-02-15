@@ -1,0 +1,115 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 2/1/2023 15:27:00
+  ==========================================
+  
+
+[2023-01-02T23:08:21.375Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:08:21.552Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:08:21.559Z] : [success]: Bot started
+
+[2023-01-02T23:08:21.563Z] : [info]: Robot start
+
+[2023-01-02T23:08:23.701Z] : [success]: Bot finished successfully, total execution time: 2s 137ms
+
+[2023-01-02T23:08:23.706Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:21:15.686Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:21:15.889Z] : [success]: Bot started
+
+[2023-01-02T23:21:15.894Z] : [info]: Robot start
+
+[2023-01-02T23:21:17.965Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2023-01-02T23:21:17.971Z] : [error]: Total execution time: 2s 72ms
+
+[2023-01-02T23:21:17.976Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:21:47.097Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:21:47.264Z] : [success]: Bot started
+
+[2023-01-02T23:21:47.269Z] : [info]: Robot start
+
+[2023-01-02T23:21:49.344Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2023-01-02T23:21:49.350Z] : [error]: Total execution time: 2s 75ms
+
+[2023-01-02T23:21:49.354Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:21:57.040Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:21:57.261Z] : [success]: Bot started
+
+[2023-01-02T23:21:57.265Z] : [info]: Robot start
+
+[2023-01-02T23:21:59.350Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2023-01-02T23:21:59.357Z] : [error]: Total execution time: 2s 85ms
+
+[2023-01-02T23:21:59.361Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:22:15.959Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:22:16.137Z] : [success]: Bot started
+
+[2023-01-02T23:22:16.141Z] : [info]: Robot start
+
+[2023-01-02T23:22:18.230Z] : [error]: The extraction end point has not been found. Make sure the specified text in the "Before" parameter actually exists in the input string
+
+[2023-01-02T23:22:18.236Z] : [error]: Total execution time: 2s 89ms
+
+[2023-01-02T23:22:18.240Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:23:42.156Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:23:42.258Z] : [success]: Bot started
+
+[2023-01-02T23:23:42.262Z] : [info]: Robot start
+
+[2023-01-02T23:23:44.322Z] : [success]: Bot finished successfully, total execution time: 2s 59ms
+
+[2023-01-02T23:23:44.327Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:25:00.212Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:25:00.314Z] : [success]: Bot started
+
+[2023-01-02T23:25:00.317Z] : [info]: Robot start
+
+[2023-01-02T23:25:02.387Z] : [success]: Bot finished successfully, total execution time: 2s 69ms
+
+[2023-01-02T23:25:02.392Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:29:16.662Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:29:16.787Z] : [success]: Bot started
+
+[2023-01-02T23:29:16.791Z] : [info]: Robot start
+
+[2023-01-02T23:29:18.871Z] : [success]: Bot finished successfully, total execution time: 2s 80ms
+
+[2023-01-02T23:29:18.876Z] : [info]: ---------------------------------------------
+
+[2023-01-02T23:31:06.033Z] : [success]: Robot saved successfully
+
+[2023-01-02T23:31:06.236Z] : [success]: Bot started
+
+[2023-01-02T23:31:06.240Z] : [info]: Robot start
+
+[2023-01-02T23:31:08.312Z] : [success]: Bot finished successfully, total execution time: 2s 71ms
+
+[2023-01-02T23:31:08.317Z] : [info]: ---------------------------------------------
+
+[2023-01-03T00:17:58.752Z] : [info]: Internet connection // error
+
+[2023-01-03T00:18:02.551Z] : [success]: Connection to our licenses server is restored
+
+[2023-01-03T00:51:14.912Z] : [success]: Robot saved successfully
+
+[2023-01-03T00:51:40.392Z] : [success]: Robot saved successfully
+

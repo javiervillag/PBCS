@@ -1,0 +1,957 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 11:05:26
+  ==========================================
+  
+
+[2022-12-31T17:07:36.147Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:08:53.133Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:08:53.242Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:08:53.244Z] : [success]: Bot started
+
+[2022-12-31T17:08:53.247Z] : [info]: Robot start
+
+[2022-12-31T17:08:54.345Z] : [error]: directory doesn't exist
+
+[2022-12-31T17:08:54.351Z] : [error]: Total execution time: 1s 98ms
+
+[2022-12-31T17:08:54.363Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:09:25.053Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:09:25.153Z] : [success]: Bot started
+
+[2022-12-31T17:09:25.156Z] : [info]: Robot start
+
+[2022-12-31T17:09:26.200Z] : [error]: directory doesn't exist
+
+[2022-12-31T17:09:26.205Z] : [error]: Total execution time: 1s 43ms
+
+[2022-12-31T17:09:26.209Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:09:51.177Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:09:51.327Z] : [success]: Bot started
+
+[2022-12-31T17:09:51.330Z] : [info]: Robot start
+
+[2022-12-31T17:09:58.461Z] : [success]: Bot finished successfully, total execution time: 7s 130ms
+
+[2022-12-31T17:09:58.465Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:10:38.581Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:10:38.723Z] : [success]: Bot started
+
+[2022-12-31T17:10:38.728Z] : [info]: Robot start
+
+[2022-12-31T17:10:39.797Z] : [success]: Bot finished successfully, total execution time: 1s 68ms
+
+[2022-12-31T17:10:39.802Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:13:01.587Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:13:01.729Z] : [success]: Bot started
+
+[2022-12-31T17:13:01.733Z] : [info]: Robot start
+
+[2022-12-31T17:13:33.189Z] : [error]: Script Stopped.
+
+[2022-12-31T17:13:33.194Z] : [warn]: Total execution time: 31s 455ms
+
+[2022-12-31T17:13:33.199Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:14:02.209Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:14:02.352Z] : [success]: Bot started
+
+[2022-12-31T17:14:02.356Z] : [info]: Robot start
+
+[2022-12-31T17:14:03.121Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\04 ABRIL 2022.pdf : ok
+
+[2022-12-31T17:14:03.150Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\BANREGIO.pdf : ok
+
+[2022-12-31T17:14:03.158Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\BBVA_Estado de cuenta Noviembre.pdf : ok
+
+[2022-12-31T17:14:03.182Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\EDO.CUENTA NOVIEMBRE 2022 AFIRME.pdf : ok
+
+[2022-12-31T17:14:03.213Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\Estado de cuenta  BANORTE.PDF : ok
+
+[2022-12-31T17:14:03.220Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\ESTADO DE CUENTA BANAMEX.pdf : ok
+
+[2022-12-31T17:14:03.244Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\Periodo_NOV 2022 INBURSA.pdf : ok
+
+[2022-12-31T17:14:03.276Z] : [info]: undefined : ok
+
+[2022-12-31T17:14:03.441Z] : [success]: Bot finished successfully, total execution time: 1s 84ms
+
+[2022-12-31T17:14:03.445Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:14:21.440Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:14:21.549Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:14:21.552Z] : [success]: Bot started
+
+[2022-12-31T17:14:21.555Z] : [info]: Robot start
+
+[2022-12-31T17:14:22.599Z] : [success]: Bot finished successfully, total execution time: 1s 43ms
+
+[2022-12-31T17:14:22.604Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:14:36.115Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:14:36.236Z] : [success]: Bot started
+
+[2022-12-31T17:14:36.241Z] : [info]: Robot start
+
+[2022-12-31T17:14:36.975Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\04 ABRIL 2022.pdf : ok
+
+[2022-12-31T17:14:36.994Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\BANREGIO.pdf : ok
+
+[2022-12-31T17:14:37.003Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\BBVA_Estado de cuenta Noviembre.pdf : ok
+
+[2022-12-31T17:14:37.014Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\EDO.CUENTA NOVIEMBRE 2022 AFIRME.pdf : ok
+
+[2022-12-31T17:14:37.032Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\Estado de cuenta  BANORTE.PDF : ok
+
+[2022-12-31T17:14:37.068Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\ESTADO DE CUENTA BANAMEX.pdf : ok
+
+[2022-12-31T17:14:37.100Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\Periodo_NOV 2022 INBURSA.pdf : ok
+
+[2022-12-31T17:14:37.304Z] : [success]: Bot finished successfully, total execution time: 1s 62ms
+
+[2022-12-31T17:14:37.309Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:17:34.947Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:17:38.460Z] : [success]: Bot started
+
+[2022-12-31T17:17:38.464Z] : [info]: Robot start
+
+[2022-12-31T17:17:39.519Z] : [success]: Bot finished successfully, total execution time: 1s 54ms
+
+[2022-12-31T17:17:39.525Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:18:21.018Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:18:21.143Z] : [success]: Bot started
+
+[2022-12-31T17:18:21.148Z] : [info]: Robot start
+
+[2022-12-31T17:18:21.927Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\04 ABRIL 2022.pdf : NO OK
+
+[2022-12-31T17:18:22.197Z] : [success]: Bot finished successfully, total execution time: 1s 48ms
+
+[2022-12-31T17:18:22.202Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:18:54.026Z] : [success]: Bot started
+
+[2022-12-31T17:18:54.031Z] : [info]: Robot start
+
+[2022-12-31T17:18:54.811Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\BANREGIO.pdf : NO OK
+
+[2022-12-31T17:18:55.106Z] : [success]: Bot finished successfully, total execution time: 1s 74ms
+
+[2022-12-31T17:18:55.112Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:21:43.309Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:21:43.458Z] : [success]: Bot started
+
+[2022-12-31T17:21:43.463Z] : [info]: Robot start
+
+[2022-12-31T17:21:44.531Z] : [success]: Bot finished successfully, total execution time: 1s 67ms
+
+[2022-12-31T17:21:44.536Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:22:02.481Z] : [success]: Bot started
+
+[2022-12-31T17:22:02.486Z] : [info]: Robot start
+
+[2022-12-31T17:22:03.544Z] : [success]: Bot finished successfully, total execution time: 1s 57ms
+
+[2022-12-31T17:22:03.549Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:22:12.540Z] : [success]: Bot started
+
+[2022-12-31T17:22:12.558Z] : [info]: Robot start
+
+[2022-12-31T17:22:13.623Z] : [success]: Bot finished successfully, total execution time: 1s 65ms
+
+[2022-12-31T17:22:13.628Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:24:22.449Z] : [info]: Internet connection // error
+
+[2022-12-31T17:24:22.523Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:24:22.635Z] : [success]: Bot started
+
+[2022-12-31T17:24:22.640Z] : [info]: Robot start
+
+[2022-12-31T17:24:23.712Z] : [success]: Bot finished successfully, total execution time: 1s 72ms
+
+[2022-12-31T17:24:23.717Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:25:33.632Z] : [success]: Connection to our licenses server is restored
+
+[2022-12-31T17:25:33.698Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:25:33.853Z] : [success]: Bot started
+
+[2022-12-31T17:25:33.858Z] : [info]: Robot start
+
+[2022-12-31T17:25:34.937Z] : [success]: Bot finished successfully, total execution time: 1s 77ms
+
+[2022-12-31T17:25:34.945Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:25:52.256Z] : [info]: Internet connection // error
+
+[2022-12-31T17:25:52.320Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:25:52.416Z] : [success]: Bot started
+
+[2022-12-31T17:25:52.421Z] : [info]: Robot start
+
+[2022-12-31T17:25:53.425Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\Periodo_NOV 2022.pdf : NO OK
+
+[2022-12-31T17:25:53.512Z] : [success]: Bot finished successfully, total execution time: 1s 91ms
+
+[2022-12-31T17:25:53.516Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:26:19.144Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:26:19.256Z] : [success]: Bot started
+
+[2022-12-31T17:26:19.260Z] : [info]: Robot start
+
+[2022-12-31T17:26:20.172Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\Periodo_NOV 2022.pdf : NO OK
+
+[2022-12-31T17:26:20.383Z] : [success]: Bot finished successfully, total execution time: 1s 123ms
+
+[2022-12-31T17:26:20.387Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:26:40.418Z] : [success]: Connection to our licenses server is restored
+
+[2022-12-31T17:26:40.560Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:26:40.564Z] : [success]: Bot started
+
+[2022-12-31T17:26:40.568Z] : [info]: Robot start
+
+[2022-12-31T17:26:41.635Z] : [success]: Bot finished successfully, total execution time: 1s 66ms
+
+[2022-12-31T17:26:41.642Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:28:09.780Z] : [success]: Robot saved successfully
+
+[2022-12-31T17:28:09.900Z] : [success]: Bot started
+
+[2022-12-31T17:28:09.904Z] : [info]: Robot start
+
+[2022-12-31T17:28:10.971Z] : [success]: Bot finished successfully, total execution time: 1s 66ms
+
+[2022-12-31T17:28:10.975Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:28:25.428Z] : [success]: Bot started
+
+[2022-12-31T17:28:25.432Z] : [info]: Robot start
+
+[2022-12-31T17:28:26.499Z] : [success]: Bot finished successfully, total execution time: 1s 66ms
+
+[2022-12-31T17:28:26.503Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:28:41.021Z] : [info]: Internet connection // error
+
+[2022-12-31T17:28:41.164Z] : [success]: Bot started
+
+[2022-12-31T17:28:41.168Z] : [info]: Robot start
+
+[2022-12-31T17:28:42.253Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\1. Datos\ESTADOS DE CUENTA DIFERENTES BANCOS\BANORTE.txt : ERROR FORMATO
+
+[2022-12-31T17:28:43.246Z] : [success]: Bot finished successfully, total execution time: 2s 78ms
+
+[2022-12-31T17:28:43.251Z] : [info]: ---------------------------------------------
+
+[2022-12-31T17:30:59.026Z] : [success]: Robot saved successfully
+
+[2022-12-31T18:44:18.651Z] : [success]: Connection to our licenses server is restored
+
+[2022-12-31T19:09:27.049Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:09:27.187Z] : [success]: Bot started
+
+[2022-12-31T19:09:27.192Z] : [info]: Robot start
+
+[2022-12-31T19:09:28.268Z] : [error]: estados_cuenta is not defined
+
+[2022-12-31T19:09:28.273Z] : [error]: Total execution time: 1s 76ms
+
+[2022-12-31T19:09:28.276Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:10:51.938Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:10:54.775Z] : [success]: Bot started
+
+[2022-12-31T19:10:54.779Z] : [info]: Robot start
+
+[2022-12-31T19:10:55.808Z] : [info]: [] : OK
+
+[2022-12-31T19:10:55.848Z] : [success]: Bot finished successfully, total execution time: 1s 68ms
+
+[2022-12-31T19:10:55.852Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:12:48.793Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:12:48.928Z] : [success]: Bot started
+
+[2022-12-31T19:12:48.932Z] : [info]: Robot start
+
+[2022-12-31T19:12:49.999Z] : [error]: estado_cuenta is not defined
+
+[2022-12-31T19:12:50.004Z] : [error]: Total execution time: 1s 67ms
+
+[2022-12-31T19:12:50.007Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:13:27.323Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:13:27.468Z] : [success]: Bot started
+
+[2022-12-31T19:13:27.473Z] : [info]: Robot start
+
+[2022-12-31T19:13:28.503Z] : [info]: [] : OK
+
+[2022-12-31T19:13:28.569Z] : [success]: Bot finished successfully, total execution time: 1s 95ms
+
+[2022-12-31T19:13:28.572Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:13:42.506Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:13:42.654Z] : [success]: Bot started
+
+[2022-12-31T19:13:42.657Z] : [info]: Robot start
+
+[2022-12-31T19:13:43.717Z] : [info]: [] : OK
+
+[2022-12-31T19:13:43.742Z] : [success]: Bot finished successfully, total execution time: 1s 84ms
+
+[2022-12-31T19:13:43.769Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:15:16.186Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:15:16.297Z] : [success]: Bot started
+
+[2022-12-31T19:15:16.301Z] : [info]: Robot start
+
+[2022-12-31T19:15:17.250Z] : [info]: [] : OK
+
+[2022-12-31T19:15:17.379Z] : [success]: Bot finished successfully, total execution time: 1s 77ms
+
+[2022-12-31T19:15:17.383Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:16:27.311Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:16:27.482Z] : [success]: Bot started
+
+[2022-12-31T19:16:27.486Z] : [info]: Robot start
+
+[2022-12-31T19:16:28.574Z] : [error]: Unexpected token ')'
+
+[2022-12-31T19:16:28.578Z] : [error]: Total execution time: 1s 87ms
+
+[2022-12-31T19:16:28.581Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:16:59.505Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:16:59.609Z] : [success]: Bot started
+
+[2022-12-31T19:16:59.613Z] : [info]: Robot start
+
+[2022-12-31T19:17:01.708Z] : [error]: Unexpected token ')'
+
+[2022-12-31T19:17:01.713Z] : [error]: Total execution time: 2s 95ms
+
+[2022-12-31T19:17:01.717Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:17:49.194Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:17:49.289Z] : [success]: Bot started
+
+[2022-12-31T19:17:49.292Z] : [info]: Robot start
+
+[2022-12-31T19:17:50.377Z] : [error]: Unexpected token ')'
+
+[2022-12-31T19:17:50.382Z] : [error]: Total execution time: 1s 85ms
+
+[2022-12-31T19:17:50.385Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:19:11.853Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:19:11.964Z] : [success]: Bot started
+
+[2022-12-31T19:19:11.968Z] : [info]: Robot start
+
+[2022-12-31T19:19:13.039Z] : [error]: Unexpected token ')'
+
+[2022-12-31T19:19:13.044Z] : [error]: Total execution time: 1s 71ms
+
+[2022-12-31T19:19:13.049Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:19:46.255Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:19:46.366Z] : [success]: Bot started
+
+[2022-12-31T19:19:46.370Z] : [info]: Robot start
+
+[2022-12-31T19:19:47.439Z] : [error]: Unexpected identifier
+
+[2022-12-31T19:19:47.444Z] : [error]: Total execution time: 1s 69ms
+
+[2022-12-31T19:19:47.447Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:20:17.971Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:20:18.095Z] : [success]: Bot started
+
+[2022-12-31T19:20:18.099Z] : [info]: Robot start
+
+[2022-12-31T19:20:19.171Z] : [error]: Unexpected token ')'
+
+[2022-12-31T19:20:19.175Z] : [error]: Total execution time: 1s 72ms
+
+[2022-12-31T19:20:19.178Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:20:59.688Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:20:59.786Z] : [success]: Bot started
+
+[2022-12-31T19:20:59.789Z] : [info]: Robot start
+
+[2022-12-31T19:21:00.877Z] : [error]: Unexpected token ')'
+
+[2022-12-31T19:21:00.882Z] : [error]: Total execution time: 1s 88ms
+
+[2022-12-31T19:21:00.885Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:21:30.887Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:21:31.007Z] : [success]: Bot started
+
+[2022-12-31T19:21:31.014Z] : [info]: Robot start
+
+[2022-12-31T19:21:31.887Z] : [info]: [] : OK
+
+[2022-12-31T19:21:32.092Z] : [success]: Bot finished successfully, total execution time: 1s 76ms
+
+[2022-12-31T19:21:32.097Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:21:42.573Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:21:42.694Z] : [success]: Bot started
+
+[2022-12-31T19:21:42.696Z] : [info]: Robot start
+
+[2022-12-31T19:21:43.699Z] : [info]: 0 : OK
+
+[2022-12-31T19:21:43.764Z] : [success]: Bot finished successfully, total execution time: 1s 67ms
+
+[2022-12-31T19:21:43.767Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:22:18.123Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:22:18.213Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:22:18.217Z] : [success]: Bot started
+
+[2022-12-31T19:22:18.220Z] : [info]: Robot start
+
+[2022-12-31T19:22:19.298Z] : [success]: Bot finished successfully, total execution time: 1s 77ms
+
+[2022-12-31T19:22:19.329Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:22:37.381Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:22:37.506Z] : [success]: Bot started
+
+[2022-12-31T19:22:37.517Z] : [info]: Robot start
+
+[2022-12-31T19:22:38.602Z] : [success]: Bot finished successfully, total execution time: 1s 84ms
+
+[2022-12-31T19:22:38.605Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:22:55.330Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:22:55.462Z] : [success]: Bot started
+
+[2022-12-31T19:22:55.466Z] : [info]: Robot start
+
+[2022-12-31T19:22:56.548Z] : [success]: Bot finished successfully, total execution time: 1s 81ms
+
+[2022-12-31T19:22:56.553Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:23:17.988Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:23:18.124Z] : [success]: Bot started
+
+[2022-12-31T19:23:18.126Z] : [info]: Robot start
+
+[2022-12-31T19:23:19.205Z] : [error]: Unexpected token ')'
+
+[2022-12-31T19:23:19.209Z] : [error]: Total execution time: 1s 79ms
+
+[2022-12-31T19:23:19.212Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:23:31.974Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:23:32.117Z] : [success]: Bot started
+
+[2022-12-31T19:23:32.120Z] : [info]: Robot start
+
+[2022-12-31T19:23:33.204Z] : [success]: Bot finished successfully, total execution time: 1s 83ms
+
+[2022-12-31T19:23:33.207Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:24:20.610Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:24:20.727Z] : [success]: Bot started
+
+[2022-12-31T19:24:20.730Z] : [info]: Robot start
+
+[2022-12-31T19:24:22.792Z] : [error]: Script execution timed out after 1000ms
+
+[2022-12-31T19:24:22.799Z] : [error]: Total execution time: 2s 62ms
+
+[2022-12-31T19:24:22.803Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:25:50.650Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:25:50.802Z] : [success]: Bot started
+
+[2022-12-31T19:25:50.806Z] : [info]: Robot start
+
+[2022-12-31T19:25:51.872Z] : [info]: 7 : OK
+
+[2022-12-31T19:25:52.904Z] : [error]: Script execution timed out after 1000ms
+
+[2022-12-31T19:25:52.911Z] : [error]: Total execution time: 2s 98ms
+
+[2022-12-31T19:25:52.915Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:26:17.025Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:26:17.167Z] : [success]: Bot started
+
+[2022-12-31T19:26:17.171Z] : [info]: Robot start
+
+[2022-12-31T19:26:18.183Z] : [info]: 7 : OK
+
+[2022-12-31T19:26:18.243Z] : [success]: Bot finished successfully, total execution time: 1s 72ms
+
+[2022-12-31T19:26:18.247Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:26:39.143Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:26:39.259Z] : [success]: Bot started
+
+[2022-12-31T19:26:39.262Z] : [info]: Robot start
+
+[2022-12-31T19:26:40.329Z] : [info]: 7 : OK
+
+[2022-12-31T19:26:41.352Z] : [success]: Bot finished successfully, total execution time: 2s 89ms
+
+[2022-12-31T19:26:41.356Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:26:54.756Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:26:54.891Z] : [success]: Bot started
+
+[2022-12-31T19:26:54.895Z] : [info]: Robot start
+
+[2022-12-31T19:26:55.979Z] : [info]: 7 : OK
+
+[2022-12-31T19:26:55.995Z] : [info]: 0 : OK
+
+[2022-12-31T19:26:56.974Z] : [success]: Bot finished successfully, total execution time: 2s 78ms
+
+[2022-12-31T19:26:56.978Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:27:41.030Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:27:41.190Z] : [success]: Bot started
+
+[2022-12-31T19:27:41.196Z] : [info]: Robot start
+
+[2022-12-31T19:27:42.347Z] : [info]: 7 : OK
+
+[2022-12-31T19:27:43.294Z] : [error]: Unexpected token ')'
+
+[2022-12-31T19:27:43.299Z] : [error]: Total execution time: 2s 98ms
+
+[2022-12-31T19:27:43.303Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:28:23.027Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:28:23.153Z] : [success]: Bot started
+
+[2022-12-31T19:28:23.156Z] : [info]: Robot start
+
+[2022-12-31T19:28:24.149Z] : [info]: 7 : OK
+
+[2022-12-31T19:28:24.164Z] : [info]: 0 : OK
+
+[2022-12-31T19:28:24.223Z] : [success]: Bot finished successfully, total execution time: 1s 67ms
+
+[2022-12-31T19:28:24.227Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:28:39.325Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:28:39.464Z] : [success]: Bot started
+
+[2022-12-31T19:28:39.467Z] : [info]: Robot start
+
+[2022-12-31T19:28:40.500Z] : [info]: 7 : OK
+
+[2022-12-31T19:28:40.545Z] : [error]: Unexpected token ')'
+
+[2022-12-31T19:28:40.549Z] : [error]: Total execution time: 1s 77ms
+
+[2022-12-31T19:28:40.552Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:28:49.805Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:28:49.946Z] : [success]: Bot started
+
+[2022-12-31T19:28:49.953Z] : [info]: Robot start
+
+[2022-12-31T19:28:50.910Z] : [info]: 7 : OK
+
+[2022-12-31T19:28:50.929Z] : [info]: 0 : OK
+
+[2022-12-31T19:28:51.043Z] : [success]: Bot finished successfully, total execution time: 1s 90ms
+
+[2022-12-31T19:28:51.046Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:29:12.865Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:29:12.995Z] : [success]: Bot started
+
+[2022-12-31T19:29:12.998Z] : [info]: Robot start
+
+[2022-12-31T19:29:14.057Z] : [info]: 7 : OK
+
+[2022-12-31T19:29:14.075Z] : [info]: 0 : OK
+
+[2022-12-31T19:29:15.089Z] : [success]: Bot finished successfully, total execution time: 2s 90ms
+
+[2022-12-31T19:29:15.093Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:29:22.521Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:29:22.642Z] : [success]: Bot started
+
+[2022-12-31T19:29:22.645Z] : [info]: Robot start
+
+[2022-12-31T19:29:23.615Z] : [info]: 7 : OK
+
+[2022-12-31T19:29:23.619Z] : [info]: undefined : OK
+
+[2022-12-31T19:29:23.712Z] : [success]: Bot finished successfully, total execution time: 1s 67ms
+
+[2022-12-31T19:29:23.716Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:30:14.463Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:30:14.596Z] : [success]: Bot started
+
+[2022-12-31T19:30:14.600Z] : [info]: Robot start
+
+[2022-12-31T19:30:15.717Z] : [info]: 7 : OK
+
+[2022-12-31T19:30:15.720Z] : [info]: undefined : OK
+
+[2022-12-31T19:30:16.688Z] : [success]: Bot finished successfully, total execution time: 2s 87ms
+
+[2022-12-31T19:30:16.692Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:32:39.466Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:32:39.645Z] : [success]: Bot started
+
+[2022-12-31T19:32:39.649Z] : [info]: Robot start
+
+[2022-12-31T19:32:45.962Z] : [error]: Script Stopped.
+
+[2022-12-31T19:32:45.968Z] : [warn]: Total execution time: 6s 312ms
+
+[2022-12-31T19:32:45.972Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:32:53.511Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:32:53.711Z] : [success]: Bot started
+
+[2022-12-31T19:32:53.716Z] : [info]: Robot start
+
+[2022-12-31T19:32:58.904Z] : [success]: Bot finished successfully, total execution time: 5s 187ms
+
+[2022-12-31T19:32:58.907Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:33:08.948Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:33:09.145Z] : [success]: Bot started
+
+[2022-12-31T19:33:09.149Z] : [info]: Robot start
+
+[2022-12-31T19:33:19.144Z] : [error]: Script Stopped.
+
+[2022-12-31T19:33:19.150Z] : [warn]: Total execution time: 9s 994ms
+
+[2022-12-31T19:33:19.154Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:33:44.833Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:33:45.025Z] : [success]: Bot started
+
+[2022-12-31T19:33:45.030Z] : [info]: Robot start
+
+[2022-12-31T19:33:46.121Z] : [error]: Missing initializer in const declaration
+
+[2022-12-31T19:33:46.126Z] : [error]: Total execution time: 1s 91ms
+
+[2022-12-31T19:33:46.153Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:33:57.371Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:33:57.573Z] : [success]: Bot started
+
+[2022-12-31T19:33:57.577Z] : [info]: Robot start
+
+[2022-12-31T19:33:58.673Z] : [success]: Bot finished successfully, total execution time: 1s 95ms
+
+[2022-12-31T19:33:58.677Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:34:27.781Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:34:28.022Z] : [success]: Bot started
+
+[2022-12-31T19:34:28.026Z] : [info]: Robot start
+
+[2022-12-31T19:34:29.144Z] : [success]: Bot finished successfully, total execution time: 1s 117ms
+
+[2022-12-31T19:34:29.148Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:35:31.044Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:35:31.224Z] : [success]: Bot started
+
+[2022-12-31T19:35:31.228Z] : [info]: Robot start
+
+[2022-12-31T19:35:33.349Z] : [error]: Invalid left-hand side expression in postfix operation
+
+[2022-12-31T19:35:33.353Z] : [error]: Total execution time: 2s 120ms
+
+[2022-12-31T19:35:33.357Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:35:56.065Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:35:56.258Z] : [success]: Bot started
+
+[2022-12-31T19:35:56.262Z] : [info]: Robot start
+
+[2022-12-31T19:36:10.573Z] : [error]: Canceled by user
+
+[2022-12-31T19:36:10.577Z] : [error]: Total execution time: 14s 311ms
+
+[2022-12-31T19:36:10.580Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:37:11.171Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:37:11.345Z] : [success]: Bot started
+
+[2022-12-31T19:37:11.350Z] : [info]: Robot start
+
+[2022-12-31T19:37:20.587Z] : [error]: Canceled by user
+
+[2022-12-31T19:37:20.592Z] : [error]: Total execution time: 9s 236ms
+
+[2022-12-31T19:37:20.596Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:37:48.373Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:37:48.546Z] : [success]: Bot started
+
+[2022-12-31T19:37:48.550Z] : [info]: Robot start
+
+[2022-12-31T19:38:16.202Z] : [error]: Canceled by user
+
+[2022-12-31T19:38:16.209Z] : [error]: Total execution time: 27s 652ms
+
+[2022-12-31T19:38:16.213Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:38:27.138Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:38:27.349Z] : [success]: Bot started
+
+[2022-12-31T19:38:27.353Z] : [info]: Robot start
+
+[2022-12-31T19:38:31.465Z] : [error]: Canceled by user
+
+[2022-12-31T19:38:31.470Z] : [error]: Total execution time: 4s 112ms
+
+[2022-12-31T19:38:31.473Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:38:40.114Z] : [success]: Bot started
+
+[2022-12-31T19:38:40.119Z] : [info]: Robot start
+
+[2022-12-31T19:38:44.260Z] : [error]: Canceled by user
+
+[2022-12-31T19:38:44.264Z] : [error]: Total execution time: 4s 141ms
+
+[2022-12-31T19:38:44.267Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:39:25.305Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:39:25.485Z] : [success]: Bot started
+
+[2022-12-31T19:39:25.489Z] : [info]: Robot start
+
+[2022-12-31T19:39:34.729Z] : [error]: Canceled by user
+
+[2022-12-31T19:39:34.734Z] : [error]: Total execution time: 9s 239ms
+
+[2022-12-31T19:39:34.738Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:39:57.691Z] : [success]: Robot saved successfully
+
+[2022-12-31T19:39:57.865Z] : [success]: Bot started
+
+[2022-12-31T19:39:57.869Z] : [info]: Robot start
+
+[2022-12-31T19:40:09.119Z] : [success]: Bot finished successfully, total execution time: 11s 250ms
+
+[2022-12-31T19:40:09.123Z] : [info]: ---------------------------------------------
+
+[2022-12-31T19:40:53.074Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 16:14:50
+  ==========================================
+  
+
+[2022-12-31T22:14:53.377Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 16:16:05
+  ==========================================
+  
+
+[2022-12-31T22:18:56.424Z] : [success]: Robot saved successfully
+
+[2022-12-31T22:19:00.244Z] : [success]: Bot started
+
+[2022-12-31T22:19:00.248Z] : [info]: Robot start
+
+[2022-12-31T22:19:22.291Z] : [success]: Bot finished successfully, total execution time: 22s 42ms
+
+[2022-12-31T22:19:22.312Z] : [info]: ---------------------------------------------
+
+[2022-12-31T22:19:29.118Z] : [success]: Robot saved successfully
+
+[2022-12-31T22:20:08.472Z] : [error]: directory doesn't exist
+
+[2022-12-31T22:20:08.477Z] : [error]: Total execution time: 16s 930ms
+
+[2022-12-31T22:20:08.483Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 16:20:08
+  ==========================================
+  
+
+[2022-12-31T22:20:22.565Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 16:22:25
+  ==========================================
+  
+
+[2022-12-31T22:25:16.366Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 16:27:17
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 16:29:14
+  ==========================================
+  
+
+[2022-12-31T22:29:24.211Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 16:29:55
+  ==========================================
+  
+
+[2022-12-31T22:32:39.820Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 16:33:51
+  ==========================================
+  
+
+[2022-12-31T22:35:02.665Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 16:35:40
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 17:26:14
+  ==========================================
+  
+
+[2022-12-31T23:30:58.969Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 17:45:03
+  ==========================================
+  
+
+[2023-01-01T00:06:45.008Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 18:38:36
+  ==========================================
+  
+

@@ -1,0 +1,65 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 16/1/2023 16:07:15
+  ==========================================
+  
+
+[2023-01-16T22:07:18.024Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:07:18.609Z] : [info]: ---------------------------------------------
+
+[2023-01-16T22:07:18.614Z] : [success]: Bot started
+
+[2023-01-16T22:07:18.618Z] : [info]: Robot start
+
+[2023-01-16T22:07:52.010Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-16T22:08:38.020Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:08:38.718Z] : [success]: Bot started
+
+[2023-01-16T22:08:38.721Z] : [info]: Robot start
+
+[2023-01-16T22:09:05.861Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-16T22:09:39.724Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:09:40.250Z] : [success]: Bot started
+
+[2023-01-16T22:09:40.255Z] : [info]: Robot start
+
+[2023-01-16T22:10:10.334Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-16T22:10:49.720Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:10:50.303Z] : [success]: Bot started
+
+[2023-01-16T22:10:50.307Z] : [info]: Robot start
+
+[2023-01-16T22:11:25.394Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-16T22:11:30.300Z] : [success]: Bot started
+
+[2023-01-16T22:11:30.304Z] : [info]: Robot start
+
+[2023-01-16T22:11:57.922Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-16T22:12:23.838Z] : [success]: Robot saved successfully
+
+[2023-01-16T22:12:24.411Z] : [success]: Bot started
+
+[2023-01-16T22:12:24.419Z] : [info]: Robot start
+
+[2023-01-16T22:13:10.329Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-01-16T22:13:28.720Z] : [success]: Bot started
+
+[2023-01-16T22:13:28.725Z] : [info]: Robot start
+
+[2023-01-16T22:14:11.521Z] : [error]: Unknown Error: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/execute","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/execute: 0 Unknown Error","error":{"isTrusted":true}}
+
+[2023-01-16T22:14:11.526Z] : [info]: ---------------------------------------------
+
+[2023-01-16T22:14:12.404Z] : [error]: Uncaught (in promise): n: {"headers":{"normalizedNames":{},"lazyUpdate":null,"headers":{}},"status":0,"statusText":"Unknown Error","url":"http://localhost:5000/api/variables?name=ubicacion_python_myenv","ok":false,"name":"HttpErrorResponse","message":"Http failure response for http://localhost:5000/api/variables?name=ubicacion_python_myenv: 0 Unknown Error","error":{"isTrusted":true}}
+

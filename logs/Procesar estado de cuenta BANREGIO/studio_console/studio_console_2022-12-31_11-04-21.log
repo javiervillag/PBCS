@@ -1,0 +1,87 @@
+
+  ==========================================
+  Studio Pro version: 8.7.11
+  Started at: 31/12/2022 17:05:48
+  ==========================================
+  
+
+[2022-12-31T23:15:14.266Z] : [success]: Robot saved successfully
+
+[2022-12-31T23:15:18.186Z] : [info]: ---------------------------------------------
+
+[2022-12-31T23:15:18.190Z] : [success]: Bot started
+
+[2022-12-31T23:15:18.193Z] : [info]: Robot start
+
+[2022-12-31T23:15:40.474Z] : [error]: The agent is already running another script.
+
+[2022-12-31T23:15:40.479Z] : [info]: ---------------------------------------------
+
+[2022-12-31T23:15:55.361Z] : [success]: Bot started
+
+[2022-12-31T23:15:55.388Z] : [info]: Robot start
+
+[2022-12-31T23:16:46.152Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2022-12-31T23:16:46.157Z] : [error]: Total execution time: 50s 763ms
+
+[2022-12-31T23:16:46.161Z] : [info]: ---------------------------------------------
+
+[2022-12-31T23:19:21.083Z] : [success]: Robot saved successfully
+
+[2022-12-31T23:19:27.792Z] : [success]: Bot started
+
+[2022-12-31T23:19:27.796Z] : [info]: Robot start
+
+[2022-12-31T23:20:03.288Z] : [success]: Bot finished successfully, total execution time: 35s 491ms
+
+[2022-12-31T23:20:03.292Z] : [info]: ---------------------------------------------
+
+[2022-12-31T23:21:03.397Z] : [info]: Internet connection // error
+
+[2022-12-31T23:21:03.598Z] : [success]: Bot started
+
+[2022-12-31T23:21:03.602Z] : [info]: Robot start
+
+[2022-12-31T23:21:23.933Z] : [error]: Script Stopped.
+
+[2022-12-31T23:21:23.937Z] : [warn]: Total execution time: 20s 330ms
+
+[2022-12-31T23:21:23.942Z] : [info]: ---------------------------------------------
+
+[2022-12-31T23:30:01.160Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:59:30.275Z] : [success]: Robot saved successfully
+
+[2023-01-01T00:59:30.593Z] : [success]: Bot started
+
+[2023-01-01T00:59:30.598Z] : [info]: Robot start
+
+[2023-01-01T00:59:32.706Z] : [error]: Selectors: Excel no puede acceder a «ESTADOS DE CUENTA DIFERENTES BANCOS». Puede ser que el documento sea de solo lectura o que esté cifrado.
+
+[2023-01-01T00:59:32.712Z] : [error]: Total execution time: 2s 107ms
+
+[2023-01-01T00:59:32.715Z] : [info]: ---------------------------------------------
+
+[2023-01-01T00:59:46.872Z] : [success]: Bot started
+
+[2023-01-01T00:59:46.876Z] : [info]: Robot start
+
+[2023-01-01T00:59:48.981Z] : [error]: Selectors: Excel no puede acceder a «ESTADOS DE CUENTA DIFERENTES BANCOS». Puede ser que el documento sea de solo lectura o que esté cifrado.
+
+[2023-01-01T00:59:48.987Z] : [error]: Total execution time: 2s 104ms
+
+[2023-01-01T00:59:48.991Z] : [info]: ---------------------------------------------
+
+[2023-01-01T01:01:09.355Z] : [success]: Robot saved successfully
+
+[2023-01-01T01:01:09.698Z] : [success]: Bot started
+
+[2023-01-01T01:01:09.705Z] : [info]: Robot start
+
+[2023-01-01T01:01:11.819Z] : [error]: Selectors: Excel no puede acceder a «ESTADOS DE CUENTA DIFERENTES BANCOS». Puede ser que el documento sea de solo lectura o que esté cifrado.
+
+[2023-01-01T01:01:11.825Z] : [error]: Total execution time: 2s 114ms
+
+[2023-01-01T01:01:11.829Z] : [info]: ---------------------------------------------
+
