@@ -1,0 +1,80 @@
+[2023-03-09T21:52:56.451Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+[2023-03-09T21:52:57.189Z] : [error]: Selectors: Selector is empty
+
+[2023-03-09T21:52:57.196Z] : [info]: Total execution time: 1m 14s 675ms
+
+[2023-03-09T21:52:57.198Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 9/3/2023, 15:52:59
+  ==========================================
+  
+
+[2023-03-09T22:36:11.020Z] : [error]: Selectors: Selector is empty
+
+[2023-03-09T22:36:11.024Z] : [info]: Total execution time: 2m 22s 531ms
+
+[2023-03-09T22:36:11.025Z] : [info]: ---------------------------------------------
+
+[2023-03-09T23:07:00.917Z] : [warn]: You opened a file that contained UI elements to interact with. But Studio Pro can't find the elements. This happens because the .neek file can't find the .elm file associated with the workflow. Please, put the .elm file to the corresponding elements folder in the same folder where the workflow is placed or select the elements manually again. Reopen the workflow
+
+[2023-03-09T23:07:01.878Z] : [error]: Selectors: Selector is empty
+
+[2023-03-09T23:07:01.885Z] : [info]: Total execution time: 1m 16s 880ms
+
+[2023-03-09T23:07:01.887Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 9/3/2023, 17:07:02
+  ==========================================
+  
+
+[2023-03-09T23:24:29.731Z] : [success]: Robot saved successfully
+
+[2023-03-09T23:28:22.890Z] : [success]: Bot started
+
+[2023-03-09T23:28:22.892Z] : [info]: Robot start
+
+[2023-03-09T23:28:51.850Z] : [success]: Bot finished successfully, total execution time: 28s 956ms
+
+[2023-03-09T23:28:51.852Z] : [info]: ---------------------------------------------
+
+[2023-03-09T23:30:09.542Z] : [success]: Robot saved successfully
+
+[2023-03-09T23:30:10.010Z] : [success]: Bot started
+
+[2023-03-09T23:30:10.013Z] : [info]: Robot start
+
+[2023-03-09T23:30:41.444Z] : [error]: Script Stopped.
+
+[2023-03-09T23:30:41.447Z] : [info]: Total execution time: 31s 431ms
+
+[2023-03-09T23:30:41.448Z] : [info]: ---------------------------------------------
+
+[2023-03-09T23:30:51.505Z] : [success]: Robot saved successfully
+
+[2023-03-09T23:30:55.932Z] : [success]: Bot started
+
+[2023-03-09T23:30:55.933Z] : [info]: Robot start
+
+[2023-03-09T23:31:50.819Z] : [success]: Bot finished successfully, total execution time: 54s 882ms
+
+[2023-03-09T23:31:50.823Z] : [info]: ---------------------------------------------
+
+[2023-03-09T23:32:30.425Z] : [success]: Robot saved successfully
+
+[2023-03-09T23:32:30.879Z] : [success]: Bot started
+
+[2023-03-09T23:32:30.880Z] : [info]: Robot start
+
+[2023-03-09T23:32:42.138Z] : [success]: Bot finished successfully, total execution time: 11s 256ms
+
+[2023-03-09T23:32:42.139Z] : [info]: ---------------------------------------------
+
+[2023-03-09T23:33:46.385Z] : [success]: Robot saved successfully
+

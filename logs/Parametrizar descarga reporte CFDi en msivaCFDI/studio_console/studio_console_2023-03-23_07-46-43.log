@@ -1,0 +1,25 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 23/3/2023, 15:39:28
+  ==========================================
+  
+
+[2023-03-23T21:39:49.165Z] : [info]: CONTABILIDAD
+
+[2023-03-23T21:39:50.426Z] : [info]: ARRASTRE MOTRIZ DE MEXICO SA DE CV
+
+[2023-03-23T21:39:53.064Z] : [info]: EJERCICIO 2022
+
+[2023-03-23T21:39:54.355Z] : [info]: GASTOS
+
+[2023-03-23T21:39:55.131Z] : [info]: 10 OCTUBRE
+
+[2023-03-23T21:53:22.347Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-03-23T21:53:22.349Z] : [info]: Total execution time: 18m 17s 854ms
+
+[2023-03-23T21:53:22.350Z] : [info]: ---------------------------------------------
+
+[2023-03-23T21:53:31.416Z] : [success]: Robot saved successfully
+

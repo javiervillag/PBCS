@@ -1,0 +1,85 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 15/3/2023, 15:45:48
+  ==========================================
+  
+
+[2023-03-15T22:03:26.846Z] : [info]: Internet connection // error
+
+[2023-03-15T22:06:42.361Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-15T22:06:42.547Z] : [info]: Internet connection // error
+
+[2023-03-15T22:06:48.481Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-15T23:01:58.584Z] : [info]: ---------------------------------------------
+
+[2023-03-15T23:01:58.592Z] : [success]: Bot started
+
+[2023-03-15T23:01:58.595Z] : [info]: Robot start
+
+[2023-03-15T23:02:27.077Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-15T23:02:40.290Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"iVBORw0KGgoAAAANSUhEUgAAAKAAAAA8CAIAAABuCSZCAAAEuklEQVR42u3cO2gVQRQG4CW2ImiZTogWRsTCQhF8QNBCJERSWAdEkGAhggpKrCJEENPYWmhao42NldiJrTbWFhrBRuvrwMBwMo8zZ86emZ29meEvkn3ce8mXM4/dTbpJHW3u9Cc88OB31y9SMqmyPfk3S4nU23Wj0IXGRN0GXAswUZdh3ICHB07SNcbjBSbqNuBWwVMNTDGe1NrqAn54/4GVGoCvzVw1qUd37tBBK5UCu6jelNSFokjYui8XvsL0QfUm1Vjw165DaCk1XcCYqGtSBphIG2Iuo7sLmC4naCyuq7N5adUKXZcCnMpJNxYfOOLA0Y19jBm61iuYLVFjhLkYcGhgztc6ui7cVQDYpXWvWVrSbOMkYMagOzAwMoFydy2uz6sIzrmIwFA3VMpE4FMnvoQiXrves4YHDhlrXVngkLFXN9RjKzniYIzoUozpwBCyRmBoZlxDutpe1piia4yJwFHdqDG9fGsHhgcVAHaNIXCoE04CJurixnTdqoFDiyLEWG+X+lhuJ9xzvZSkixjTdccBHIJ0jXHgV4tH9t2ZgakE+MD+yyb1AJ+8PQ+TCzg0NtOBLVQkxYChKJJUYHxFRAG2UJH0BY5elKYA02mjxurrM5u3RIBDxRpiZgBTJuFsWorxsV+fVfjAlC6aoesaGySlq8MGhorIoEsx7q9rHc/QTapj+TEYOt17e8Uk1diq4D7AKlpr5f0PndDQGzXmVXDo4JCToHHCLBpfLEFg7cTQDQEjl6vgASFgRNcyjvbVvNtHCLDrJFvEnHVwVFeHoesFxgnxWRgEVn64bhlgLySvx85yJQsZmEWAo8b04ja7IGRozhydYPe5w++dYfUHphh3SU9x4LrFgCm3kixgc48haRbNK2JkJA51xVUDhxa+/YFdOSKtdaThSZ1Cs3vp1PlzdmC2MXJlQwSYfYnD6p/Nt5Yo3bjn8zr48rcEMMPYfbkcwKnG1rkuD2OSRVwQJ/XbAwATmZGXywRMkQ6dYvHgeHTgnuPxkMB9Wm5gXssH3Kc1YElgI9SApxzYq9iA5YGRvYWBkflXJcDI3vEBi/8c1zZvGiT1tU6qbm7gR3+P6niBZ39usx8EyAUM7zRYinC7e29RXNcSNVu8VV5MF2oZXQWpYtHCDA8Mbxdaxm6K6UJgyEyhzQes69XSRcK/H5yjiKPG3kcD8gG7xvRk0jUd8siA2U905Bh9RYzzAYcGXcHHsnL9hf+wtF5dhvEkWzPAqcaqlJe2jqsMDEyUzvrWIeOo9LkPL1TK6IamV15anaT3quL/ZA0CDCfSWtRK1s/m6tLTgNOAvbolgVONG/Au4xvr391Y6+AGPMrmpYUpDLy1vKTSv5duwCRd3LjMh2QYp75FA55s7Ky4KfY5G3BGXRWvbmFj08R19zowoks0fvx6TSc3M/vV9i5wVDdqbHRlgWXbLuC7O4dVoucsf3zjZvrKl1LEIwPm0Yoznz2/oVN5BY+idYK6IsZGNyswUTcr8PM/v2GmAfjCs1WYvVzBlm4+405WFzG2dHHjAiNxA5YE9upmNa4Z2KVdePpNpQGXNi42AA9cwUm6LjCimxUYYTZ7h5o/ty66XBtqdVTXLHqKgae7/Qe69BW2DLf1qgAAAABJRU5ErkJggg=="} : API
+
+[2023-03-15T23:02:43.846Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"iVBORw0KGgoAAAANSUhEUgAAAKAAAAA8CAIAAABuCSZCAAAEuklEQVR42u3cO2gVQRQG4CW2ImiZTogWRsTCQhF8QNBCJERSWAdEkGAhggpKrCJEENPYWmhao42NldiJrTbWFhrBRuvrwMBwMo8zZ86emZ29meEvkn3ce8mXM4/dTbpJHW3u9Cc88OB31y9SMqmyPfk3S4nU23Wj0IXGRN0GXAswUZdh3ICHB07SNcbjBSbqNuBWwVMNTDGe1NrqAn54/4GVGoCvzVw1qUd37tBBK5UCu6jelNSFokjYui8XvsL0QfUm1Vjw165DaCk1XcCYqGtSBphIG2Iuo7sLmC4naCyuq7N5adUKXZcCnMpJNxYfOOLA0Y19jBm61iuYLVFjhLkYcGhgztc6ui7cVQDYpXWvWVrSbOMkYMagOzAwMoFydy2uz6sIzrmIwFA3VMpE4FMnvoQiXrves4YHDhlrXVngkLFXN9RjKzniYIzoUozpwBCyRmBoZlxDutpe1piia4yJwFHdqDG9fGsHhgcVAHaNIXCoE04CJurixnTdqoFDiyLEWG+X+lhuJ9xzvZSkixjTdccBHIJ0jXHgV4tH9t2ZgakE+MD+yyb1AJ+8PQ+TCzg0NtOBLVQkxYChKJJUYHxFRAG2UJH0BY5elKYA02mjxurrM5u3RIBDxRpiZgBTJuFsWorxsV+fVfjAlC6aoesaGySlq8MGhorIoEsx7q9rHc/QTapj+TEYOt17e8Uk1diq4D7AKlpr5f0PndDQGzXmVXDo4JCToHHCLBpfLEFg7cTQDQEjl6vgASFgRNcyjvbVvNtHCLDrJFvEnHVwVFeHoesFxgnxWRgEVn64bhlgLySvx85yJQsZmEWAo8b04ja7IGRozhydYPe5w++dYfUHphh3SU9x4LrFgCm3kixgc48haRbNK2JkJA51xVUDhxa+/YFdOSKtdaThSZ1Cs3vp1PlzdmC2MXJlQwSYfYnD6p/Nt5Yo3bjn8zr48rcEMMPYfbkcwKnG1rkuD2OSRVwQJ/XbAwATmZGXywRMkQ6dYvHgeHTgnuPxkMB9Wm5gXssH3Kc1YElgI9SApxzYq9iA5YGRvYWBkflXJcDI3vEBi/8c1zZvGiT1tU6qbm7gR3+P6niBZ39usx8EyAUM7zRYinC7e29RXNcSNVu8VV5MF2oZXQWpYtHCDA8Mbxdaxm6K6UJgyEyhzQes69XSRcK/H5yjiKPG3kcD8gG7xvRk0jUd8siA2U905Bh9RYzzAYcGXcHHsnL9hf+wtF5dhvEkWzPAqcaqlJe2jqsMDEyUzvrWIeOo9LkPL1TK6IamV15anaT3quL/ZA0CDCfSWtRK1s/m6tLTgNOAvbolgVONG/Au4xvr391Y6+AGPMrmpYUpDLy1vKTSv5duwCRd3LjMh2QYp75FA55s7Ky4KfY5G3BGXRWvbmFj08R19zowoks0fvx6TSc3M/vV9i5wVDdqbHRlgWXbLuC7O4dVoucsf3zjZvrKl1LEIwPm0Yoznz2/oVN5BY+idYK6IsZGNyswUTcr8PM/v2GmAfjCs1WYvVzBlm4+405WFzG2dHHjAiNxA5YE9upmNa4Z2KVdePpNpQGXNi42AA9cwUm6LjCimxUYYTZ7h5o/ty66XBtqdVTXLHqKgae7/Qe69BW2DLf1qgAAAABJRU5ErkJggg=="} : API
+
+[2023-03-15T23:03:21.353Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE\ING Y GTS SEP 2022.xlsx
+
+[2023-03-15T23:03:24.462Z] : [info]: ["Z:","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCT"]
+
+[2023-03-15T23:03:36.259Z] : [info]: CONTABILIDAD
+
+[2023-03-15T23:03:37.422Z] : [info]: ARRASTRE MOTRIZ DE MEXICO SA DE CV
+
+[2023-03-15T23:03:39.916Z] : [info]: EJERCICIO 2022
+
+[2023-03-15T23:03:41.162Z] : [info]: GASTOS
+
+[2023-03-15T23:03:41.930Z] : [info]: 10 OCT
+
+[2023-03-15T23:05:31.438Z] : [success]: Bot started
+
+[2023-03-15T23:05:31.440Z] : [info]: Robot start
+
+[2023-03-15T23:05:54.316Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-15T23:06:18.631Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-03-15T23:06:50.020Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE\ING Y GTS SEP 2022.xlsx
+
+[2023-03-15T23:06:53.042Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCTUBRE"]
+
+[2023-03-15T23:07:03.857Z] : [info]: Users
+
+[2023-03-15T23:07:04.593Z] : [info]: 50378
+
+[2023-03-15T23:07:05.298Z] : [info]: OneDrive
+
+[2023-03-15T23:07:06.225Z] : [info]: Escritorio
+
+[2023-03-15T23:07:07.295Z] : [info]: CONTABILIDAD
+
+[2023-03-15T23:07:08.442Z] : [info]: ARRASTRE MOTRIZ DE MEXICO SA DE CV
+
+[2023-03-15T23:07:10.973Z] : [info]: EJERCICIO 2022
+
+[2023-03-15T23:07:12.252Z] : [info]: GASTOS
+
+[2023-03-15T23:07:13.124Z] : [info]: 10 OCTUBRE
+
+[2023-03-15T23:09:26.776Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-15T23:09:28.632Z] : [success]: Bot finished successfully, total execution time: 3m 57s 190ms
+
+[2023-03-15T23:09:28.634Z] : [info]: ---------------------------------------------
+
+[2023-03-15T23:09:31.248Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-15T23:09:31.250Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-15T23:09:31.253Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-15T23:09:31.256Z] : [error]: Cannot read properties of null (reading 'type')
+

@@ -1,0 +1,89 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 16/2/2023, 9:07:19
+  ==========================================
+  
+
+[2023-02-16T15:08:56.982Z] : [success]: Robot saved successfully
+
+[2023-02-16T15:12:25.722Z] : [error]: Script Stopped.
+
+[2023-02-16T15:12:25.740Z] : [info]: Total execution time: 3m 20s 691ms
+
+[2023-02-16T15:12:25.754Z] : [info]: ---------------------------------------------
+
+[2023-02-16T15:20:56.439Z] : [success]: Robot saved successfully
+
+[2023-02-16T15:36:15.549Z] : [error]: Script Stopped.
+
+[2023-02-16T15:36:15.562Z] : [info]: Total execution time: 4m 17s 918ms
+
+[2023-02-16T15:36:15.574Z] : [info]: ---------------------------------------------
+
+[2023-02-16T15:41:50.694Z] : [success]: Robot saved successfully
+
+[2023-02-16T15:41:52.652Z] : [success]: Bot started
+
+[2023-02-16T15:41:52.660Z] : [info]: Robot start
+
+[2023-02-16T15:42:13.181Z] : [error]: Script Stopped.
+
+[2023-02-16T15:42:13.190Z] : [info]: Total execution time: 20s 519ms
+
+[2023-02-16T15:42:13.209Z] : [info]: ---------------------------------------------
+
+[2023-02-16T15:44:03.963Z] : [success]: Robot saved successfully
+
+[2023-02-16T15:44:06.227Z] : [success]: Bot started
+
+[2023-02-16T15:44:06.238Z] : [info]: Robot start
+
+[2023-02-16T15:44:22.789Z] : [success]: Bot finished successfully, total execution time: 16s 543ms
+
+[2023-02-16T15:44:22.814Z] : [info]: ---------------------------------------------
+
+[2023-02-16T15:45:09.717Z] : [success]: Bot started
+
+[2023-02-16T15:45:09.728Z] : [info]: Robot start
+
+[2023-02-16T15:45:17.140Z] : [success]: Bot finished successfully, total execution time: 7s 410ms
+
+[2023-02-16T15:45:17.153Z] : [info]: ---------------------------------------------
+
+[2023-02-16T15:47:38.528Z] : [success]: Robot saved successfully
+
+[2023-02-16T15:47:40.382Z] : [success]: Bot started
+
+[2023-02-16T15:47:40.392Z] : [info]: Robot start
+
+[2023-02-16T15:49:13.055Z] : [error]: No elements were found according to your selection. It may happen because of a wrong selector or because the element takes more time to appear on the screen. Try modifying the selector or increasing the element timeout and run the bot again
+
+[2023-02-16T15:49:13.082Z] : [info]: Total execution time: 1m 32s 662ms
+
+[2023-02-16T15:49:13.120Z] : [info]: ---------------------------------------------
+
+[2023-02-16T15:50:28.256Z] : [success]: Robot saved successfully
+
+[2023-02-16T15:50:30.208Z] : [success]: Bot started
+
+[2023-02-16T15:50:30.218Z] : [info]: Robot start
+
+[2023-02-16T15:51:57.135Z] : [error]: Script Stopped.
+
+[2023-02-16T15:51:57.150Z] : [info]: Total execution time: 1m 26s 915ms
+
+[2023-02-16T15:51:57.175Z] : [info]: ---------------------------------------------
+
+[2023-02-16T15:52:11.301Z] : [success]: Robot saved successfully
+
+[2023-02-16T15:59:14.476Z] : [success]: Robot saved successfully
+
+[2023-02-16T16:02:33.459Z] : [error]: Script Stopped.
+
+[2023-02-16T16:02:33.475Z] : [info]: Total execution time: 3m 2s 247ms
+
+[2023-02-16T16:02:33.494Z] : [info]: ---------------------------------------------
+
+[2023-02-16T16:06:42.945Z] : [success]: Robot saved successfully
+

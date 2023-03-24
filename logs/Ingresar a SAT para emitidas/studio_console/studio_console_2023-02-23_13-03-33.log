@@ -1,0 +1,17 @@
+[2023-02-23T20:16:14.610Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-02-23T20:16:14.623Z] : [info]: Total execution time: 7m 46s 416ms
+
+[2023-02-23T20:16:14.624Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 23/2/2023 14:16:15
+  ==========================================
+  
+
+[2023-02-23T20:17:22.346Z] : [success]: Robot saved successfully
+
+[2023-02-23T20:21:24.460Z] : [success]: Robot saved successfully
+

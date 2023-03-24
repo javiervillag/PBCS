@@ -1,0 +1,240 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 12:57:55
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 13:01:34
+  ==========================================
+  
+
+[2023-02-21T20:09:42.856Z] : [info]: Internet connection // error
+
+[2023-02-21T20:09:43.053Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:09:43.165Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:09:43.168Z] : [success]: Bot started
+
+[2023-02-21T20:09:43.171Z] : [info]: Robot start
+
+[2023-02-21T20:09:45.602Z] : [success]: Connection to our licenses server is restored
+
+[2023-02-21T20:09:50.036Z] : [error]: Selectors: Lo sentimos, no hemos encontrado G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\Datos_ Conciliación de egresos e ingresos del SAT.xlsx. ¿Puede ser que lo haya movido, eliminado o le hayas cambiado el nombre?
+
+[2023-02-21T20:09:50.042Z] : [info]: Total execution time: 6s 864ms
+
+[2023-02-21T20:09:50.047Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:10:19.437Z] : [info]: Internet connection // error
+
+[2023-02-21T20:10:19.659Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:10:19.771Z] : [success]: Bot started
+
+[2023-02-21T20:10:19.793Z] : [info]: Robot start
+
+[2023-02-21T20:10:22.231Z] : [error]: Selectors: Lo sentimos, no hemos encontrado G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\Datos_ Conciliación de egresos e ingresos del SAT.xlsx. ¿Puede ser que lo haya movido, eliminado o le hayas cambiado el nombre?
+
+[2023-02-21T20:10:22.236Z] : [info]: Total execution time: 2s 438ms
+
+[2023-02-21T20:10:22.242Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:10:44.965Z] : [success]: Connection to our licenses server is restored
+
+[2023-02-21T20:10:45.136Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:10:45.675Z] : [success]: Bot started
+
+[2023-02-21T20:10:45.680Z] : [info]: Robot start
+
+[2023-02-21T20:10:47.783Z] : [error]: Selectors: Lo sentimos, no hemos encontrado G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\Datos_ Conciliación de egresos e ingresos del SAT.xlsx. ¿Puede ser que lo haya movido, eliminado o le hayas cambiado el nombre?
+
+[2023-02-21T20:10:47.787Z] : [info]: Total execution time: 2s 103ms
+
+[2023-02-21T20:10:47.792Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:11:02.319Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:11:02.722Z] : [success]: Bot started
+
+[2023-02-21T20:11:02.727Z] : [info]: Robot start
+
+[2023-02-21T20:11:04.824Z] : [error]: Selectors: Caracteres no válidos en la ruta de acceso.
+
+[2023-02-21T20:11:04.829Z] : [info]: Total execution time: 2s 97ms
+
+[2023-02-21T20:11:04.832Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:11:40.589Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:11:41.043Z] : [success]: Bot started
+
+[2023-02-21T20:11:41.048Z] : [info]: Robot start
+
+[2023-02-21T20:11:43.167Z] : [error]: Unexpected identifier
+
+[2023-02-21T20:11:43.171Z] : [info]: Total execution time: 2s 119ms
+
+[2023-02-21T20:11:43.175Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:13:55.160Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:13:55.656Z] : [success]: Bot started
+
+[2023-02-21T20:13:55.660Z] : [info]: Robot start
+
+[2023-02-21T20:13:57.757Z] : [success]: Bot finished successfully, total execution time: 2s 96ms
+
+[2023-02-21T20:13:57.761Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:14:37.198Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:14:37.598Z] : [success]: Bot started
+
+[2023-02-21T20:14:37.603Z] : [info]: Robot start
+
+[2023-02-21T20:14:39.724Z] : [success]: Bot finished successfully, total execution time: 2s 119ms
+
+[2023-02-21T20:14:39.730Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:16:50.052Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:16:50.478Z] : [success]: Bot started
+
+[2023-02-21T20:16:50.482Z] : [info]: Robot start
+
+[2023-02-21T20:16:52.470Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-21T20:16:52.595Z] : [success]: Bot finished successfully, total execution time: 2s 111ms
+
+[2023-02-21T20:16:52.600Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:20:43.641Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:20:44.159Z] : [success]: Bot started
+
+[2023-02-21T20:20:44.162Z] : [info]: Robot start
+
+[2023-02-21T20:20:46.261Z] : [success]: Bot finished successfully, total execution time: 2s 99ms
+
+[2023-02-21T20:20:46.265Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:20:51.501Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:20:51.972Z] : [success]: Bot started
+
+[2023-02-21T20:20:51.975Z] : [info]: Robot start
+
+[2023-02-21T20:20:54.077Z] : [success]: Bot finished successfully, total execution time: 2s 102ms
+
+[2023-02-21T20:20:54.081Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:21:39.081Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:21:39.487Z] : [success]: Bot started
+
+[2023-02-21T20:21:39.535Z] : [info]: Robot start
+
+[2023-02-21T20:21:41.643Z] : [success]: Bot finished successfully, total execution time: 2s 107ms
+
+[2023-02-21T20:21:41.647Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:22:55.127Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:22:55.554Z] : [success]: Bot started
+
+[2023-02-21T20:22:55.557Z] : [info]: Robot start
+
+[2023-02-21T20:22:57.660Z] : [success]: Bot finished successfully, total execution time: 2s 102ms
+
+[2023-02-21T20:22:57.663Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:23:08.961Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:23:09.430Z] : [success]: Bot started
+
+[2023-02-21T20:23:09.434Z] : [info]: Robot start
+
+[2023-02-21T20:23:11.546Z] : [success]: Bot finished successfully, total execution time: 2s 111ms
+
+[2023-02-21T20:23:11.579Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:23:41.472Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:24:01.678Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:24:09.444Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 14:02:19
+  ==========================================
+  
+
+[2023-02-21T21:02:25.875Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 14:03:19
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 14:05:36
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 14:15:59
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 16:15:38
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 22/2/2023 07:04:51
+  ==========================================
+  
+
+[2023-02-22T14:05:06.021Z] : [success]: Robot saved successfully
+
+[2023-02-22T14:05:06.450Z] : [success]: Bot started
+
+[2023-02-22T14:05:06.453Z] : [info]: Robot start
+
+[2023-02-22T14:05:35.243Z] : [error]: Script Stopped.
+
+[2023-02-22T14:05:35.263Z] : [info]: Total execution time: 28s 790ms
+
+[2023-02-22T14:05:35.268Z] : [info]: ---------------------------------------------
+
+[2023-02-22T14:06:00.208Z] : [success]: Robot saved successfully
+
+[2023-02-22T14:06:00.640Z] : [success]: Bot started
+
+[2023-02-22T14:06:00.644Z] : [info]: Robot start
+
+[2023-02-22T14:07:28.626Z] : [error]: Script Stopped.
+
+[2023-02-22T14:07:28.632Z] : [info]: Total execution time: 1m 27s 982ms
+
+[2023-02-22T14:07:28.637Z] : [info]: ---------------------------------------------
+

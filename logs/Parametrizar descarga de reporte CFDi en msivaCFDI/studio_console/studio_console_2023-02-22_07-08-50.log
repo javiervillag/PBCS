@@ -1,0 +1,23 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 22/2/2023 07:19:07
+  ==========================================
+  
+
+[2023-02-22T14:19:33.393Z] : [info]: 1
+
+[2023-02-22T14:19:37.590Z] : [info]: 2
+
+[2023-02-22T14:19:40.934Z] : [info]: 3
+
+[2023-02-22T14:19:46.021Z] : [info]: 4
+
+[2023-02-22T14:19:51.176Z] : [info]: 5
+
+[2023-02-22T14:20:13.422Z] : [info]: 6
+
+[2023-02-22T14:20:16.698Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-22T14:20:34.696Z] : [success]: Robot saved successfully
+

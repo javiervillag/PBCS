@@ -1,0 +1,59 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 13/3/2023, 10:54:06
+  ==========================================
+  
+
+[2023-03-13T18:43:58.221Z] : [error]: Traceback (most recent call last):
+  File "C:\tmp\scritp_subrayar_pdf.py", line 18, in <module>
+    matches = page.search_for(search_string)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\tmp\myenv\Lib\site-packages\fitz\utils.py", line 454, in search_for
+    rlist = tp.search(text, quads=quads)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\tmp\myenv\Lib\site-packages\fitz\fitz.py", line 8390, in search
+    val = _fitz.TextPage_search(self, needle, hit_max, quads)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: in method 'TextPage_search', argument 2 of type 'char const *'
+
+
+[2023-03-13T18:43:58.224Z] : [info]: Total execution time: 39s 441ms
+
+[2023-03-13T18:43:58.225Z] : [info]: ---------------------------------------------
+
+[2023-03-13T18:47:55.459Z] : [success]: Bot started
+
+[2023-03-13T18:47:55.460Z] : [info]: Robot start
+
+[2023-03-13T18:47:58.507Z] : [error]: ubicacion_estados_cuentas is not defined
+
+[2023-03-13T18:47:58.510Z] : [info]: Total execution time: 3s 47ms
+
+[2023-03-13T18:47:58.512Z] : [info]: ---------------------------------------------
+
+[2023-03-13T19:12:16.706Z] : [success]: Bot started
+
+[2023-03-13T19:12:16.708Z] : [info]: Robot start
+
+[2023-03-13T19:12:19.126Z] : [error]: ubicacion_estados_cuentas is not defined
+
+[2023-03-13T19:12:19.130Z] : [info]: Total execution time: 2s 417ms
+
+[2023-03-13T19:12:19.132Z] : [info]: ---------------------------------------------
+
+[2023-03-13T19:13:06.366Z] : [error]: Traceback (most recent call last):
+  File "C:\tmp\scritp_subrayar_pdf.py", line 13, in <module>
+    search_string_format = str('{:,.2f}'.format(search_string))
+                               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: Unknown format code 'f' for object of type 'str'
+
+
+[2023-03-13T19:13:06.368Z] : [info]: Total execution time: 40s 887ms
+
+[2023-03-13T19:13:06.370Z] : [info]: ---------------------------------------------
+
+[2023-03-13T19:13:07.367Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2023-03-13T19:13:07.637Z] : [error]: Cannot read properties of undefined (reading 'value')
+

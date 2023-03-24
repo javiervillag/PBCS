@@ -1,0 +1,87 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 22/2/2023 07:10:26
+  ==========================================
+  
+
+[2023-02-22T14:10:59.648Z] : [info]: ---------------------------------------------
+
+[2023-02-22T14:10:59.652Z] : [success]: Bot started
+
+[2023-02-22T14:10:59.655Z] : [info]: Robot start
+
+[2023-02-22T14:11:12.608Z] : [info]: Z:\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-02-22T14:11:39.458Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-02-22T14:12:13.961Z] : [info]: 6
+
+[2023-02-22T14:12:21.089Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-22T14:13:09.029Z] : [success]: Bot started
+
+[2023-02-22T14:13:09.034Z] : [info]: Robot start
+
+[2023-02-22T14:21:01.061Z] : [success]: Bot started
+
+[2023-02-22T14:21:01.066Z] : [info]: Robot start
+
+[2023-02-22T14:21:14.271Z] : [info]: Z:\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-02-22T14:21:36.734Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-02-22T14:22:17.310Z] : [info]: 6
+
+[2023-02-22T14:22:17.649Z] : [info]: 1
+
+[2023-02-22T14:22:17.808Z] : [info]: 2
+
+[2023-02-22T14:22:17.933Z] : [info]: 3
+
+[2023-02-22T14:22:18.150Z] : [info]: 4
+
+[2023-02-22T14:22:18.415Z] : [info]: 5
+
+[2023-02-22T14:22:19.405Z] : [info]: 6
+
+[2023-02-22T14:22:37.372Z] : [info]: Z:\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE\ING Y GTS SEP 2022.xlsx
+
+[2023-02-22T14:22:37.699Z] : [info]: ["Z:","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCTUBRE"]
+
+[2023-02-22T14:22:40.465Z] : [info]: 6
+
+[2023-02-22T14:22:40.913Z] : [info]: 1
+
+[2023-02-22T14:22:41.126Z] : [info]: 2
+
+[2023-02-22T14:22:41.354Z] : [info]: 3
+
+[2023-02-22T14:22:41.642Z] : [info]: 4
+
+[2023-02-22T14:22:41.929Z] : [info]: 5
+
+[2023-02-22T14:22:42.865Z] : [info]: 6
+
+[2023-02-22T14:23:28.774Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-02-22T14:23:29.231Z] : [success]: Bot finished successfully, total execution time: 2m 28s 161ms
+
+[2023-02-22T14:23:29.239Z] : [info]: ---------------------------------------------
+
+[2023-02-22T14:23:49.551Z] : [success]: Robot saved successfully
+
+[2023-02-22T14:24:12.108Z] : [success]: Robot saved successfully
+
+[2023-02-22T14:24:36.373Z] : [success]: Robot saved successfully
+
+[2023-02-22T14:25:14.693Z] : [success]: Robot saved successfully
+
+[2023-02-22T14:26:05.927Z] : [success]: The workflow has been exported successfully
+
+[2023-02-22T14:27:20.117Z] : [success]: Robot saved successfully
+
+[2023-02-22T14:28:36.966Z] : [success]: Robot saved successfully
+
+[2023-02-22T14:28:41.180Z] : [error]: Cannot read properties of null (reading 'type')
+

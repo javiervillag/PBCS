@@ -1,0 +1,77 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 6/3/2023 17:37:27
+  ==========================================
+  
+
+[2023-03-07T00:42:20.373Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 6/3/2023 17:42:53
+  ==========================================
+  
+
+[2023-03-07T00:42:56.096Z] : [info]: 12
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 6/3/2023 17:53:00
+  ==========================================
+  
+
+[2023-03-07T00:53:31.104Z] : [info]: 13
+
+[2023-03-07T00:55:18.734Z] : [error]: Script Stopped.
+
+[2023-03-07T00:55:18.740Z] : [info]: Total execution time: 18s 736ms
+
+[2023-03-07T00:55:18.759Z] : [info]: ---------------------------------------------
+
+[2023-03-07T00:55:24.303Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 6/3/2023 18:06:00
+  ==========================================
+  
+
+[2023-03-07T01:06:25.579Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 6/3/2023 18:52:57
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 6/3/2023 18:56:39
+  ==========================================
+  
+
+[2023-03-07T01:56:47.393Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 6/3/2023 19:22:47
+  ==========================================
+  
+
+[2023-03-07T02:23:29.893Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-03-07T02:23:40.693Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-03-07T02:23:51.275Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"iVBORw0KGgoAAAANSUhEUgAAAKAAAAA8CAIAAABuCSZCAAAF60lEQVR42u3au6qdRRQH8O8BYmMtiAQlEDEoEkhnIgSLgJAUkggGrDxYiJAQUgZttIhaaCGkUkSQvIGQNxBFRBB8ADsfwLD9woRhsW7zn/u+DYvNOXvP3ufyY83MWt+3bMj45q+TGGf/vo/EZpfHtcsf0djs41hqdI/AOwNMdQ8kg5nuPgNT17sffhnimMFyfPvrHRo7Bhxpj8B7CMx0QePNIQ2muzPAavrGuPDMu1ZM/KVPrl2yYqQxe/XqK89aMTmDHVfVOOTueGaqaNF2ZVaBqaJFO4z5zPk/WSjAlquaxMOMLVdVuncq06z1c5fxD9ZVgHHdkca47khjXHeAsar7BBjRpRPCx400lrrOZszeMkY3OXOAsQkcM1jVlduzBO5qTHXLturxuvL5AcYJ4KQuOzyPWatVXf/wPGCt9s9T7NiVa/zmjYs0KnVbAvc4VEvgZGk0oHaqB7ZSn+k2MV6Clr/1TgFmW29B+vYAdg5WlcCqLm5cBayuxr1XaRAY0W1oXAaMnKj7AqsBtrQ6JTFYDoHzGwIn21VJXfkWR7dylYaAnTk48JVTN60oAy6eTMe9l25bUQyM18pWBp86+4EVJZ0sUKsMmCpatCozbpab69RVNaZzyoCRPVgCR0XVOExDmHkvuiwjkfmWqyrNjGvSV62XqK6fu4y/bInOPWdZrqo0brzULL/+HFxXNa5JX/lSga5qnAvsG1PdmJ1tjZd49C1jtl7N0qWrdDR2+s9I4au+her6/xfLOOsUnQR+6/qdNVaq8MjMJGeB8VPgk8cXcGBqrJZJzEzdlf2t2gFGlnG1YenryudV41bAq2h4pLrhaxXYh08Aq7rgRiufl7lrQVopTo3LdGVT2j9PsWNX0rhJBkvd8G0wto5XuWv1suoGYMZ87/Oba/jA6vMOMKIb4/sX3l9twmNZLdsWOL6KtyoHACcP1U8zWCZxAFaNs3Qt4OTGvNJS3fDtGlnVka9bBly8RCd16SrdBZgyB9pgnKyR1N3XAgbTlyUx88667F8GLCef+/ozJ4nBFpi1+9IMdirg3FV6YWwRz1mfnRa036gCdWUS59KyFjTSrkrqyiS2riskW9CqIrhEO5txGrisZGK1r9OuytKNwAXG7AJDbj8yJqsa60uVt+xYwOF5epCWh+da4A25XRKhla0rpNWcCxx1k8zq7R8gcPSLYQFTY4SZNS/LgGWZVAhMmV9/5/QaCC24ROOHLAbMmK2bN9TDNr5EI8YUWHaefdo4rCXawUvWS3nAZRf2QWD8qKVGj0tGqqJqLIH9LmZWIjrHKL+dWQIc0leG8xawTArx3r9vr1EATIslZGSdoouBcwfef0amFWZwK+ArD355EgL45YcP/TJpq4DD19sGnFEm1QM7F33Vl1Zgx7gVsLNK52bwFx//RqPeGN+AyxsdWcbJ+UirEjFuqJvVqmTAq6IDXGmMJHF34ILhl0mMlkZYmZunr5PEPnBSN8T1n/+T0SqJa/qUDYB/+uM5GmoSZxXBbXffZBJbk5lu+NoCrjFGtljLGL1c2By44HaOmNPhsS2tZQwmelK3k7Gf7hkX/FvpUuAC46irRqvtI/eWHVDXAm6Vx1W37PTIYLoaf/ojROvoNgSm1xUQWlC3EhhpZcimx2Tg1TVEZJbSCG1zYHn5iNHeevRaFm0TYHlXbCVtx1M01WXMVpk0Htivj7NoGwInL/3mjmWMrhMTgddMtaIh8P3TDzbzxjJXFzfeaeCJxrsBPFi3B/As4y7A5y5/RaMSuNNf3hz41R+elxF1j8BDdZPAucaqLjPeB2CpWwM8UTfL2NGlxtOA37j1e4hZGTzlL29lnNSNxnOAo+5c4Bf/uUtje4B94/VzQOCZp+jmwLnBdMcY48BrOJ+zA8DTy6QBwFe/+0TGMN29As41VnXbAqu6uLH/4YcIjBuHyV2BHV3EOPn5BwqMGMeZ/YCTuo4x+CMOF9g3ZjNnpW+Iyp+ytbrdgaePMcC+8dz/wHLUbQJsGU//JxwzuBnwdo7/Af/iWT3yRF7qAAAAAElFTkSuQmCC"} : API
+
+[2023-03-07T02:24:01.836Z] : [info]: {"userid":"jvilla@botget.net","apikey":"xnpgLVb9xcLK2I7dmAaZ","data":"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"} : API
+
+[2023-03-07T02:25:55.255Z] : [success]: Robot saved successfully
+

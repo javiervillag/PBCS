@@ -1,0 +1,793 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 13/3/2023, 13:22:09
+  ==========================================
+  
+
+[2023-03-13T19:23:01.343Z] : [success]: Robot saved successfully
+
+[2023-03-13T19:23:06.252Z] : [info]: ---------------------------------------------
+
+[2023-03-13T19:23:06.253Z] : [success]: Bot started
+
+[2023-03-13T19:23:06.254Z] : [info]: Robot start
+
+[2023-03-13T19:23:22.518Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T19:23:42.688Z] : [success]: Bot finished successfully, total execution time: 36s 431ms
+
+[2023-03-13T19:23:42.691Z] : [info]: ---------------------------------------------
+
+[2023-03-13T19:23:56.535Z] : [success]: Robot saved successfully
+
+[2023-03-13T19:23:57.151Z] : [success]: Bot started
+
+[2023-03-13T19:23:57.152Z] : [info]: Robot start
+
+[2023-03-13T19:24:12.933Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T19:24:59.251Z] : [success]: Bot started
+
+[2023-03-13T19:24:59.253Z] : [info]: Robot start
+
+[2023-03-13T19:25:21.738Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T19:25:29.256Z] : [success]: Bot finished successfully, total execution time: 30s 1ms
+
+[2023-03-13T19:25:29.257Z] : [info]: ---------------------------------------------
+
+[2023-03-13T19:25:49.156Z] : [success]: Bot started
+
+[2023-03-13T19:25:49.163Z] : [info]: Robot start
+
+[2023-03-13T19:26:25.092Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T19:27:43.256Z] : [success]: Bot started
+
+[2023-03-13T19:27:43.258Z] : [info]: Robot start
+
+[2023-03-13T19:28:50.349Z] : [success]: Bot started
+
+[2023-03-13T19:28:50.350Z] : [info]: Robot start
+
+[2023-03-13T19:29:07.152Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T19:29:21.685Z] : [info]: 923.14 : Preprocesamiento
+
+[2023-03-13T19:29:21.974Z] : [info]: 923.14 : Procesamiento final
+
+[2023-03-13T19:29:24.877Z] : [info]: 5100 : Preprocesamiento
+
+[2023-03-13T19:29:25.083Z] : [info]: 5100.00 : Procesamiento final
+
+[2023-03-13T19:29:27.630Z] : [info]: 4640 : Preprocesamiento
+
+[2023-03-13T19:29:27.788Z] : [info]: 4640.00 : Procesamiento final
+
+[2023-03-13T19:29:30.271Z] : [info]: 5247.52 : Preprocesamiento
+
+[2023-03-13T19:29:30.459Z] : [info]: 5247.52 : Procesamiento final
+
+[2023-03-13T19:29:32.972Z] : [info]: 9280 : Preprocesamiento
+
+[2023-03-13T19:29:33.132Z] : [info]: 9280.00 : Procesamiento final
+
+[2023-03-13T19:29:35.561Z] : [info]: 3920.4 : Preprocesamiento
+
+[2023-03-13T19:29:35.781Z] : [info]: 3920.40 : Procesamiento final
+
+[2023-03-13T19:29:38.403Z] : [info]: 3639.19 : Preprocesamiento
+
+[2023-03-13T19:29:38.577Z] : [info]: 3639.19 : Procesamiento final
+
+[2023-03-13T19:29:41.024Z] : [info]: 59400 : Preprocesamiento
+
+[2023-03-13T19:29:41.182Z] : [info]: 59400.00 : Procesamiento final
+
+[2023-03-13T19:29:43.573Z] : [info]: 1039 : Preprocesamiento
+
+[2023-03-13T19:29:43.735Z] : [info]: 1039.00 : Procesamiento final
+
+[2023-03-13T19:29:46.252Z] : [info]: 1440 : Preprocesamiento
+
+[2023-03-13T19:29:46.414Z] : [info]: 1440.00 : Procesamiento final
+
+[2023-03-13T19:29:48.818Z] : [info]: 10265.49 : Preprocesamiento
+
+[2023-03-13T19:29:48.977Z] : [info]: 10265.49 : Procesamiento final
+
+[2023-03-13T19:29:51.401Z] : [info]: 408.9 : Preprocesamiento
+
+[2023-03-13T19:29:51.623Z] : [info]: 408.90 : Procesamiento final
+
+[2023-03-13T19:29:54.009Z] : [info]: 175 : Preprocesamiento
+
+[2023-03-13T19:29:54.176Z] : [info]: 175.00 : Procesamiento final
+
+[2023-03-13T19:29:56.633Z] : [info]: 151960 : Preprocesamiento
+
+[2023-03-13T19:29:56.785Z] : [info]: 151960.00 : Procesamiento final
+
+[2023-03-13T19:29:59.208Z] : [info]: 2273.6 : Preprocesamiento
+
+[2023-03-13T19:29:59.444Z] : [info]: 2273.60 : Procesamiento final
+
+[2023-03-13T19:30:01.972Z] : [info]: 31823.01 : Preprocesamiento
+
+[2023-03-13T19:30:02.164Z] : [info]: 31823.01 : Procesamiento final
+
+[2023-03-13T19:30:04.636Z] : [info]: 5800 : Preprocesamiento
+
+[2023-03-13T19:30:04.813Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T19:30:07.357Z] : [info]: 1446.12 : Preprocesamiento
+
+[2023-03-13T19:30:07.555Z] : [info]: 1446.12 : Procesamiento final
+
+[2023-03-13T19:30:10.170Z] : [info]: 110200 : Preprocesamiento
+
+[2023-03-13T19:30:10.320Z] : [info]: 110200.00 : Procesamiento final
+
+[2023-03-13T19:30:12.876Z] : [info]: 35322 : Preprocesamiento
+
+[2023-03-13T19:30:13.066Z] : [info]: 35322.00 : Procesamiento final
+
+[2023-03-13T19:30:15.534Z] : [info]: 5800 : Preprocesamiento
+
+[2023-03-13T19:30:15.663Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T19:30:18.224Z] : [info]: 5800 : Preprocesamiento
+
+[2023-03-13T19:30:18.403Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T19:30:20.999Z] : [info]: undefined : Preprocesamiento
+
+[2023-03-13T19:30:21.069Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T20:10:21.833Z] : [success]: Robot saved successfully
+
+[2023-03-13T20:10:22.506Z] : [success]: Bot started
+
+[2023-03-13T20:10:22.508Z] : [info]: Robot start
+
+[2023-03-13T20:10:49.123Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T20:23:23.466Z] : [success]: Bot started
+
+[2023-03-13T20:23:23.467Z] : [info]: Robot start
+
+[2023-03-13T20:23:45.029Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T20:45:57.945Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T20:46:15.998Z] : [success]: Robot saved successfully
+
+[2023-03-13T20:46:20.813Z] : [success]: Bot started
+
+[2023-03-13T20:46:20.814Z] : [info]: Robot start
+
+[2023-03-13T20:46:38.720Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T20:46:58.492Z] : [info]: 923.14 : Procesamiento final
+
+[2023-03-13T20:47:01.317Z] : [info]: 5100.00 : Procesamiento final
+
+[2023-03-13T20:47:03.917Z] : [info]: 4640.00 : Procesamiento final
+
+[2023-03-13T20:47:06.635Z] : [info]: 5247.52 : Procesamiento final
+
+[2023-03-13T20:47:09.153Z] : [info]: 9280.00 : Procesamiento final
+
+[2023-03-13T20:47:11.808Z] : [info]: 3920.40 : Procesamiento final
+
+[2023-03-13T20:47:14.474Z] : [info]: 3639.19 : Procesamiento final
+
+[2023-03-13T20:47:17.241Z] : [info]: 59400.00 : Procesamiento final
+
+[2023-03-13T20:47:20.026Z] : [info]: 1039.00 : Procesamiento final
+
+[2023-03-13T20:47:22.856Z] : [info]: 1440.00 : Procesamiento final
+
+[2023-03-13T20:47:25.458Z] : [info]: 10265.49 : Procesamiento final
+
+[2023-03-13T20:47:28.119Z] : [info]: 408.90 : Procesamiento final
+
+[2023-03-13T20:47:30.677Z] : [info]: 175.00 : Procesamiento final
+
+[2023-03-13T20:47:33.246Z] : [info]: 151960.00 : Procesamiento final
+
+[2023-03-13T20:47:35.951Z] : [info]: 2273.60 : Procesamiento final
+
+[2023-03-13T20:47:38.565Z] : [info]: 31823.01 : Procesamiento final
+
+[2023-03-13T20:47:41.192Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T20:47:43.885Z] : [info]: 1446.12 : Procesamiento final
+
+[2023-03-13T20:47:46.748Z] : [info]: 110200.00 : Procesamiento final
+
+[2023-03-13T20:47:49.399Z] : [info]: 35322.00 : Procesamiento final
+
+[2023-03-13T20:47:52.011Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T20:47:54.859Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T20:47:57.410Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T22:36:19.271Z] : [success]: Robot saved successfully
+
+[2023-03-13T22:36:25.003Z] : [success]: Bot started
+
+[2023-03-13T22:36:25.004Z] : [info]: Robot start
+
+[2023-03-13T22:36:56.745Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T22:37:10.135Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T22:37:35.076Z] : [success]: Bot started
+
+[2023-03-13T22:37:35.077Z] : [info]: Robot start
+
+[2023-03-13T22:37:59.712Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T22:38:13.102Z] : [info]: 923.14 : Procesamiento final
+
+[2023-03-13T22:38:16.115Z] : [info]: 5100.00 : Procesamiento final
+
+[2023-03-13T22:38:18.826Z] : [info]: 4640.00 : Procesamiento final
+
+[2023-03-13T22:38:21.616Z] : [info]: 5247.52 : Procesamiento final
+
+[2023-03-13T22:38:24.303Z] : [info]: 9280.00 : Procesamiento final
+
+[2023-03-13T22:38:27.073Z] : [info]: 3920.40 : Procesamiento final
+
+[2023-03-13T22:38:29.862Z] : [info]: 3639.19 : Procesamiento final
+
+[2023-03-13T22:38:32.451Z] : [info]: 59400.00 : Procesamiento final
+
+[2023-03-13T22:38:35.077Z] : [info]: 1039.00 : Procesamiento final
+
+[2023-03-13T22:38:37.798Z] : [info]: 1440.00 : Procesamiento final
+
+[2023-03-13T22:38:40.416Z] : [info]: 10265.49 : Procesamiento final
+
+[2023-03-13T22:38:43.293Z] : [info]: 408.90 : Procesamiento final
+
+[2023-03-13T22:38:45.844Z] : [info]: 175.00 : Procesamiento final
+
+[2023-03-13T22:38:48.611Z] : [info]: 151960.00 : Procesamiento final
+
+[2023-03-13T22:38:51.407Z] : [info]: 2273.60 : Procesamiento final
+
+[2023-03-13T22:38:54.029Z] : [info]: 31823.01 : Procesamiento final
+
+[2023-03-13T22:38:56.581Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:38:59.455Z] : [info]: 1446.12 : Procesamiento final
+
+[2023-03-13T22:39:02.056Z] : [info]: 110200.00 : Procesamiento final
+
+[2023-03-13T22:39:04.765Z] : [info]: 35322.00 : Procesamiento final
+
+[2023-03-13T22:39:07.421Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:39:10.105Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:39:12.770Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T22:42:27.730Z] : [success]: Bot started
+
+[2023-03-13T22:42:27.734Z] : [info]: Robot start
+
+[2023-03-13T22:43:15.498Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T22:43:33.540Z] : [info]: 923.14 : Procesamiento final
+
+[2023-03-13T22:43:36.311Z] : [info]: 5100.00 : Procesamiento final
+
+[2023-03-13T22:43:38.918Z] : [info]: 4640.00 : Procesamiento final
+
+[2023-03-13T22:43:42.058Z] : [info]: 5247.52 : Procesamiento final
+
+[2023-03-13T22:43:45.195Z] : [info]: 9280.00 : Procesamiento final
+
+[2023-03-13T22:43:47.947Z] : [info]: 3920.40 : Procesamiento final
+
+[2023-03-13T22:43:50.575Z] : [info]: 3639.19 : Procesamiento final
+
+[2023-03-13T22:43:53.449Z] : [info]: 59400.00 : Procesamiento final
+
+[2023-03-13T22:43:56.408Z] : [info]: 1039.00 : Procesamiento final
+
+[2023-03-13T22:43:59.273Z] : [info]: 1440.00 : Procesamiento final
+
+[2023-03-13T22:44:01.917Z] : [info]: 10265.49 : Procesamiento final
+
+[2023-03-13T22:44:04.860Z] : [info]: 408.90 : Procesamiento final
+
+[2023-03-13T22:44:07.417Z] : [info]: 175.00 : Procesamiento final
+
+[2023-03-13T22:44:10.158Z] : [info]: 151960.00 : Procesamiento final
+
+[2023-03-13T22:44:12.947Z] : [info]: 2273.60 : Procesamiento final
+
+[2023-03-13T22:44:15.614Z] : [info]: 31823.01 : Procesamiento final
+
+[2023-03-13T22:44:18.241Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:44:21.030Z] : [info]: 1446.12 : Procesamiento final
+
+[2023-03-13T22:44:23.620Z] : [info]: 110200.00 : Procesamiento final
+
+[2023-03-13T22:44:26.271Z] : [info]: 35322.00 : Procesamiento final
+
+[2023-03-13T22:44:28.958Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:44:31.692Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:44:34.508Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T22:47:17.690Z] : [success]: Bot started
+
+[2023-03-13T22:47:17.694Z] : [info]: Robot start
+
+[2023-03-13T22:47:37.308Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T22:47:50.883Z] : [info]: 923.14 : Procesamiento final
+
+[2023-03-13T22:47:52.038Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T22:48:35.435Z] : [error]: Cannot read properties of undefined (reading 'value')
+
+[2023-03-13T22:48:35.438Z] : [info]: ---------------------------------------------
+
+[2023-03-13T22:48:35.439Z] : [success]: Bot started
+
+[2023-03-13T22:48:35.443Z] : [info]: Robot start
+
+[2023-03-13T22:48:54.135Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T22:49:14.969Z] : [info]: 923.14 : Procesamiento final
+
+[2023-03-13T22:49:17.646Z] : [info]: 5100.00 : Procesamiento final
+
+[2023-03-13T22:49:20.395Z] : [info]: 4640.00 : Procesamiento final
+
+[2023-03-13T22:49:23.076Z] : [info]: 5247.52 : Procesamiento final
+
+[2023-03-13T22:49:25.744Z] : [info]: 9280.00 : Procesamiento final
+
+[2023-03-13T22:49:28.466Z] : [info]: 3920.40 : Procesamiento final
+
+[2023-03-13T22:49:31.197Z] : [info]: 3639.19 : Procesamiento final
+
+[2023-03-13T22:49:33.917Z] : [info]: 59400.00 : Procesamiento final
+
+[2023-03-13T22:49:36.610Z] : [info]: 1039.00 : Procesamiento final
+
+[2023-03-13T22:49:39.692Z] : [info]: 1440.00 : Procesamiento final
+
+[2023-03-13T22:49:42.457Z] : [info]: 10265.49 : Procesamiento final
+
+[2023-03-13T22:49:45.191Z] : [info]: 408.90 : Procesamiento final
+
+[2023-03-13T22:49:47.687Z] : [info]: 175.00 : Procesamiento final
+
+[2023-03-13T22:49:50.312Z] : [info]: 151960.00 : Procesamiento final
+
+[2023-03-13T22:49:52.990Z] : [info]: 2273.60 : Procesamiento final
+
+[2023-03-13T22:49:55.635Z] : [info]: 31823.01 : Procesamiento final
+
+[2023-03-13T22:49:58.409Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:50:01.307Z] : [info]: 1446.12 : Procesamiento final
+
+[2023-03-13T22:50:04.059Z] : [info]: 110200.00 : Procesamiento final
+
+[2023-03-13T22:50:06.619Z] : [info]: 35322.00 : Procesamiento final
+
+[2023-03-13T22:50:09.335Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:50:11.950Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:50:14.541Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T22:54:38.430Z] : [success]: Bot started
+
+[2023-03-13T22:54:38.432Z] : [info]: Robot start
+
+[2023-03-13T22:55:05.421Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T22:55:18.025Z] : [info]: 923.14 : Procesamiento final
+
+[2023-03-13T22:55:20.634Z] : [info]: 5100.00 : Procesamiento final
+
+[2023-03-13T22:55:23.272Z] : [info]: 4640.00 : Procesamiento final
+
+[2023-03-13T22:55:25.979Z] : [info]: 5247.52 : Procesamiento final
+
+[2023-03-13T22:55:28.582Z] : [info]: 9280.00 : Procesamiento final
+
+[2023-03-13T22:55:31.261Z] : [info]: 3920.40 : Procesamiento final
+
+[2023-03-13T22:55:33.965Z] : [info]: 3639.19 : Procesamiento final
+
+[2023-03-13T22:55:36.501Z] : [info]: 59400.00 : Procesamiento final
+
+[2023-03-13T22:55:39.136Z] : [info]: 1039.00 : Procesamiento final
+
+[2023-03-13T22:55:41.735Z] : [info]: 1440.00 : Procesamiento final
+
+[2023-03-13T22:55:44.466Z] : [info]: 10265.49 : Procesamiento final
+
+[2023-03-13T22:55:47.301Z] : [info]: 408.90 : Procesamiento final
+
+[2023-03-13T22:55:50.138Z] : [info]: 175.00 : Procesamiento final
+
+[2023-03-13T22:55:52.803Z] : [info]: 151960.00 : Procesamiento final
+
+[2023-03-13T22:55:55.470Z] : [info]: 2273.60 : Procesamiento final
+
+[2023-03-13T22:55:58.202Z] : [info]: 31823.01 : Procesamiento final
+
+[2023-03-13T22:56:00.832Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:56:03.604Z] : [info]: 1446.12 : Procesamiento final
+
+[2023-03-13T22:56:06.269Z] : [info]: 110200.00 : Procesamiento final
+
+[2023-03-13T22:56:09.058Z] : [info]: 35322.00 : Procesamiento final
+
+[2023-03-13T22:56:11.628Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:56:14.219Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T22:56:16.935Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T22:59:12.252Z] : [success]: Bot started
+
+[2023-03-13T22:59:12.253Z] : [info]: Robot start
+
+[2023-03-13T23:00:01.576Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T23:00:18.037Z] : [info]: 923.14 : Procesamiento final
+
+[2023-03-13T23:00:20.729Z] : [info]: 5100.00 : Procesamiento final
+
+[2023-03-13T23:00:23.248Z] : [info]: 4640.00 : Procesamiento final
+
+[2023-03-13T23:00:25.976Z] : [info]: 5247.52 : Procesamiento final
+
+[2023-03-13T23:00:28.568Z] : [info]: 9280.00 : Procesamiento final
+
+[2023-03-13T23:00:31.217Z] : [info]: 3920.40 : Procesamiento final
+
+[2023-03-13T23:00:33.814Z] : [info]: 3639.19 : Procesamiento final
+
+[2023-03-13T23:00:36.424Z] : [info]: 59400.00 : Procesamiento final
+
+[2023-03-13T23:00:38.960Z] : [info]: 1039.00 : Procesamiento final
+
+[2023-03-13T23:00:41.519Z] : [info]: 1440.00 : Procesamiento final
+
+[2023-03-13T23:00:44.204Z] : [info]: 10265.49 : Procesamiento final
+
+[2023-03-13T23:00:46.997Z] : [info]: 408.90 : Procesamiento final
+
+[2023-03-13T23:00:49.680Z] : [info]: 175.00 : Procesamiento final
+
+[2023-03-13T23:00:52.259Z] : [info]: 151960.00 : Procesamiento final
+
+[2023-03-13T23:00:55.297Z] : [info]: 2273.60 : Procesamiento final
+
+[2023-03-13T23:00:58.074Z] : [info]: 31823.01 : Procesamiento final
+
+[2023-03-13T23:01:00.742Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T23:01:03.573Z] : [info]: 1446.12 : Procesamiento final
+
+[2023-03-13T23:01:06.151Z] : [info]: 110200.00 : Procesamiento final
+
+[2023-03-13T23:01:08.817Z] : [info]: 35322.00 : Procesamiento final
+
+[2023-03-13T23:01:11.457Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T23:01:14.256Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T23:01:16.987Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T23:37:46.541Z] : [success]: Bot started
+
+[2023-03-13T23:37:46.550Z] : [info]: Robot start
+
+[2023-03-13T23:38:24.261Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T23:38:53.470Z] : [info]: 923.14 : Procesamiento final
+
+[2023-03-13T23:39:01.106Z] : [info]: 5100.00 : Procesamiento final
+
+[2023-03-13T23:39:10.854Z] : [info]: 4640.00 : Procesamiento final
+
+[2023-03-13T23:39:17.263Z] : [info]: 5247.52 : Procesamiento final
+
+[2023-03-13T23:39:20.546Z] : [info]: 9280.00 : Procesamiento final
+
+[2023-03-13T23:39:26.417Z] : [info]: 3920.40 : Procesamiento final
+
+[2023-03-13T23:39:29.927Z] : [info]: 3639.19 : Procesamiento final
+
+[2023-03-13T23:39:37.790Z] : [info]: 59400.00 : Procesamiento final
+
+[2023-03-13T23:39:44.449Z] : [info]: 1039.00 : Procesamiento final
+
+[2023-03-13T23:39:48.987Z] : [info]: 1440.00 : Procesamiento final
+
+[2023-03-13T23:39:52.541Z] : [info]: 10265.49 : Procesamiento final
+
+[2023-03-13T23:39:56.243Z] : [info]: 408.90 : Procesamiento final
+
+[2023-03-13T23:40:00.001Z] : [info]: 175.00 : Procesamiento final
+
+[2023-03-13T23:40:04.421Z] : [info]: 151960.00 : Procesamiento final
+
+[2023-03-13T23:40:09.240Z] : [info]: 2273.60 : Procesamiento final
+
+[2023-03-13T23:40:14.255Z] : [info]: 31823.01 : Procesamiento final
+
+[2023-03-13T23:40:17.819Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T23:40:22.338Z] : [info]: 1446.12 : Procesamiento final
+
+[2023-03-13T23:40:26.198Z] : [info]: 110200.00 : Procesamiento final
+
+[2023-03-13T23:40:30.429Z] : [info]: 35322.00 : Procesamiento final
+
+[2023-03-13T23:40:36.420Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T23:40:40.458Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T23:40:44.345Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T23:51:39.605Z] : [success]: Bot started
+
+[2023-03-13T23:51:39.606Z] : [info]: Robot start
+
+[2023-03-13T23:52:57.274Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-03-13T23:53:13.261Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T23:53:13.754Z] : [info]: 69.95 : Procesamiento final
+
+[2023-03-13T23:53:14.394Z] : [info]: 5212.42 : Procesamiento final
+
+[2023-03-13T23:53:15.011Z] : [info]: 39.99 : Procesamiento final
+
+[2023-03-13T23:53:15.578Z] : [info]: 220.85 : Procesamiento final
+
+[2023-03-13T23:53:16.134Z] : [info]: 556.80 : Procesamiento final
+
+[2023-03-13T23:53:16.593Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T23:53:19.066Z] : [info]: 1440.00 : Procesamiento final
+
+[2023-03-13T23:53:21.549Z] : [info]: 158.00 : Procesamiento final
+
+[2023-03-13T23:53:22.082Z] : [info]: 215.00 : Procesamiento final
+
+[2023-03-13T23:53:22.573Z] : [info]: 215.00 : Procesamiento final
+
+[2023-03-13T23:53:23.044Z] : [info]: 215.00 : Procesamiento final
+
+[2023-03-13T23:53:23.569Z] : [info]: 215.00 : Procesamiento final
+
+[2023-03-13T23:53:24.030Z] : [info]: 1364.00 : Procesamiento final
+
+[2023-03-13T23:53:24.537Z] : [info]: 503.80 : Procesamiento final
+
+[2023-03-13T23:53:25.028Z] : [info]: 350.00 : Procesamiento final
+
+[2023-03-13T23:53:25.536Z] : [info]: 1226.12 : Procesamiento final
+
+[2023-03-13T23:53:26.011Z] : [info]: 154.00 : Procesamiento final
+
+[2023-03-13T23:53:26.541Z] : [info]: 208.90 : Procesamiento final
+
+[2023-03-13T23:53:27.054Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T23:53:27.431Z] : [info]: 2388.93 : Procesamiento final
+
+[2023-03-13T23:53:27.943Z] : [info]: 882.58 : Procesamiento final
+
+[2023-03-13T23:53:28.427Z] : [info]: 503.80 : Procesamiento final
+
+[2023-03-13T23:53:28.993Z] : [info]: 15398.23 : Procesamiento final
+
+[2023-03-13T23:53:29.632Z] : [info]: 600.00 : Procesamiento final
+
+[2023-03-13T23:53:30.154Z] : [info]: 500.00 : Procesamiento final
+
+[2023-03-13T23:53:30.662Z] : [info]: 600.00 : Procesamiento final
+
+[2023-03-13T23:53:31.167Z] : [info]: 487.00 : Procesamiento final
+
+[2023-03-13T23:53:31.675Z] : [info]: 1890.60 : Procesamiento final
+
+[2023-03-13T23:53:32.182Z] : [info]: 500.00 : Procesamiento final
+
+[2023-03-13T23:53:32.689Z] : [info]: 411.80 : Procesamiento final
+
+[2023-03-13T23:53:33.230Z] : [info]: 413.80 : Procesamiento final
+
+[2023-03-13T23:53:33.749Z] : [info]: 879.60 : Procesamiento final
+
+[2023-03-13T23:53:34.295Z] : [info]: 33876.11 : Procesamiento final
+
+[2023-03-13T23:53:34.785Z] : [info]: 1891.00 : Procesamiento final
+
+[2023-03-13T23:53:35.416Z] : [info]: 448.00 : Procesamiento final
+
+[2023-03-13T23:53:35.940Z] : [info]: 64.00 : Procesamiento final
+
+[2023-03-13T23:53:36.461Z] : [info]: 144.00 : Procesamiento final
+
+[2023-03-13T23:53:36.947Z] : [info]: 580.00 : Procesamiento final
+
+[2023-03-13T23:53:37.491Z] : [info]: 2014.20 : Procesamiento final
+
+[2023-03-13T23:53:38.015Z] : [info]: 879.60 : Procesamiento final
+
+[2023-03-13T23:53:38.552Z] : [info]: 52.20 : Procesamiento final
+
+[2023-03-13T23:53:39.121Z] : [info]: 69.95 : Procesamiento final
+
+[2023-03-13T23:53:39.645Z] : [info]: 5212.42 : Procesamiento final
+
+[2023-03-13T23:53:40.282Z] : [info]: 39.99 : Procesamiento final
+
+[2023-03-13T23:53:40.818Z] : [info]: 220.85 : Procesamiento final
+
+[2023-03-13T23:53:41.347Z] : [info]: 556.80 : Procesamiento final
+
+[2023-03-13T23:53:41.865Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T23:53:44.317Z] : [info]: 158.00 : Procesamiento final
+
+[2023-03-13T23:53:44.916Z] : [info]: 215.00 : Procesamiento final
+
+[2023-03-13T23:53:45.423Z] : [info]: 215.00 : Procesamiento final
+
+[2023-03-13T23:53:45.922Z] : [info]: 215.00 : Procesamiento final
+
+[2023-03-13T23:53:46.450Z] : [info]: 215.00 : Procesamiento final
+
+[2023-03-13T23:53:46.993Z] : [info]: 503.80 : Procesamiento final
+
+[2023-03-13T23:53:47.517Z] : [info]: 350.00 : Procesamiento final
+
+[2023-03-13T23:53:48.057Z] : [info]: 154.00 : Procesamiento final
+
+[2023-03-13T23:53:48.611Z] : [info]: 208.90 : Procesamiento final
+
+[2023-03-13T23:53:49.149Z] : [info]: 2388.93 : Procesamiento final
+
+[2023-03-13T23:53:49.692Z] : [info]: 503.80 : Procesamiento final
+
+[2023-03-13T23:53:50.196Z] : [info]: 15398.23 : Procesamiento final
+
+[2023-03-13T23:53:50.720Z] : [info]: 600.00 : Procesamiento final
+
+[2023-03-13T23:53:51.249Z] : [info]: 500.00 : Procesamiento final
+
+[2023-03-13T23:53:51.815Z] : [info]: 600.00 : Procesamiento final
+
+[2023-03-13T23:53:52.359Z] : [info]: 1890.60 : Procesamiento final
+
+[2023-03-13T23:53:53.003Z] : [info]: 500.00 : Procesamiento final
+
+[2023-03-13T23:53:53.559Z] : [info]: 411.80 : Procesamiento final
+
+[2023-03-13T23:53:54.131Z] : [info]: 413.80 : Procesamiento final
+
+[2023-03-13T23:53:54.653Z] : [info]: 33876.11 : Procesamiento final
+
+[2023-03-13T23:53:55.193Z] : [info]: 1891.00 : Procesamiento final
+
+[2023-03-13T23:53:55.714Z] : [info]: 448.00 : Procesamiento final
+
+[2023-03-13T23:53:56.256Z] : [info]: 64.00 : Procesamiento final
+
+[2023-03-13T23:53:56.809Z] : [info]: 144.00 : Procesamiento final
+
+[2023-03-13T23:53:57.304Z] : [info]: 580.00 : Procesamiento final
+
+[2023-03-13T23:53:57.902Z] : [info]: 2014.20 : Procesamiento final
+
+[2023-03-13T23:53:58.535Z] : [info]: 52.20 : Procesamiento final
+
+[2023-03-13T23:53:59.159Z] : [info]: 425.80 : Procesamiento final
+
+[2023-03-13T23:53:59.818Z] : [info]: 3681.61 : Procesamiento final
+
+[2023-03-13T23:54:00.485Z] : [info]: 9139.20 : Procesamiento final
+
+[2023-03-13T23:54:01.448Z] : [info]: 9247.04 : Procesamiento final
+
+[2023-03-13T23:54:02.162Z] : [info]: 2595.70 : Procesamiento final
+
+[2023-03-13T23:54:02.735Z] : [info]: 4216.18 : Procesamiento final
+
+[2023-03-13T23:54:03.275Z] : [info]: 6712.92 : Procesamiento final
+
+[2023-03-13T23:54:03.818Z] : [info]: 1050.00 : Procesamiento final
+
+[2023-03-13T23:54:04.415Z] : [info]: 7095.90 : Procesamiento final
+
+[2023-03-13T23:54:04.957Z] : [info]: 120.00 : Procesamiento final
+
+[2023-03-13T23:54:05.524Z] : [info]: 20530.98 : Procesamiento final
+
+[2023-03-13T23:54:06.086Z] : [info]: 1746.80 : Procesamiento final
+
+[2023-03-13T23:54:06.577Z] : [info]: 1135.00 : Procesamiento final
+
+[2023-03-13T23:54:07.093Z] : [info]: 1633.01 : Procesamiento final
+
+[2023-03-13T23:54:07.632Z] : [info]: 1149.01 : Procesamiento final
+
+[2023-03-13T23:54:08.126Z] : [info]: 1200.00 : Procesamiento final
+
+[2023-03-13T23:54:08.652Z] : [info]: 139.99 : Procesamiento final
+
+[2023-03-13T23:54:09.202Z] : [info]: 477.60 : Procesamiento final
+
+[2023-03-13T23:54:09.731Z] : [info]: 759.00 : Procesamiento final
+
+[2023-03-13T23:54:10.344Z] : [info]: 292660.75 : Procesamiento final
+
+[2023-03-13T23:54:10.888Z] : [info]: 232000.00 : Procesamiento final
+
+[2023-03-13T23:54:11.452Z] : [info]: 5329.00 : Procesamiento final
+
+[2023-03-13T23:54:11.943Z] : [info]: 7058.00 : Procesamiento final
+
+[2023-03-13T23:54:12.448Z] : [info]: 4367.21 : Procesamiento final
+
+[2023-03-13T23:54:12.984Z] : [info]: 1156.00 : Procesamiento final
+
+[2023-03-13T23:54:13.523Z] : [info]: 256.00 : Procesamiento final
+
+[2023-03-13T23:54:14.039Z] : [info]: 232.90 : Procesamiento final
+
+[2023-03-13T23:54:14.619Z] : [info]: 851.60 : Procesamiento final
+
+[2023-03-13T23:54:15.140Z] : [info]: 845.98 : Procesamiento final
+
+[2023-03-13T23:54:15.663Z] : [info]: 1035.00 : Procesamiento final
+
+[2023-03-13T23:54:16.219Z] : [info]: 1299.99 : Procesamiento final
+
+[2023-03-13T23:54:16.932Z] : [info]: 635.68 : Procesamiento final
+
+[2023-03-13T23:54:17.484Z] : [info]: 1299.99 : Procesamiento final
+
+[2023-03-13T23:54:18.038Z] : [info]: 6554.00 : Procesamiento final
+
+[2023-03-13T23:54:18.564Z] : [info]: 46194.69 : Procesamiento final
+
+[2023-03-13T23:54:19.131Z] : [info]: 4241.21 : Procesamiento final
+
+[2023-03-13T23:54:19.653Z] : [info]: 59.92 : Procesamiento final
+
+[2023-03-13T23:54:20.163Z] : [info]: 5800.00 : Procesamiento final
+
+[2023-03-13T23:54:22.663Z] : [info]: 22213.55 : Procesamiento final
+
+[2023-03-13T23:55:11.297Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T23:55:12.217Z] : [success]: Bot finished successfully, total execution time: 3m 32s 610ms
+
+[2023-03-13T23:55:12.219Z] : [info]: ---------------------------------------------
+

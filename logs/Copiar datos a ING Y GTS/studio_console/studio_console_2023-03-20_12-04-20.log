@@ -1,0 +1,306 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 20/3/2023, 13:57:29
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 20/3/2023, 14:43:24
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 20/3/2023, 14:44:04
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 20/3/2023, 14:45:13
+  ==========================================
+  
+
+[2023-03-20T21:59:39.503Z] : [success]: Robot saved successfully
+
+[2023-03-20T21:59:39.996Z] : [success]: Bot started
+
+[2023-03-20T21:59:39.998Z] : [info]: Robot start
+
+[2023-03-20T22:32:48.428Z] : [error]: Script Stopped.
+
+[2023-03-20T22:32:48.432Z] : [info]: Total execution time: 33m 8s 429ms
+
+[2023-03-20T22:32:48.434Z] : [info]: ---------------------------------------------
+
+[2023-03-20T22:41:05.706Z] : [success]: Robot saved successfully
+
+[2023-03-20T22:41:06.252Z] : [success]: Bot started
+
+[2023-03-20T22:41:06.254Z] : [info]: Robot start
+
+[2023-03-20T22:41:09.560Z] : [error]: Unexpected token o in JSON at position 1
+
+[2023-03-20T22:41:09.564Z] : [info]: Total execution time: 3s 306ms
+
+[2023-03-20T22:41:09.566Z] : [info]: ---------------------------------------------
+
+[2023-03-20T22:42:29.001Z] : [success]: Bot started
+
+[2023-03-20T22:42:29.003Z] : [info]: Robot start
+
+[2023-03-20T22:44:53.578Z] : [error]: Unexpected token o in JSON at position 1
+
+[2023-03-20T22:44:53.581Z] : [info]: Total execution time: 2m 24s 574ms
+
+[2023-03-20T22:44:53.583Z] : [info]: ---------------------------------------------
+
+[2023-03-20T22:48:15.654Z] : [success]: Bot started
+
+[2023-03-20T22:48:15.659Z] : [info]: Robot start
+
+[2023-03-20T22:48:17.907Z] : [error]: Unexpected token o in JSON at position 1
+
+[2023-03-20T22:48:17.910Z] : [info]: Total execution time: 2s 247ms
+
+[2023-03-20T22:48:17.911Z] : [info]: ---------------------------------------------
+
+[2023-03-20T22:49:32.945Z] : [success]: Bot started
+
+[2023-03-20T22:49:32.947Z] : [info]: Robot start
+
+[2023-03-20T22:50:47.883Z] : [error]: Script Stopped.
+
+[2023-03-20T22:50:47.886Z] : [info]: Total execution time: 1m 14s 936ms
+
+[2023-03-20T22:50:47.888Z] : [info]: ---------------------------------------------
+
+[2023-03-20T22:51:56.773Z] : [success]: Robot saved successfully
+
+[2023-03-20T22:51:57.234Z] : [success]: Bot started
+
+[2023-03-20T22:51:57.236Z] : [info]: Robot start
+
+[2023-03-20T22:51:59.413Z] : [error]: Unexpected token o in JSON at position 1
+
+[2023-03-20T22:51:59.417Z] : [info]: Total execution time: 2s 176ms
+
+[2023-03-20T22:51:59.418Z] : [info]: ---------------------------------------------
+
+[2023-03-20T23:00:11.908Z] : [success]: Robot saved successfully
+
+[2023-03-20T23:00:12.387Z] : [success]: Bot started
+
+[2023-03-20T23:00:12.389Z] : [info]: Robot start
+
+[2023-03-20T23:00:13.905Z] : [info]: object
+
+[2023-03-20T23:02:24.202Z] : [error]: Script Stopped.
+
+[2023-03-20T23:02:24.205Z] : [info]: Total execution time: 2m 11s 812ms
+
+[2023-03-20T23:02:24.206Z] : [info]: ---------------------------------------------
+
+[2023-03-20T23:02:55.240Z] : [success]: Robot saved successfully
+
+[2023-03-20T23:02:55.690Z] : [success]: Bot started
+
+[2023-03-20T23:02:55.692Z] : [info]: Robot start
+
+[2023-03-20T23:02:57.182Z] : [info]: object
+
+[2023-03-20T23:03:00.974Z] : [success]: Bot finished successfully, total execution time: 5s 280ms
+
+[2023-03-20T23:03:00.976Z] : [info]: ---------------------------------------------
+
+[2023-03-20T23:04:09.572Z] : [success]: Bot started
+
+[2023-03-20T23:04:09.574Z] : [info]: Robot start
+
+[2023-03-20T23:04:11.063Z] : [info]: object
+
+[2023-03-20T23:04:13.827Z] : [success]: Bot finished successfully, total execution time: 4s 245ms
+
+[2023-03-20T23:04:13.828Z] : [info]: ---------------------------------------------
+
+[2023-03-20T23:13:14.622Z] : [success]: Robot saved successfully
+
+[2023-03-20T23:13:15.255Z] : [success]: Bot started
+
+[2023-03-20T23:13:15.256Z] : [info]: Robot start
+
+[2023-03-20T23:13:17.310Z] : [info]: object
+
+[2023-03-20T23:13:23.697Z] : [success]: Bot finished successfully, total execution time: 8s 439ms
+
+[2023-03-20T23:13:23.699Z] : [info]: ---------------------------------------------
+
+[2023-03-20T23:33:09.256Z] : [success]: Robot saved successfully
+
+[2023-03-20T23:33:09.702Z] : [success]: Bot started
+
+[2023-03-20T23:33:09.703Z] : [info]: Robot start
+
+[2023-03-20T23:33:11.142Z] : [info]: object
+
+[2023-03-20T23:33:13.974Z] : [error]: Selectors: No se puede acceder al documento de solo lectura «ING Y GTS OCT 2022.xlsx».
+
+[2023-03-20T23:33:13.976Z] : [info]: Total execution time: 4s 270ms
+
+[2023-03-20T23:33:13.978Z] : [info]: ---------------------------------------------
+
+[2023-03-20T23:33:35.631Z] : [success]: Bot started
+
+[2023-03-20T23:33:35.632Z] : [info]: Robot start
+
+[2023-03-20T23:33:36.906Z] : [info]: object
+
+[2023-03-20T23:33:41.993Z] : [success]: Bot finished successfully, total execution time: 6s 357ms
+
+[2023-03-20T23:33:41.995Z] : [info]: ---------------------------------------------
+
+[2023-03-21T01:51:20.278Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.282Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.284Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.286Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.290Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.292Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.295Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.297Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.300Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.302Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.304Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.307Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.330Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.333Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.335Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.337Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.341Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.344Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.349Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.351Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.353Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.355Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.358Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.361Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.363Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.365Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.367Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.369Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.371Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.373Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.377Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.380Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.382Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.385Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.387Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.389Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.394Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.396Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.397Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.400Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.403Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.404Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.407Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.411Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.413Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.417Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.419Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.421Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.429Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.432Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.434Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.436Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.440Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.443Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.445Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.450Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.453Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.455Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.463Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.467Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.469Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.472Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.475Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.482Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.484Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.486Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.491Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.493Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.499Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-21T01:51:20.503Z] : [error]: Cannot read properties of null (reading 'type')
+

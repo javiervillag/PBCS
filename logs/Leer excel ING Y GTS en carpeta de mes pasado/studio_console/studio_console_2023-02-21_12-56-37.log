@@ -1,0 +1,356 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 12:58:33
+  ==========================================
+  
+
+[2023-02-21T20:00:41.520Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 13:17:59
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 13:24:33
+  ==========================================
+  
+
+[2023-02-21T20:26:12.421Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:26:12.875Z] : [success]: Bot started
+
+[2023-02-21T20:26:12.879Z] : [info]: Robot start
+
+[2023-02-21T20:26:13.831Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE
+
+[2023-02-21T20:26:14.175Z] : [success]: Bot finished successfully, total execution time: 1s 295ms
+
+[2023-02-21T20:26:14.180Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:27:04.350Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:27:04.784Z] : [success]: Bot started
+
+[2023-02-21T20:27:04.787Z] : [info]: Robot start
+
+[2023-02-21T20:27:05.675Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\undefined
+
+[2023-02-21T20:27:05.902Z] : [success]: Bot finished successfully, total execution time: 1s 114ms
+
+[2023-02-21T20:27:05.909Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:28:08.808Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:28:09.256Z] : [success]: Bot started
+
+[2023-02-21T20:28:09.260Z] : [info]: Robot start
+
+[2023-02-21T20:28:10.392Z] : [success]: Bot finished successfully, total execution time: 1s 131ms
+
+[2023-02-21T20:28:10.398Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:30:07.098Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:30:07.541Z] : [success]: Bot started
+
+[2023-02-21T20:30:07.545Z] : [info]: Robot start
+
+[2023-02-21T20:30:08.656Z] : [success]: Bot finished successfully, total execution time: 1s 109ms
+
+[2023-02-21T20:30:08.665Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:30:26.713Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:30:27.221Z] : [success]: Bot started
+
+[2023-02-21T20:30:27.225Z] : [info]: Robot start
+
+[2023-02-21T20:30:28.168Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\01 ENERO
+
+[2023-02-21T20:30:28.394Z] : [success]: Bot finished successfully, total execution time: 1s 168ms
+
+[2023-02-21T20:30:28.398Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:45:41.109Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:45:41.594Z] : [success]: Bot started
+
+[2023-02-21T20:45:41.599Z] : [info]: Robot start
+
+[2023-02-21T20:45:45.717Z] : [success]: Bot finished successfully, total execution time: 4s 117ms
+
+[2023-02-21T20:45:45.721Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:46:05.052Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:46:05.525Z] : [success]: Bot started
+
+[2023-02-21T20:46:05.529Z] : [info]: Robot start
+
+[2023-02-21T20:46:06.638Z] : [error]: yearString is not defined
+
+[2023-02-21T20:46:06.644Z] : [info]: Total execution time: 1s 109ms
+
+[2023-02-21T20:46:06.647Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:46:40.216Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:46:40.732Z] : [success]: Bot started
+
+[2023-02-21T20:46:40.736Z] : [info]: Robot start
+
+[2023-02-21T20:46:41.846Z] : [error]: yearDate.setFullYear(...).getFullYear is not a function
+
+[2023-02-21T20:46:41.852Z] : [info]: Total execution time: 1s 110ms
+
+[2023-02-21T20:46:41.855Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:47:36.776Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:47:37.270Z] : [success]: Bot started
+
+[2023-02-21T20:47:37.273Z] : [info]: Robot start
+
+[2023-02-21T20:47:38.416Z] : [error]: yearDate is not defined
+
+[2023-02-21T20:47:38.423Z] : [info]: Total execution time: 1s 142ms
+
+[2023-02-21T20:47:38.428Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:48:26.826Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:48:27.283Z] : [success]: Bot started
+
+[2023-02-21T20:48:27.287Z] : [info]: Robot start
+
+[2023-02-21T20:48:28.426Z] : [success]: Bot finished successfully, total execution time: 1s 138ms
+
+[2023-02-21T20:48:28.432Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:48:45.711Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:48:46.164Z] : [success]: Bot started
+
+[2023-02-21T20:48:46.168Z] : [info]: Robot start
+
+[2023-02-21T20:48:47.271Z] : [success]: Bot finished successfully, total execution time: 1s 103ms
+
+[2023-02-21T20:48:47.276Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:49:43.491Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:49:44.030Z] : [success]: Bot started
+
+[2023-02-21T20:49:44.034Z] : [info]: Robot start
+
+[2023-02-21T20:49:47.572Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2021\GASTOS\12 DICIEMBRE
+
+[2023-02-21T20:50:00.537Z] : [error]: Script Stopped.
+
+[2023-02-21T20:50:00.542Z] : [info]: Total execution time: 16s 502ms
+
+[2023-02-21T20:50:00.546Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:52:09.468Z] : [success]: Bot started
+
+[2023-02-21T20:52:09.473Z] : [info]: Robot start
+
+[2023-02-21T20:52:13.006Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2021\GASTOS\12 DICIEMBRE
+
+[2023-02-21T20:52:50.594Z] : [error]: Script Stopped.
+
+[2023-02-21T20:52:50.601Z] : [info]: Total execution time: 41s 121ms
+
+[2023-02-21T20:52:50.606Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:52:55.100Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:52:55.617Z] : [success]: Bot started
+
+[2023-02-21T20:52:55.623Z] : [info]: Robot start
+
+[2023-02-21T20:52:59.371Z] : [info]: C:\Users\50378\OneDrive\Escritorio\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2021\GASTOS\12 DICIEMBRE
+
+[2023-02-21T20:54:27.048Z] : [error]: Script Stopped.
+
+[2023-02-21T20:54:27.053Z] : [info]: Total execution time: 1m 31s 424ms
+
+[2023-02-21T20:54:27.058Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:54:46.792Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:54:47.260Z] : [success]: Bot started
+
+[2023-02-21T20:54:47.264Z] : [info]: Robot start
+
+[2023-02-21T20:54:50.462Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2021\GASTOS\12 DICIEMBRE
+
+[2023-02-21T20:55:16.402Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2021\GASTOS\12 DICIEMBRE\ING Y GTS DIC 2021.xlsx
+
+[2023-02-21T20:55:26.443Z] : [error]: Script Stopped.
+
+[2023-02-21T20:55:26.448Z] : [info]: Total execution time: 39s 178ms
+
+[2023-02-21T20:55:26.453Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:57:58.585Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:57:59.152Z] : [success]: Bot started
+
+[2023-02-21T20:57:59.156Z] : [info]: Robot start
+
+[2023-02-21T20:58:00.007Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2021\GASTOS\12 DICIEMBRE
+
+[2023-02-21T20:58:00.057Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2021\GASTOS\12 DICIEMBRE\ING Y GTS DIC 2021.xlsx
+
+[2023-02-21T20:58:00.059Z] : [info]: DIC
+
+[2023-02-21T20:58:00.275Z] : [success]: Bot finished successfully, total execution time: 1s 118ms
+
+[2023-02-21T20:58:00.280Z] : [info]: ---------------------------------------------
+
+[2023-02-21T20:58:44.711Z] : [success]: Robot saved successfully
+
+[2023-02-21T20:58:45.225Z] : [success]: Bot started
+
+[2023-02-21T20:58:45.229Z] : [info]: Robot start
+
+[2023-02-21T20:58:46.123Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2021\GASTOS\12 DICIEMBRE
+
+[2023-02-21T20:58:46.164Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2021\GASTOS\12 DICIEMBRE\ING Y GTS DIC 2021.xlsx
+
+[2023-02-21T20:58:46.172Z] : [info]: DIC
+
+[2023-02-21T20:58:48.333Z] : [success]: Bot finished successfully, total execution time: 3s 103ms
+
+[2023-02-21T20:58:48.337Z] : [info]: ---------------------------------------------
+
+[2023-02-21T21:00:27.164Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 14:02:07
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 14:04:16
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 14:05:56
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 14:16:09
+  ==========================================
+  
+
+[2023-02-21T21:16:15.956Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 14:20:40
+  ==========================================
+  
+
+[2023-02-21T21:20:59.726Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 14:31:40
+  ==========================================
+  
+
+[2023-02-21T21:32:04.328Z] : [success]: Robot saved successfully
+
+[2023-02-21T21:32:04.766Z] : [success]: Bot started
+
+[2023-02-21T21:32:04.769Z] : [info]: Robot start
+
+[2023-02-21T21:32:09.184Z] : [success]: Bot finished successfully, total execution time: 4s 415ms
+
+[2023-02-21T21:32:09.188Z] : [info]: ---------------------------------------------
+
+[2023-02-21T21:32:23.353Z] : [success]: Robot saved successfully
+
+[2023-02-21T21:32:23.885Z] : [success]: Bot started
+
+[2023-02-21T21:32:23.889Z] : [info]: Robot start
+
+[2023-02-21T21:32:24.702Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\12 DICIEMBRE
+
+[2023-02-21T21:32:24.998Z] : [success]: Bot finished successfully, total execution time: 1s 108ms
+
+[2023-02-21T21:32:25.003Z] : [info]: ---------------------------------------------
+
+[2023-02-21T21:33:33.273Z] : [success]: Bot started
+
+[2023-02-21T21:33:33.278Z] : [info]: Robot start
+
+[2023-02-21T21:33:34.071Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\12 DICIEMBRE
+
+[2023-02-21T21:33:34.382Z] : [success]: Bot finished successfully, total execution time: 1s 103ms
+
+[2023-02-21T21:33:34.386Z] : [info]: ---------------------------------------------
+
+[2023-02-21T21:33:45.865Z] : [success]: Robot saved successfully
+
+[2023-02-21T21:33:46.334Z] : [success]: Bot started
+
+[2023-02-21T21:33:46.337Z] : [info]: Robot start
+
+[2023-02-21T21:33:47.169Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\12 DICIEMBRE
+
+[2023-02-21T21:33:49.485Z] : [success]: Bot finished successfully, total execution time: 3s 147ms
+
+[2023-02-21T21:33:49.491Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 21/2/2023 16:15:08
+  ==========================================
+  
+
+[2023-02-21T23:15:21.250Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 22/2/2023 07:02:42
+  ==========================================
+  
+
+[2023-02-22T14:02:49.371Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\12 DICIEMBRE
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 22/2/2023 07:03:43
+  ==========================================
+  
+
+[2023-02-22T14:04:44.152Z] : [error]: Script Stopped.
+
+[2023-02-22T14:04:44.158Z] : [info]: Total execution time: 42s 949ms
+
+[2023-02-22T14:04:44.175Z] : [info]: ---------------------------------------------
+

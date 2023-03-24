@@ -1,0 +1,66 @@
+[2023-02-23T19:43:49.636Z] : [error]: Traceback (most recent call last):
+  File "C:\tmp\scritp_subrayar_pdf.py", line 14, in <module>
+    pdf = fitz.open(pdf_path)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\tmp\myenv\Lib\site-packages\fitz\fitz.py", line 3953, in __init__
+    raise FileNotFoundError(msg)
+fitz.fitz.FileNotFoundError: no such file: 'C:\\Users\\50378\\OneDrive\\Documentos\\Botget\\3. Desarrollo\\Prueba\\EDO BBVA AMMSA OCT 22.pdf'
+
+
+[2023-02-23T19:43:49.644Z] : [info]: Total execution time: 58s 314ms
+
+[2023-02-23T19:43:49.645Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 23/2/2023 13:43:50
+  ==========================================
+  
+
+[2023-02-23T19:44:40.843Z] : [success]: Robot saved successfully
+
+[2023-02-23T19:45:30.179Z] : [error]: Traceback (most recent call last):
+  File "C:\tmp\scritp_subrayar_pdf.py", line 14, in <module>
+    pdf = fitz.open(pdf_path)
+          ^^^^^^^^^^^^^^^^^^^
+  File "C:\tmp\myenv\Lib\site-packages\fitz\fitz.py", line 3953, in __init__
+    raise FileNotFoundError(msg)
+fitz.fitz.FileNotFoundError: no such file: 'C:\\Users\\50378\\OneDrive\\Documentos\\Botget\\3. Desarrollo\\Prueba\\EDO BBVA AMMSA OCT 22.pdf'
+
+
+[2023-02-23T19:45:30.183Z] : [info]: Total execution time: 43s 594ms
+
+[2023-02-23T19:45:30.206Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 23/2/2023 13:45:31
+  ==========================================
+  
+
+[2023-02-23T19:50:06.072Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 23/2/2023 13:51:14
+  ==========================================
+  
+
+[2023-02-23T19:51:23.256Z] : [success]: Robot saved successfully
+
+[2023-02-23T19:53:50.098Z] : [error]: Programming activity: pdf_path is not defined
+
+[2023-02-23T19:53:50.101Z] : [info]: Total execution time: 45s 368ms
+
+[2023-02-23T19:53:50.102Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 23/2/2023 13:53:50
+  ==========================================
+  
+

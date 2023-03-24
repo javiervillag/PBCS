@@ -1,0 +1,99 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 13/3/2023, 8:42:16
+  ==========================================
+  
+
+[2023-03-13T14:45:54.180Z] : [info]: ---------------------------------------------
+
+[2023-03-13T14:45:54.181Z] : [success]: Bot started
+
+[2023-03-13T14:45:54.182Z] : [info]: Robot start
+
+[2023-03-13T14:45:58.703Z] : [success]: Bot finished successfully, total execution time: 4s 518ms
+
+[2023-03-13T14:45:58.704Z] : [info]: ---------------------------------------------
+
+[2023-03-13T14:51:32.281Z] : [success]: Robot saved successfully
+
+[2023-03-13T14:51:43.649Z] : [success]: Bot started
+
+[2023-03-13T14:51:43.651Z] : [info]: Robot start
+
+[2023-03-13T14:51:46.843Z] : [success]: Bot finished successfully, total execution time: 3s 191ms
+
+[2023-03-13T14:51:46.846Z] : [info]: ---------------------------------------------
+
+[2023-03-13T14:54:57.003Z] : [success]: Robot saved successfully
+
+[2023-03-13T14:54:57.578Z] : [success]: Bot started
+
+[2023-03-13T14:54:57.580Z] : [info]: Robot start
+
+[2023-03-13T14:55:39.628Z] : [error]: Script Stopped.
+
+[2023-03-13T14:55:39.632Z] : [info]: Total execution time: 42s 47ms
+
+[2023-03-13T14:55:39.636Z] : [info]: ---------------------------------------------
+
+[2023-03-13T14:57:02.410Z] : [success]: Robot saved successfully
+
+[2023-03-13T14:57:02.802Z] : [success]: Bot started
+
+[2023-03-13T14:57:02.804Z] : [info]: Robot start
+
+[2023-03-13T14:57:06.039Z] : [success]: Bot finished successfully, total execution time: 3s 231ms
+
+[2023-03-13T14:57:06.041Z] : [info]: ---------------------------------------------
+
+[2023-03-13T14:58:13.771Z] : [success]: Robot saved successfully
+
+[2023-03-13T14:58:14.164Z] : [success]: Bot started
+
+[2023-03-13T14:58:14.166Z] : [info]: Robot start
+
+[2023-03-13T14:59:15.258Z] : [error]: Script Stopped.
+
+[2023-03-13T14:59:15.261Z] : [info]: Total execution time: 1m 1s 91ms
+
+[2023-03-13T14:59:15.262Z] : [info]: ---------------------------------------------
+
+[2023-03-13T15:00:38.488Z] : [success]: Robot saved successfully
+
+[2023-03-13T15:00:48.407Z] : [success]: Robot saved successfully
+
+[2023-03-13T15:00:56.882Z] : [success]: Bot started
+
+[2023-03-13T15:00:56.884Z] : [info]: Robot start
+
+[2023-03-13T15:01:02.218Z] : [success]: Bot finished successfully, total execution time: 5s 333ms
+
+[2023-03-13T15:01:02.220Z] : [info]: ---------------------------------------------
+
+[2023-03-13T15:03:38.015Z] : [success]: Robot saved successfully
+
+[2023-03-13T15:03:48.276Z] : [success]: Bot started
+
+[2023-03-13T15:03:48.277Z] : [info]: Robot start
+
+[2023-03-13T15:03:51.555Z] : [success]: Bot finished successfully, total execution time: 3s 277ms
+
+[2023-03-13T15:03:51.557Z] : [info]: ---------------------------------------------
+
+[2023-03-13T15:16:26.793Z] : [success]: Bot started
+
+[2023-03-13T15:16:26.795Z] : [info]: Robot start
+
+[2023-03-13T15:16:32.296Z] : [success]: Bot finished successfully, total execution time: 5s 498ms
+
+[2023-03-13T15:16:32.298Z] : [info]: ---------------------------------------------
+
+[2023-03-13T15:18:39.927Z] : [success]: Robot saved successfully
+
+[2023-03-13T15:26:23.860Z] : [error]: i is not defined
+
+[2023-03-13T15:26:23.864Z] : [info]: Total execution time: 3m 14s 493ms
+
+[2023-03-13T15:26:23.865Z] : [info]: ---------------------------------------------
+

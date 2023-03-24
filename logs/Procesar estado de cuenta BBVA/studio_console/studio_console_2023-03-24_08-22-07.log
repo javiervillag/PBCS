@@ -1,0 +1,190 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 24/3/2023, 8:44:08
+  ==========================================
+  
+
+[2023-03-24T14:53:59.832Z] : [success]: Robot saved successfully
+
+[2023-03-24T14:54:21.748Z] : [info]: ---------------------------------------------
+
+[2023-03-24T14:54:21.749Z] : [success]: Bot started
+
+[2023-03-24T14:54:21.751Z] : [info]: Robot start
+
+[2023-03-24T14:54:24.172Z] : [error]: Could not find a page according to the given number. Make sure the page with this number exists.
+
+[2023-03-24T14:54:24.176Z] : [info]: Total execution time: 2s 420ms
+
+[2023-03-24T14:54:24.178Z] : [info]: ---------------------------------------------
+
+[2023-03-24T14:54:52.393Z] : [success]: Robot saved successfully
+
+[2023-03-24T14:54:52.851Z] : [success]: Bot started
+
+[2023-03-24T14:54:52.853Z] : [info]: Robot start
+
+[2023-03-24T14:55:25.760Z] : [error]: Script Stopped.
+
+[2023-03-24T14:55:25.764Z] : [info]: Total execution time: 32s 907ms
+
+[2023-03-24T14:55:25.766Z] : [info]: ---------------------------------------------
+
+[2023-03-24T14:56:51.277Z] : [success]: Robot saved successfully
+
+[2023-03-24T14:56:51.835Z] : [success]: Bot started
+
+[2023-03-24T14:56:51.836Z] : [info]: Robot start
+
+[2023-03-24T14:57:04.234Z] : [error]: Script Stopped.
+
+[2023-03-24T14:57:04.237Z] : [info]: Total execution time: 12s 398ms
+
+[2023-03-24T14:57:04.238Z] : [info]: ---------------------------------------------
+
+[2023-03-24T14:57:14.584Z] : [success]: Robot saved successfully
+
+[2023-03-24T14:57:14.987Z] : [success]: Bot started
+
+[2023-03-24T14:57:14.988Z] : [info]: Robot start
+
+[2023-03-24T14:57:20.236Z] : [error]: Could not find a page according to the given number. Make sure the page with this number exists.
+
+[2023-03-24T14:57:20.239Z] : [info]: Total execution time: 5s 248ms
+
+[2023-03-24T14:57:20.241Z] : [info]: ---------------------------------------------
+
+[2023-03-24T14:58:51.034Z] : [success]: Robot saved successfully
+
+[2023-03-24T14:58:55.379Z] : [success]: Bot started
+
+[2023-03-24T14:58:55.380Z] : [info]: Robot start
+
+[2023-03-24T14:59:18.942Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\50378\OneDrive\Escritorio\Desarrollo\Pandotek\BBVA.py", line 1, in <module>
+    import tabula
+ModuleNotFoundError: No module named 'tabula'
+
+
+[2023-03-24T14:59:18.945Z] : [info]: Total execution time: 23s 562ms
+
+[2023-03-24T14:59:18.946Z] : [info]: ---------------------------------------------
+
+[2023-03-24T15:04:24.845Z] : [success]: Robot saved successfully
+
+[2023-03-24T15:04:25.439Z] : [success]: Bot started
+
+[2023-03-24T15:04:25.443Z] : [info]: Robot start
+
+[2023-03-24T15:04:28.671Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\50378\OneDrive\Escritorio\Desarrollo\Pandotek\BBVA.py", line 1, in <module>
+    import tabula
+ModuleNotFoundError: No module named 'tabula'
+
+
+[2023-03-24T15:04:28.674Z] : [info]: Total execution time: 3s 227ms
+
+[2023-03-24T15:04:28.675Z] : [info]: ---------------------------------------------
+
+[2023-03-24T15:08:37.606Z] : [warn]: There is a small amount of free memory (RAM) left, 90.41% of RAM is being used (10901 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-03-24T15:12:58.161Z] : [success]: Bot started
+
+[2023-03-24T15:12:58.162Z] : [info]: Robot start
+
+[2023-03-24T15:13:01.500Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\50378\OneDrive\Escritorio\Desarrollo\Pandotek\BBVA.py", line 1, in <module>
+    import tabula
+ModuleNotFoundError: No module named 'tabula'
+
+
+[2023-03-24T15:13:01.506Z] : [info]: Total execution time: 3s 337ms
+
+[2023-03-24T15:13:01.509Z] : [info]: ---------------------------------------------
+
+[2023-03-24T15:14:48.686Z] : [success]: Bot started
+
+[2023-03-24T15:14:48.687Z] : [info]: Robot start
+
+[2023-03-24T15:14:54.930Z] : [error]: Traceback (most recent call last):
+  File "C:\Users\50378\OneDrive\Escritorio\Desarrollo\Pandotek\BBVA.py", line 12, in <module>
+    pdf_file = i['pdf_path']
+               ~^^^^^^^^^^^^
+KeyError: 'pdf_path'
+
+
+[2023-03-24T15:14:54.932Z] : [info]: Total execution time: 6s 242ms
+
+[2023-03-24T15:14:54.933Z] : [info]: ---------------------------------------------
+
+[2023-03-24T15:16:37.929Z] : [success]: Bot started
+
+[2023-03-24T15:16:37.931Z] : [info]: Robot start
+
+[2023-03-24T15:16:47.267Z] : [error]: Cannot read properties of undefined (reading 'filter')
+
+[2023-03-24T15:16:47.271Z] : [info]: Total execution time: 9s 335ms
+
+[2023-03-24T15:16:47.272Z] : [info]: ---------------------------------------------
+
+[2023-03-24T15:17:41.946Z] : [success]: Robot saved successfully
+
+[2023-03-24T15:18:06.146Z] : [success]: Bot started
+
+[2023-03-24T15:18:06.149Z] : [info]: Robot start
+
+[2023-03-24T15:18:13.093Z] : [info]: object
+
+[2023-03-24T15:18:35.952Z] : [error]: Script Stopped.
+
+[2023-03-24T15:18:35.955Z] : [info]: Total execution time: 29s 803ms
+
+[2023-03-24T15:18:35.956Z] : [info]: ---------------------------------------------
+
+[2023-03-24T15:19:13.650Z] : [success]: Robot saved successfully
+
+[2023-03-24T15:19:19.029Z] : [success]: Bot started
+
+[2023-03-24T15:19:19.030Z] : [info]: Robot start
+
+[2023-03-24T15:19:26.324Z] : [error]: leer_excel.filter is not a function
+
+[2023-03-24T15:19:26.326Z] : [info]: Total execution time: 7s 293ms
+
+[2023-03-24T15:19:26.327Z] : [info]: ---------------------------------------------
+
+[2023-03-24T15:20:55.675Z] : [success]: Robot saved successfully
+
+[2023-03-24T15:20:56.289Z] : [success]: Bot started
+
+[2023-03-24T15:20:56.291Z] : [info]: Robot start
+
+[2023-03-24T15:21:03.952Z] : [info]: object
+
+[2023-03-24T15:56:58.788Z] : [error]: Script Stopped.
+
+[2023-03-24T15:56:58.792Z] : [info]: Total execution time: 36m 2s 496ms
+
+[2023-03-24T15:56:58.794Z] : [info]: ---------------------------------------------
+
+[2023-03-24T15:57:25.902Z] : [success]: Robot saved successfully
+
+[2023-03-24T16:01:57.959Z] : [success]: Robot saved successfully
+
+[2023-03-24T16:02:24.968Z] : [success]: Bot started
+
+[2023-03-24T16:02:24.969Z] : [info]: Robot start
+
+[2023-03-24T16:02:32.043Z] : [info]: object
+
+[2023-03-24T16:03:00.764Z] : [error]: Script Stopped.
+
+[2023-03-24T16:03:00.767Z] : [info]: Total execution time: 35s 795ms
+
+[2023-03-24T16:03:00.769Z] : [info]: ---------------------------------------------
+
+[2023-03-24T16:54:02.458Z] : [success]: Robot saved successfully
+
+[2023-03-24T17:31:55.070Z] : [success]: Robot saved successfully
+

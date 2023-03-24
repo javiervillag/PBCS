@@ -1,0 +1,19 @@
+[2023-03-22T14:53:29.285Z] : [error]: Script Stopped.
+
+[2023-03-22T14:53:29.290Z] : [info]: Total execution time: 13m 45s 547ms
+
+[2023-03-22T14:53:29.292Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 22/3/2023, 8:53:29
+  ==========================================
+  
+
+[2023-03-22T15:40:21.047Z] : [error]: This activity failed to execute because the configured timeout was exceeded. Try increasing the timeout value in the parameters section of this activity or consider adjusting the logic of your workflow
+
+[2023-03-22T15:40:21.051Z] : [info]: Total execution time: 40m 46s 52ms
+
+[2023-03-22T15:40:21.053Z] : [info]: ---------------------------------------------
+

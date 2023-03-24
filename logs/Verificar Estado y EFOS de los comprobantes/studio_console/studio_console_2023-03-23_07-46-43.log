@@ -1,0 +1,9 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 23/3/2023, 15:41:22
+  ==========================================
+  
+
+[2023-03-23T21:43:56.467Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+

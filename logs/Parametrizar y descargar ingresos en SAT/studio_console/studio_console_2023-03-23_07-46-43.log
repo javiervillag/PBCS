@@ -1,0 +1,31 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 23/3/2023, 15:48:54
+  ==========================================
+  
+
+[2023-03-23T21:52:44.823Z] : [info]: Z:\CONTABILIDAD\ARRASTRE MOTRIZ DE MEXICO SA DE CV\EJERCICIO 2022\GASTOS\09 SEPTIEMBRE\ING Y GTS SEP 2022.xlsx
+
+[2023-03-23T21:52:47.265Z] : [info]: ["C:","Users","50378","OneDrive","Escritorio","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","INGRESOS","10 OCTUBRE"]
+
+[2023-03-23T21:52:53.206Z] : [info]: Users
+
+[2023-03-23T21:52:54.132Z] : [info]: 50378
+
+[2023-03-23T21:52:54.988Z] : [info]: OneDrive
+
+[2023-03-23T21:52:56.024Z] : [info]: Escritorio
+
+[2023-03-23T21:52:57.228Z] : [info]: CONTABILIDAD
+
+[2023-03-23T21:52:58.558Z] : [info]: ARRASTRE MOTRIZ DE MEXICO SA DE CV
+
+[2023-03-23T21:53:01.225Z] : [info]: EJERCICIO 2022
+
+[2023-03-23T21:53:02.746Z] : [info]: INGRESOS
+
+[2023-03-23T21:53:03.809Z] : [info]: 10 OCTUBRE
+
+[2023-03-23T21:53:21.429Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+

@@ -1,0 +1,40 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 13/3/2023, 14:13:12
+  ==========================================
+  
+
+[2023-03-13T20:45:58.838Z] : [error]: Script Stopped.
+
+[2023-03-13T20:45:58.842Z] : [info]: Total execution time: 22m 35s 370ms
+
+[2023-03-13T20:45:58.843Z] : [info]: ---------------------------------------------
+
+[2023-03-13T20:46:03.814Z] : [success]: Robot saved successfully
+
+[2023-03-13T20:46:04.491Z] : [success]: Bot started
+
+[2023-03-13T20:46:04.494Z] : [info]: Robot start
+
+[2023-03-13T20:46:07.116Z] : [error]: ubicacion_estados_cuentas is not defined
+
+[2023-03-13T20:46:07.119Z] : [info]: Total execution time: 2s 622ms
+
+[2023-03-13T20:46:07.120Z] : [info]: ---------------------------------------------
+
+[2023-03-13T22:47:52.152Z] : [error]: Traceback (most recent call last):
+  File "C:\tmp\scritp_subrayar_pdf.py", line 47, in <module>
+    if count == len(matches):
+       ^^^^^
+NameError: name 'count' is not defined. Did you mean: 'round'?
+
+
+[2023-03-13T22:47:52.155Z] : [info]: Total execution time: 34s 458ms
+
+[2023-03-13T22:47:52.156Z] : [info]: ---------------------------------------------
+
+[2023-03-13T22:47:53.059Z] : [error]: Cannot read properties of undefined (reading 'option')
+
+[2023-03-13T22:47:53.362Z] : [error]: Cannot read properties of undefined (reading 'value')
+

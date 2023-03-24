@@ -1,0 +1,66 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 7/3/2023 06:51:34
+  ==========================================
+  
+
+[2023-03-07T13:51:56.916Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-07T13:51:57.572Z] : [error]: excel_conciliado_anterior is not defined
+
+[2023-03-07T13:51:57.578Z] : [info]: Total execution time: 3m 5s 545ms
+
+[2023-03-07T13:51:57.581Z] : [info]: ---------------------------------------------
+
+[2023-03-07T13:53:12.742Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-07T13:53:13.306Z] : [error]: excel_conciliado_anterior is not defined
+
+[2023-03-07T13:53:13.312Z] : [info]: Total execution time: 26s 915ms
+
+[2023-03-07T13:53:13.316Z] : [info]: ---------------------------------------------
+
+[2023-03-07T13:56:16.804Z] : [success]: Robot saved successfully
+
+[2023-03-07T14:16:10.872Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 7/3/2023 07:17:40
+  ==========================================
+  
+
+[2023-03-07T14:17:48.008Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 7/3/2023 07:35:41
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 7/3/2023 07:38:32
+  ==========================================
+  
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 7/3/2023 07:39:33
+  ==========================================
+  
+
+[2023-03-07T14:39:37.829Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 7/3/2023 07:46:11
+  ==========================================
+  
+

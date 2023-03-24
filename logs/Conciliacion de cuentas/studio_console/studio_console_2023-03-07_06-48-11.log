@@ -1,0 +1,222 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 7/3/2023 06:55:17
+  ==========================================
+  
+
+[2023-03-07T13:56:05.400Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-07T13:56:06.811Z] : [error]: Script Stopped.
+
+[2023-03-07T13:56:06.816Z] : [info]: Total execution time: 1m 56s 494ms
+
+[2023-03-07T13:56:06.819Z] : [info]: ---------------------------------------------
+
+[2023-03-07T13:58:45.355Z] : [success]: Robot saved successfully
+
+[2023-03-07T13:59:29.942Z] : [info]: 81.2 : Preprocesamiento
+
+[2023-03-07T13:59:58.935Z] : [info]: 81.20 : Posprocesamiento
+
+[2023-03-07T13:59:59.249Z] : [info]: 0 : Preprocesamiento
+
+[2023-03-07T14:00:07.096Z] : [info]: 0.00 : Posprocesamiento
+
+[2023-03-07T14:00:07.298Z] : [info]: 130 : Preprocesamiento
+
+[2023-03-07T14:00:13.813Z] : [info]: 130.00 : Posprocesamiento
+
+[2023-03-07T14:00:14.109Z] : [info]: 6264 : Preprocesamiento
+
+[2023-03-07T14:00:20.540Z] : [info]: 6264.00 : Posprocesamiento
+
+[2023-03-07T14:00:20.774Z] : [info]: 883 : Preprocesamiento
+
+[2023-03-07T14:00:27.186Z] : [info]: 883.00 : Posprocesamiento
+
+[2023-03-07T14:00:27.466Z] : [info]: 1440 : Preprocesamiento
+
+[2023-03-07T14:01:48.906Z] : [info]: 1440.00 : Posprocesamiento
+
+[2023-03-07T14:01:49.226Z] : [info]: 25663.72 : Preprocesamiento
+
+[2023-03-07T14:02:54.522Z] : [info]: 25663.72 : Posprocesamiento
+
+[2023-03-07T14:02:54.783Z] : [info]: 16880.64 : Preprocesamiento
+
+[2023-03-07T14:03:04.987Z] : [info]: 16880.64 : Posprocesamiento
+
+[2023-03-07T14:03:05.247Z] : [info]: 51327.44 : Preprocesamiento
+
+[2023-03-07T14:03:08.104Z] : [info]: 51327.44 : Posprocesamiento
+
+[2023-03-07T14:03:08.345Z] : [info]: 30600 : Preprocesamiento
+
+[2023-03-07T14:03:10.131Z] : [info]: 30600.00 : Posprocesamiento
+
+[2023-03-07T14:03:10.357Z] : [info]: 3975.45 : Preprocesamiento
+
+[2023-03-07T14:03:12.515Z] : [info]: 3975.45 : Posprocesamiento
+
+[2023-03-07T14:03:12.740Z] : [info]: 1977 : Preprocesamiento
+
+[2023-03-07T14:03:14.561Z] : [info]: 1977.00 : Posprocesamiento
+
+[2023-03-07T14:03:14.830Z] : [info]: 694.09 : Preprocesamiento
+
+[2023-03-07T14:06:36.381Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-07T14:06:36.486Z] : [error]: Script Stopped.
+
+[2023-03-07T14:06:36.491Z] : [info]: Total execution time: 7m 35s 234ms
+
+[2023-03-07T14:06:36.495Z] : [info]: ---------------------------------------------
+
+[2023-03-07T14:13:38.966Z] : [success]: Robot saved successfully
+
+[2023-03-07T14:14:32.402Z] : [info]: 81.2 : Preprocesamiento
+
+[2023-03-07T14:14:40.475Z] : [info]: 81.20 : Posprocesamiento
+
+[2023-03-07T14:14:40.785Z] : [info]: 0 : Preprocesamiento
+
+[2023-03-07T14:14:45.375Z] : [info]: 0.00 : Posprocesamiento
+
+[2023-03-07T14:14:45.533Z] : [info]: 130 : Preprocesamiento
+
+[2023-03-07T14:14:49.753Z] : [info]: 130.00 : Posprocesamiento
+
+[2023-03-07T14:14:49.975Z] : [info]: 6264 : Preprocesamiento
+
+[2023-03-07T14:14:53.558Z] : [info]: 6264.00 : Posprocesamiento
+
+[2023-03-07T14:14:53.799Z] : [info]: 883 : Preprocesamiento
+
+[2023-03-07T14:14:57.242Z] : [info]: 883.00 : Posprocesamiento
+
+[2023-03-07T14:14:57.495Z] : [info]: 1440 : Preprocesamiento
+
+[2023-03-07T14:15:00.317Z] : [info]: 1440.00 : Posprocesamiento
+
+[2023-03-07T14:15:00.571Z] : [info]: 25663.72 : Preprocesamiento
+
+[2023-03-07T14:15:16.825Z] : [info]: 25663.72 : Posprocesamiento
+
+[2023-03-07T14:15:17.047Z] : [info]: 16880.64 : Preprocesamiento
+
+[2023-03-07T14:15:41.100Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-07T14:15:41.601Z] : [error]: Script Stopped.
+
+[2023-03-07T14:15:41.607Z] : [info]: Total execution time: 1m 36s 481ms
+
+[2023-03-07T14:15:41.611Z] : [info]: ---------------------------------------------
+
+[2023-03-07T14:16:04.680Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 7/3/2023 07:17:54
+  ==========================================
+  
+
+[2023-03-07T14:18:44.520Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 7/3/2023 07:46:54
+  ==========================================
+  
+
+[2023-03-07T14:48:24.123Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-07T14:48:26.128Z] : [error]: Script Stopped.
+
+[2023-03-07T14:48:26.134Z] : [info]: Total execution time: 8m 39s 841ms
+
+[2023-03-07T14:48:26.138Z] : [info]: ---------------------------------------------
+
+[2023-03-07T14:52:01.490Z] : [success]: Robot saved successfully
+
+[2023-03-07T14:52:02.580Z] : [success]: Bot started
+
+[2023-03-07T14:52:02.584Z] : [info]: Robot start
+
+[2023-03-07T14:52:08.525Z] : [error]: Unexpected number
+
+[2023-03-07T14:52:08.531Z] : [info]: Total execution time: 5s 941ms
+
+[2023-03-07T14:52:08.536Z] : [info]: ---------------------------------------------
+
+[2023-03-07T14:52:36.446Z] : [success]: Robot saved successfully
+
+[2023-03-07T14:52:37.203Z] : [success]: Bot started
+
+[2023-03-07T14:52:37.208Z] : [info]: Robot start
+
+[2023-03-07T14:52:46.683Z] : [info]: 6,999.6 : Preprocesamiento
+
+[2023-03-07T14:53:03.408Z] : [error]: Script Stopped.
+
+[2023-03-07T14:53:03.414Z] : [info]: Total execution time: 26s 200ms
+
+[2023-03-07T14:53:03.419Z] : [info]: ---------------------------------------------
+
+[2023-03-07T14:54:53.282Z] : [success]: Robot saved successfully
+
+[2023-03-07T14:54:53.795Z] : [info]: ---------------------------------------------
+
+[2023-03-07T14:54:53.799Z] : [success]: Bot started
+
+[2023-03-07T14:54:53.804Z] : [info]: Robot start
+
+[2023-03-07T14:55:01.699Z] : [info]: 6,999.6 : Preprocesamiento
+
+[2023-03-07T14:55:04.167Z] : [info]: 6999.6 : Procesamiento
+
+[2023-03-07T14:55:13.038Z] : [info]: 6999.60 : Procesamiento final
+
+[2023-03-07T14:55:23.670Z] : [error]: Script Stopped.
+
+[2023-03-07T14:55:23.678Z] : [info]: Total execution time: 29s 866ms
+
+[2023-03-07T14:55:23.686Z] : [info]: ---------------------------------------------
+
+[2023-03-07T14:55:30.186Z] : [success]: Robot saved successfully
+
+[2023-03-07T15:01:24.358Z] : [error]: json[i].Valores.replaceAll is not a function
+
+[2023-03-07T15:01:24.364Z] : [info]: Total execution time: 4m 37s 538ms
+
+[2023-03-07T15:01:24.369Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 7/3/2023 08:01:24
+  ==========================================
+  
+
+[2023-03-07T15:03:00.312Z] : [success]: Robot saved successfully
+
+[2023-03-07T15:03:00.857Z] : [success]: Bot started
+
+[2023-03-07T15:03:00.861Z] : [info]: Robot start
+
+[2023-03-07T15:03:08.120Z] : [info]: 6,999.6 : Preprocesamiento
+
+[2023-03-07T15:03:11.498Z] : [info]: 6999.6 : Procesamiento
+
+[2023-03-07T15:03:27.527Z] : [error]: Script Stopped.
+
+[2023-03-07T15:03:27.533Z] : [info]: Total execution time: 26s 666ms
+
+[2023-03-07T15:03:27.538Z] : [info]: ---------------------------------------------
+
+[2023-03-07T15:04:04.658Z] : [success]: Robot saved successfully
+
+[2023-03-07T15:04:11.822Z] : [success]: Robot saved successfully
+

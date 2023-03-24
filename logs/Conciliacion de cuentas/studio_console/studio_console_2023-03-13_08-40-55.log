@@ -1,0 +1,1205 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 13/3/2023, 8:42:04
+  ==========================================
+  
+
+[2023-03-13T15:22:33.847Z] : [success]: Robot saved successfully
+
+[2023-03-13T15:23:08.729Z] : [success]: Robot saved successfully
+
+[2023-03-13T15:23:09.365Z] : [success]: Bot started
+
+[2023-03-13T15:23:09.366Z] : [info]: Robot start
+
+[2023-03-13T15:23:44.122Z] : [info]: 6,999.6 : Preprocesamiento
+
+[2023-03-13T15:24:50.451Z] : [info]: 0 : Preprocesamiento
+
+[2023-03-13T15:25:20.365Z] : [info]: 5800 : Preprocesamiento
+
+[2023-03-13T15:25:45.564Z] : [info]: 1440 : Preprocesamiento
+
+[2023-03-13T15:31:09.687Z] : [success]: Robot saved successfully
+
+[2023-03-13T15:31:50.974Z] : [success]: Robot saved successfully
+
+[2023-03-13T15:31:51.392Z] : [success]: Bot started
+
+[2023-03-13T15:31:51.394Z] : [info]: Robot start
+
+[2023-03-13T15:31:57.798Z] : [info]: 6,999.6 : Preprocesamiento
+
+[2023-03-13T15:32:05.095Z] : [info]: 0 : Preprocesamiento
+
+[2023-03-13T15:32:09.035Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:32:11.052Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:32:23.030Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:32:26.061Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:32:35.929Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:32:38.607Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:32:46.062Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:32:48.890Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:32:55.523Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:32:58.359Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:05.432Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:08.654Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:15.756Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:18.037Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:25.330Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:31.141Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:33.378Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:39.664Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:41.744Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:48.098Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:52.049Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:33:59.195Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:34:03.512Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:34:05.801Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:34:09.845Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:34:11.690Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:34:17.603Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:34:19.662Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:34:59.703Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:35:13.133Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:35:26.201Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:35:35.434Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:35:42.937Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:35:47.522Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:35:56.426Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:36:04.564Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:36:16.530Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:36:19.041Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:36:27.116Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:36:30.108Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:36:36.195Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:36:40.964Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T15:36:42.465Z] : [error]: Script Stopped.
+
+[2023-03-13T15:36:42.468Z] : [info]: Total execution time: 4m 51s 71ms
+
+[2023-03-13T15:36:42.470Z] : [info]: ---------------------------------------------
+
+[2023-03-13T15:36:44.124Z] : [success]: Robot saved successfully
+
+[2023-03-13T15:36:48.739Z] : [success]: Bot started
+
+[2023-03-13T15:36:48.741Z] : [info]: Robot start
+
+[2023-03-13T15:39:18.460Z] : [info]: 6,999.6 : Preprocesamiento
+
+[2023-03-13T15:39:33.507Z] : [info]: 0 : Preprocesamiento
+
+[2023-03-13T15:39:39.023Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:39:49.265Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:39:56.745Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:40:01.072Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:40:08.216Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:40:10.975Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:40:15.135Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:40:17.120Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:40:21.366Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:40:26.115Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:40:46.693Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:40:50.187Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:40:59.537Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:02.404Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:05.855Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:08.200Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:10.175Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:11.921Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:14.616Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:16.483Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:22.043Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:23.842Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:25.700Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:36.847Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:41:44.644Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:01.434Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T15:42:01.570Z] : [error]: Script Stopped.
+
+[2023-03-13T15:42:01.573Z] : [info]: Total execution time: 5m 12s 828ms
+
+[2023-03-13T15:42:01.574Z] : [info]: ---------------------------------------------
+
+[2023-03-13T15:42:28.247Z] : [success]: Robot saved successfully
+
+[2023-03-13T15:42:28.832Z] : [success]: Bot started
+
+[2023-03-13T15:42:28.834Z] : [info]: Robot start
+
+[2023-03-13T15:42:30.159Z] : [info]: 6,999.6 : Preprocesamiento
+
+[2023-03-13T15:42:30.285Z] : [info]: 6999.60 : Procesamiento final
+
+[2023-03-13T15:42:30.635Z] : [info]: 0 : Preprocesamiento
+
+[2023-03-13T15:42:30.711Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:30.921Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:31.039Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:31.320Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:31.441Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:31.661Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:31.774Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:32.025Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:32.119Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:32.415Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:32.505Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:32.740Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:32.850Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:33.071Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:33.181Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:33.447Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:33.536Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:33.797Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:33.923Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:34.207Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:34.319Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:34.555Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:34.683Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:34.904Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:35.047Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:35.282Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:35.394Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:35.616Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:35.702Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:35.917Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:36.012Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:36.232Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:36.358Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:36.596Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:36.684Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:36.908Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:37.002Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:37.207Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:37.306Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:37.556Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:37.653Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:37.858Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:37.954Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:38.174Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:38.271Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:38.505Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:38.600Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:38.822Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:38.918Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:39.138Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:39.249Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:39.487Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:39.599Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:39.820Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:39.916Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:40.224Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:40.312Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:40.531Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:40.642Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:40.864Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:40.973Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:41.225Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:41.334Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:41.557Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:41.668Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:41.890Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:41.971Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:42.347Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:42.448Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:42.650Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:42.773Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:42.993Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:43.105Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:43.326Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:43.437Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:43.642Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:43.727Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:43.957Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:44.053Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:44.273Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:44.399Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:44.624Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:44.719Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:44.955Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:45.055Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:45.264Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:45.381Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:45.621Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:45.747Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:45.954Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:46.049Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:46.270Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:46.365Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:46.604Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:46.700Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:46.919Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:47.014Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:47.204Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:47.300Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:47.536Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:47.648Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:47.868Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:47.948Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:48.170Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:48.272Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:48.516Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:48.606Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:48.938Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:49.039Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:49.250Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:49.337Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:49.556Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:49.671Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:49.877Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:50.002Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:50.225Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:50.336Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:50.558Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:50.672Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:50.890Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:51.014Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:51.236Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:51.330Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:51.566Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:51.659Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:51.867Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:51.960Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:52.176Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:52.292Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:52.530Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:52.642Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:52.835Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:52.958Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:53.196Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:53.307Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:53.513Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:53.608Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:53.830Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:53.925Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:54.128Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:54.240Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:54.444Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:54.552Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:54.774Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:54.886Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:55.106Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:55.200Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:55.420Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:55.530Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:55.736Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:55.862Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:56.086Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:56.196Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:56.434Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:56.543Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:56.767Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:56.863Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:57.082Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:57.208Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:57.442Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:57.610Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:57.827Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:57.912Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:58.142Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:58.236Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:58.458Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:58.570Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:58.774Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:58.885Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:59.106Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:59.216Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:59.417Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:59.532Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:42:59.756Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:42:59.854Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:00.090Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:00.199Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:00.406Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:00.518Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:00.733Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:00.819Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:01.027Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:01.156Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:01.393Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:01.497Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:01.697Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:01.823Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:02.044Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:02.154Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:02.360Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:02.456Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:02.662Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:02.773Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:03.010Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:03.121Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:03.484Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:03.578Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:03.845Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:03.956Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:04.193Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:04.289Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:04.527Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:04.637Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:04.858Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:04.983Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:05.206Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:05.315Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:05.523Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:05.651Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:05.889Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:06.015Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:06.251Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:06.363Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:06.687Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:06.785Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:07.029Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:07.155Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:07.360Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:07.455Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:07.663Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:07.757Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:07.979Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:08.079Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:08.343Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:08.439Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:08.652Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:08.771Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:09.025Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:09.130Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:09.340Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:09.453Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:09.672Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:09.797Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:10.043Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:10.161Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:10.383Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:10.495Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:10.717Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:10.939Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:11.209Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:11.333Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:11.597Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:11.721Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:11.987Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:12.097Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:12.317Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:12.426Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:12.693Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:12.808Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:13.101Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:13.243Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:13.487Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:13.604Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:13.935Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:14.092Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:14.346Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:14.451Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:14.709Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:14.832Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:15.083Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:15.180Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:15.407Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:15.540Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:15.809Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:15.919Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:16.154Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:16.263Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:16.640Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:16.765Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:17.018Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:17.144Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:17.431Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:17.556Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:17.823Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:17.933Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:18.184Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:18.279Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:18.500Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:18.595Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:18.831Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:18.956Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:19.244Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:19.362Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:19.608Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:19.718Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:19.955Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:20.082Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:20.331Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:20.424Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:20.677Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:20.787Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:21.023Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:21.150Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:21.417Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:21.529Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:21.777Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:21.910Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:22.162Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:22.257Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:22.468Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:22.573Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:22.788Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:22.904Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:23.170Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:23.279Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:23.554Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:23.674Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:23.925Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:24.028Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:24.350Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T15:43:24.545Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T15:43:24.804Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T15:43:24.927Z] : [error]: Script Stopped.
+
+[2023-03-13T15:43:24.931Z] : [info]: Total execution time: 56s 92ms
+
+[2023-03-13T15:43:24.933Z] : [info]: ---------------------------------------------
+
+[2023-03-13T16:25:31.356Z] : [success]: Bot started
+
+[2023-03-13T16:25:31.358Z] : [info]: Robot start
+
+[2023-03-13T16:25:32.877Z] : [info]: 6,999.6 : Preprocesamiento
+
+[2023-03-13T16:25:32.993Z] : [info]: 6999.60 : Procesamiento final
+
+[2023-03-13T16:25:33.453Z] : [info]: 0 : Preprocesamiento
+
+[2023-03-13T16:25:33.549Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:33.778Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:33.897Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:34.172Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:34.277Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:34.514Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:34.626Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:34.849Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:34.959Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:35.224Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:35.323Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:35.575Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:35.687Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:35.901Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:36.006Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:36.242Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:36.353Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:36.575Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:36.675Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:36.894Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:37.113Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:37.476Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:37.587Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:37.810Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:37.929Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:38.175Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:38.287Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:38.508Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:38.601Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:38.835Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:38.949Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:39.162Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:39.281Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:39.490Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:39.599Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:39.839Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:39.964Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:40.201Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:40.295Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:40.534Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:40.661Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:40.886Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:41.009Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:41.225Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:41.357Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:41.607Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:41.735Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:41.961Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:42.083Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:42.319Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:42.431Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:42.669Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:42.781Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:43.016Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:43.136Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:43.428Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:43.518Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:43.747Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:43.855Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:44.061Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:44.173Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:44.400Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:44.496Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:44.726Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:44.852Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:45.074Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:45.164Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:45.419Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:45.495Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:45.696Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:45.783Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:46.007Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:46.119Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:46.373Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:46.485Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:46.707Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:46.833Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:47.069Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:47.182Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:47.417Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:47.521Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:47.734Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:47.861Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:48.083Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:48.173Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:48.390Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:48.490Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:48.737Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:48.850Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:49.110Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:49.210Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:49.434Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:49.553Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:49.919Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:50.046Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:50.330Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:50.438Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:50.725Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:50.850Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:51.100Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:51.211Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:51.463Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:51.581Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:51.802Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:51.921Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:52.187Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:52.313Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:52.692Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:52.817Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:53.102Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:53.211Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:53.509Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:53.637Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:53.904Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:54.029Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:54.297Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:54.407Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:54.642Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:54.771Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:55.039Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:55.165Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:55.448Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:55.592Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:55.843Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:55.968Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:56.251Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:56.362Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:56.622Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:56.727Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:56.988Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:57.114Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:57.382Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:57.523Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:57.791Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:57.907Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:58.202Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:58.329Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:58.612Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:58.754Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:59.037Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:59.164Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:59.435Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:25:59.559Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:25:59.947Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:00.116Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:00.440Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:00.557Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:00.846Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:00.969Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T16:26:01.710Z] : [error]: Script Stopped.
+
+[2023-03-13T16:26:01.713Z] : [info]: Total execution time: 30s 351ms
+
+[2023-03-13T16:26:01.714Z] : [info]: ---------------------------------------------
+
+[2023-03-13T16:26:19.205Z] : [success]: Bot started
+
+[2023-03-13T16:26:19.206Z] : [info]: Robot start
+
+[2023-03-13T16:26:20.478Z] : [info]: 6,999.6 : Preprocesamiento
+
+[2023-03-13T16:26:20.606Z] : [info]: 6999.60 : Procesamiento final
+
+[2023-03-13T16:26:20.945Z] : [info]: 0 : Preprocesamiento
+
+[2023-03-13T16:26:21.050Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:21.272Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:21.388Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:21.711Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:21.818Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:22.033Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:22.148Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:22.370Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:22.496Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:23.059Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:23.230Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:23.483Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:23.609Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:23.889Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:24.028Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:24.330Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:24.471Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:24.770Z] : [info]: 0.00 : Preprocesamiento
+
+[2023-03-13T16:26:24.882Z] : [info]: 0.00 : Procesamiento final
+
+[2023-03-13T16:26:25.051Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T16:26:25.517Z] : [error]: Script Stopped.
+
+[2023-03-13T16:26:25.521Z] : [info]: Total execution time: 6s 311ms
+
+[2023-03-13T16:26:25.523Z] : [info]: ---------------------------------------------
+

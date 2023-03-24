@@ -1,0 +1,141 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 22/3/2023, 10:24:20
+  ==========================================
+  
+
+[2023-03-22T16:32:36.897Z] : [success]: Robot saved successfully
+
+[2023-03-22T16:32:51.726Z] : [success]: Robot saved successfully
+
+[2023-03-22T16:32:52.186Z] : [success]: Bot started
+
+[2023-03-22T16:32:52.188Z] : [info]: Robot start
+
+[2023-03-22T16:53:53.558Z] : [error]: Script Stopped.
+
+[2023-03-22T16:53:53.562Z] : [info]: Total execution time: 21m 1s 369ms
+
+[2023-03-22T16:53:53.564Z] : [info]: ---------------------------------------------
+
+[2023-03-22T16:57:13.981Z] : [success]: Robot saved successfully
+
+[2023-03-22T16:57:14.450Z] : [success]: Bot started
+
+[2023-03-22T16:57:14.451Z] : [info]: Robot start
+
+[2023-03-22T16:57:16.790Z] : [error]: ubicacion_estado_cuenta.replaces is not a function
+
+[2023-03-22T16:57:16.793Z] : [info]: Total execution time: 2s 338ms
+
+[2023-03-22T16:57:16.795Z] : [info]: ---------------------------------------------
+
+[2023-03-22T16:58:47.033Z] : [success]: Robot saved successfully
+
+[2023-03-22T16:58:47.713Z] : [success]: Bot started
+
+[2023-03-22T16:58:47.714Z] : [info]: Robot start
+
+[2023-03-22T16:58:52.954Z] : [success]: Bot finished successfully, total execution time: 5s 237ms
+
+[2023-03-22T16:58:52.956Z] : [info]: ---------------------------------------------
+
+[2023-03-22T17:00:10.204Z] : [success]: Robot saved successfully
+
+[2023-03-22T17:00:10.663Z] : [success]: Bot started
+
+[2023-03-22T17:00:10.664Z] : [info]: Robot start
+
+[2023-03-22T17:00:12.909Z] : [success]: Bot finished successfully, total execution time: 2s 244ms
+
+[2023-03-22T17:00:12.911Z] : [info]: ---------------------------------------------
+
+[2023-03-22T17:02:00.727Z] : [success]: Robot saved successfully
+
+[2023-03-22T17:02:01.154Z] : [success]: Bot started
+
+[2023-03-22T17:02:01.155Z] : [info]: Robot start
+
+[2023-03-22T17:02:03.347Z] : [success]: Bot finished successfully, total execution time: 2s 191ms
+
+[2023-03-22T17:02:03.349Z] : [info]: ---------------------------------------------
+
+[2023-03-22T20:12:14.933Z] : [success]: Robot saved successfully
+
+[2023-03-22T20:12:19.156Z] : [success]: Bot started
+
+[2023-03-22T20:12:19.158Z] : [info]: Robot start
+
+[2023-03-22T20:58:36.552Z] : [info]: Internet connection // error
+
+[2023-03-22T21:01:02.543Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-22T21:12:31.536Z] : [error]: Script Stopped.
+
+[2023-03-22T21:12:31.540Z] : [info]: Total execution time: 1h 12s 377ms
+
+[2023-03-22T21:12:31.542Z] : [info]: ---------------------------------------------
+
+[2023-03-22T21:13:54.955Z] : [success]: Robot saved successfully
+
+[2023-03-22T21:13:55.492Z] : [success]: Bot started
+
+[2023-03-22T21:13:55.494Z] : [info]: Robot start
+
+[2023-03-22T21:14:22.365Z] : [error]: Script Stopped.
+
+[2023-03-22T21:14:22.368Z] : [info]: Total execution time: 26s 870ms
+
+[2023-03-22T21:14:22.370Z] : [info]: ---------------------------------------------
+
+[2023-03-22T21:16:31.930Z] : [success]: Robot saved successfully
+
+[2023-03-22T21:16:32.367Z] : [success]: Bot started
+
+[2023-03-22T21:16:32.368Z] : [info]: Robot start
+
+[2023-03-22T21:16:35.493Z] : [info]: object
+
+[2023-03-22T21:17:05.448Z] : [error]: Script Stopped.
+
+[2023-03-22T21:17:05.450Z] : [info]: Total execution time: 33s 79ms
+
+[2023-03-22T21:17:05.452Z] : [info]: ---------------------------------------------
+
+[2023-03-22T21:17:59.500Z] : [success]: Robot saved successfully
+
+[2023-03-22T21:17:59.946Z] : [success]: Bot started
+
+[2023-03-22T21:17:59.947Z] : [info]: Robot start
+
+[2023-03-22T21:18:03.283Z] : [error]: Cannot read properties of undefined (reading 'filter')
+
+[2023-03-22T21:18:03.286Z] : [info]: Total execution time: 3s 336ms
+
+[2023-03-22T21:18:03.288Z] : [info]: ---------------------------------------------
+
+[2023-03-22T21:18:41.875Z] : [success]: Robot saved successfully
+
+[2023-03-22T21:18:45.519Z] : [success]: Bot started
+
+[2023-03-22T21:18:45.520Z] : [info]: Robot start
+
+[2023-03-22T22:28:01.528Z] : [error]: Script Stopped.
+
+[2023-03-22T22:28:01.531Z] : [info]: Total execution time: 1h 9m 16s 7ms
+
+[2023-03-22T22:28:01.533Z] : [info]: ---------------------------------------------
+
+[2023-03-22T22:28:40.828Z] : [success]: Robot saved successfully
+
+[2023-03-22T22:28:41.331Z] : [success]: Bot started
+
+[2023-03-22T22:28:41.332Z] : [info]: Robot start
+
+[2023-03-22T23:04:59.430Z] : [error]: Script Stopped.
+
+[2023-03-22T23:04:59.444Z] : [info]: Total execution time: 36m 18s 87ms
+
+[2023-03-22T23:04:59.448Z] : [info]: ---------------------------------------------
+

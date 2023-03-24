@@ -1,0 +1,183 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 23/3/2023, 7:51:01
+  ==========================================
+  
+
+[2023-03-23T14:23:06.602Z] : [success]: Robot saved successfully
+
+[2023-03-23T14:23:07.377Z] : [info]: ---------------------------------------------
+
+[2023-03-23T14:23:07.378Z] : [success]: Bot started
+
+[2023-03-23T14:23:07.379Z] : [info]: Robot start
+
+[2023-03-23T14:23:13.894Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-03-23T14:29:44.428Z] : [error]: Script Stopped.
+
+[2023-03-23T14:29:44.432Z] : [info]: Total execution time: 6m 37s 48ms
+
+[2023-03-23T14:29:44.433Z] : [info]: ---------------------------------------------
+
+[2023-03-23T14:43:02.886Z] : [success]: Robot saved successfully
+
+[2023-03-23T14:43:03.322Z] : [success]: Bot started
+
+[2023-03-23T14:43:03.324Z] : [info]: Robot start
+
+[2023-03-23T17:39:17.071Z] : [error]: Script Stopped.
+
+[2023-03-23T17:39:17.078Z] : [info]: Total execution time: 2h 56m 13s 747ms
+
+[2023-03-23T17:39:17.080Z] : [info]: ---------------------------------------------
+
+[2023-03-23T17:39:28.253Z] : [success]: Robot saved successfully
+
+[2023-03-23T17:39:28.757Z] : [success]: Bot started
+
+[2023-03-23T17:39:28.758Z] : [info]: Robot start
+
+[2023-03-23T17:46:13.136Z] : [error]: Script Stopped.
+
+[2023-03-23T17:46:13.140Z] : [info]: Total execution time: 6m 44s 377ms
+
+[2023-03-23T17:46:13.141Z] : [info]: ---------------------------------------------
+
+[2023-03-23T17:46:40.603Z] : [success]: Robot saved successfully
+
+[2023-03-23T17:46:41.047Z] : [success]: Bot started
+
+[2023-03-23T17:46:41.048Z] : [info]: Robot start
+
+[2023-03-23T17:46:55.495Z] : [error]: Script Stopped.
+
+[2023-03-23T17:46:55.499Z] : [info]: Total execution time: 14s 447ms
+
+[2023-03-23T17:46:55.501Z] : [info]: ---------------------------------------------
+
+[2023-03-23T17:47:05.919Z] : [success]: Bot started
+
+[2023-03-23T17:47:05.921Z] : [info]: Robot start
+
+[2023-03-23T17:54:59.953Z] : [error]: Script Stopped.
+
+[2023-03-23T17:54:59.957Z] : [info]: Total execution time: 7m 54s 30ms
+
+[2023-03-23T17:54:59.959Z] : [info]: ---------------------------------------------
+
+[2023-03-23T17:55:03.081Z] : [success]: Bot started
+
+[2023-03-23T17:55:03.082Z] : [info]: Robot start
+
+[2023-03-23T18:10:58.559Z] : [error]: Script Stopped.
+
+[2023-03-23T18:10:58.562Z] : [info]: Total execution time: 15m 55s 476ms
+
+[2023-03-23T18:10:58.564Z] : [info]: ---------------------------------------------
+
+[2023-03-23T18:46:34.582Z] : [success]: Bot started
+
+[2023-03-23T18:46:34.585Z] : [info]: Robot start
+
+[2023-03-23T20:01:38.251Z] : [error]: Script Stopped.
+
+[2023-03-23T20:01:38.255Z] : [info]: Total execution time: 1h 15m 3s 666ms
+
+[2023-03-23T20:01:38.258Z] : [info]: ---------------------------------------------
+
+[2023-03-23T20:02:53.615Z] : [success]: Robot saved successfully
+
+[2023-03-23T20:02:54.059Z] : [success]: Bot started
+
+[2023-03-23T20:02:54.061Z] : [info]: Robot start
+
+[2023-03-23T20:02:57.570Z] : [info]: object
+
+[2023-03-23T20:52:45.539Z] : [error]: Script Stopped.
+
+[2023-03-23T20:52:45.542Z] : [info]: Total execution time: 49m 51s 477ms
+
+[2023-03-23T20:52:45.543Z] : [info]: ---------------------------------------------
+
+[2023-03-23T22:24:19.548Z] : [success]: Connection to our licenses server is restored
+
+[2023-03-23T22:24:19.692Z] : [success]: Robot saved successfully
+
+[2023-03-23T22:24:20.272Z] : [success]: Bot started
+
+[2023-03-23T22:24:20.276Z] : [info]: Robot start
+
+[2023-03-23T22:24:24.638Z] : [error]: annio is not defined
+
+[2023-03-23T22:24:24.641Z] : [info]: Total execution time: 4s 361ms
+
+[2023-03-23T22:24:24.643Z] : [info]: ---------------------------------------------
+
+[2023-03-23T22:25:54.631Z] : [success]: Robot saved successfully
+
+[2023-03-23T22:25:59.006Z] : [success]: Bot started
+
+[2023-03-23T22:25:59.008Z] : [info]: Robot start
+
+[2023-03-23T22:26:02.172Z] : [info]: object
+
+[2023-03-24T00:40:55.351Z] : [error]: Script Stopped.
+
+[2023-03-24T00:40:55.357Z] : [info]: Total execution time: 2h 14m 56s 343ms
+
+[2023-03-24T00:40:55.359Z] : [info]: ---------------------------------------------
+
+[2023-03-24T03:11:09.409Z] : [success]: Robot saved successfully
+
+[2023-03-24T03:11:11.158Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.160Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.162Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.164Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.167Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.188Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.189Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.200Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.203Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.205Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.206Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.258Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.259Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.276Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.278Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.295Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.298Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.319Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.321Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.337Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.339Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.358Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.360Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.381Z] : [error]: Cannot read properties of null (reading 'type')
+
+[2023-03-24T03:11:11.383Z] : [error]: Cannot read properties of null (reading 'type')
+

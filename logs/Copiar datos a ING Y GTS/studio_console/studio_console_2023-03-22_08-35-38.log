@@ -1,0 +1,23 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 22/3/2023, 8:36:40
+  ==========================================
+  
+
+[2023-03-22T14:36:54.408Z] : [success]: Robot saved successfully
+
+[2023-03-22T14:37:41.064Z] : [success]: Robot saved successfully
+
+[2023-03-22T16:05:45.493Z] : [success]: Robot saved successfully
+
+[2023-03-22T16:05:45.905Z] : [success]: Bot started
+
+[2023-03-22T16:05:45.906Z] : [info]: Robot start
+
+[2023-03-22T16:05:50.483Z] : [warn]: Bot is reading an Excel sheet with duplicated column headers. Only first occurences of columns with duplicated headers will be read. To avoid that, try using column letters instead of column headers.
+
+[2023-03-22T16:05:58.950Z] : [success]: Bot finished successfully, total execution time: 13s 42ms
+
+[2023-03-22T16:05:58.952Z] : [info]: ---------------------------------------------
+

@@ -1,0 +1,19 @@
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 13/3/2023, 13:23:48
+  ==========================================
+  
+
+[2023-03-13T19:24:49.783Z] : [error]: Script Stopped.
+
+[2023-03-13T19:24:49.786Z] : [info]: Total execution time: 52s 630ms
+
+[2023-03-13T19:24:49.788Z] : [info]: ---------------------------------------------
+
+[2023-03-13T19:26:33.530Z] : [error]: Selectors: Unfortunately, the Excel sheet name you're searching for is either invalid or does not exist. Check the sheet name exists and it is well written in Studion Pro and/or validate the characters formatting is correct.
+
+[2023-03-13T19:26:33.534Z] : [info]: Total execution time: 44s 366ms
+
+[2023-03-13T19:26:33.535Z] : [info]: ---------------------------------------------
+

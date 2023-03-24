@@ -1,0 +1,74 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 6/3/2023 17:56:58
+  ==========================================
+  
+
+[2023-03-07T00:59:03.631Z] : [success]: Robot saved successfully
+
+[2023-03-07T00:59:04.469Z] : [success]: Bot started
+
+[2023-03-07T00:59:04.473Z] : [info]: Robot start
+
+[2023-03-07T00:59:05.315Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS 2022.xlsx
+
+[2023-03-07T00:59:05.791Z] : [error]: mes_conciliar_completo is not defined
+
+[2023-03-07T00:59:05.796Z] : [info]: Total execution time: 1s 317ms
+
+[2023-03-07T00:59:05.800Z] : [info]: ---------------------------------------------
+
+[2023-03-07T00:59:42.657Z] : [success]: Robot saved successfully
+
+[2023-03-07T00:59:43.094Z] : [success]: Bot started
+
+[2023-03-07T00:59:43.098Z] : [info]: Robot start
+
+[2023-03-07T00:59:43.846Z] : [info]: G:\Mi unidad\BOTGET\5. PoC\PANDOTEK\3. Desarrollo\CONTABILIDAD\NOMBRE COMPLETO DE CLIENTE\EJERCICIO 2022\GASTOS\09 SEP\ING Y GTS 2022.xlsx
+
+[2023-03-07T00:59:44.189Z] : [success]: Bot finished successfully, total execution time: 1s 90ms
+
+[2023-03-07T00:59:44.194Z] : [info]: ---------------------------------------------
+
+[2023-03-07T01:00:08.555Z] : [success]: Robot saved successfully
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 6/3/2023 18:01:22
+  ==========================================
+  
+
+[2023-03-07T01:01:58.973Z] : [success]: Robot saved successfully
+
+[2023-03-07T01:10:14.704Z] : [error]: ubicacion_IngYgsts_anterior is not defined
+
+[2023-03-07T01:10:14.711Z] : [info]: Total execution time: 1m 29s 111ms
+
+[2023-03-07T01:10:14.716Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 6/3/2023 18:10:15
+  ==========================================
+  
+
+[2023-03-07T01:11:03.364Z] : [success]: Robot saved successfully
+
+[2023-03-07T01:56:12.084Z] : [error]: rfc_iniciales is not defined
+
+[2023-03-07T01:56:12.090Z] : [info]: Total execution time: 1m 38s 476ms
+
+[2023-03-07T01:56:12.094Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 6/3/2023 18:56:12
+  ==========================================
+  
+
+[2023-03-07T01:56:51.576Z] : [success]: Robot saved successfully
+

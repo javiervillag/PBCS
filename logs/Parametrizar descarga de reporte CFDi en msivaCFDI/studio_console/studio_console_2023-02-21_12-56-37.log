@@ -1,0 +1,101 @@
+
+  ==========================================
+  Studio Pro version: 9.0.5
+  Started at: 22/2/2023 06:35:59
+  ==========================================
+  
+
+[2023-02-22T13:38:07.892Z] : [warn]: There is a small amount of free memory (RAM) left, 91.48% of RAM is being used (14868 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-02-22T13:41:07.912Z] : [warn]: There is a small amount of free memory (RAM) left, 91.97% of RAM is being used (14947 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-02-22T13:44:07.918Z] : [warn]: There is a small amount of free memory (RAM) left, 93.98% of RAM is being used (15274 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-02-22T13:47:07.927Z] : [warn]: There is a small amount of free memory (RAM) left, 92.33% of RAM is being used (15006 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-02-22T13:47:34.358Z] : [success]: Robot saved successfully
+
+[2023-02-22T13:47:34.927Z] : [info]: ---------------------------------------------
+
+[2023-02-22T13:47:34.931Z] : [success]: Bot started
+
+[2023-02-22T13:47:34.935Z] : [info]: Robot start
+
+[2023-02-22T13:47:36.413Z] : [error]: mes_conciliar is not defined
+
+[2023-02-22T13:47:36.418Z] : [info]: Total execution time: 1s 477ms
+
+[2023-02-22T13:47:36.422Z] : [info]: ---------------------------------------------
+
+[2023-02-22T13:48:04.396Z] : [success]: Robot saved successfully
+
+[2023-02-22T13:48:04.952Z] : [success]: Bot started
+
+[2023-02-22T13:48:04.955Z] : [info]: Robot start
+
+[2023-02-22T13:48:05.720Z] : [info]: ["G:","Mi unidad","BOTGET","5. PoC","PANDOTEK","3. Desarrollo","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCTUBRE"]
+
+[2023-02-22T13:48:06.055Z] : [success]: Bot finished successfully, total execution time: 1s 99ms
+
+[2023-02-22T13:48:06.060Z] : [info]: ---------------------------------------------
+
+[2023-02-22T13:48:43.968Z] : [success]: Robot saved successfully
+
+[2023-02-22T13:48:44.502Z] : [success]: Bot started
+
+[2023-02-22T13:48:44.505Z] : [info]: Robot start
+
+[2023-02-22T13:48:45.314Z] : [info]: ["Z:","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCTUBRE"]
+
+[2023-02-22T13:48:45.594Z] : [success]: Bot finished successfully, total execution time: 1s 89ms
+
+[2023-02-22T13:48:45.632Z] : [info]: ---------------------------------------------
+
+[2023-02-22T13:49:20.208Z] : [success]: Robot saved successfully
+
+[2023-02-22T13:49:20.680Z] : [success]: Bot started
+
+[2023-02-22T13:49:20.684Z] : [info]: Robot start
+
+[2023-02-22T13:49:21.519Z] : [info]: ["Z:","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCTUBRE"]
+
+[2023-02-22T13:49:37.457Z] : [info]: 6
+
+[2023-02-22T13:50:07.953Z] : [warn]: There is a small amount of free memory (RAM) left, 93.01% of RAM is being used (15116 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-02-22T13:50:20.884Z] : [error]: Script Stopped.
+
+[2023-02-22T13:50:20.890Z] : [info]: Total execution time: 1m 200ms
+
+[2023-02-22T13:50:20.893Z] : [info]: ---------------------------------------------
+
+[2023-02-22T13:50:32.502Z] : [success]: Bot started
+
+[2023-02-22T13:50:32.507Z] : [info]: Robot start
+
+[2023-02-22T13:50:33.291Z] : [info]: ["Z:","CONTABILIDAD","ARRASTRE MOTRIZ DE MEXICO SA DE CV","EJERCICIO 2022","GASTOS","10 OCTUBRE"]
+
+[2023-02-22T13:50:41.108Z] : [info]: 6
+
+[2023-02-22T13:51:18.593Z] : [info]: 1
+
+[2023-02-22T13:51:38.473Z] : [info]: 2
+
+[2023-02-22T13:51:53.281Z] : [info]: 3
+
+[2023-02-22T13:52:19.211Z] : [info]: 4
+
+[2023-02-22T13:52:30.877Z] : [info]: 5
+
+[2023-02-22T13:53:07.989Z] : [warn]: There is a small amount of free memory (RAM) left, 93.5% of RAM is being used (15195 MBs). The performance of Studio Pro and bots during execution may be unstable. Close applications that are not being used, increase the memory, or optimize the workflow.
+
+[2023-02-22T13:53:23.107Z] : [info]: 6
+
+[2023-02-22T13:53:31.140Z] : [error]: Script Stopped.
+
+[2023-02-22T13:53:31.146Z] : [info]: Total execution time: 2m 58s 633ms
+
+[2023-02-22T13:53:31.150Z] : [info]: ---------------------------------------------
+
+[2023-02-22T14:00:00.096Z] : [success]: Robot saved successfully
+

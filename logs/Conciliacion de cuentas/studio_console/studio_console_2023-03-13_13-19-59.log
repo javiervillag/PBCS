@@ -1,0 +1,89 @@
+[2023-03-13T19:30:23.877Z] : [error]: Cannot read properties of undefined (reading 'toString')
+
+[2023-03-13T19:30:23.881Z] : [info]: Total execution time: 1m 33s 526ms
+
+[2023-03-13T19:30:23.882Z] : [info]: ---------------------------------------------
+
+
+  ==========================================
+  Studio Pro version: 9.1.4
+  Started at: 13/3/2023, 13:30:24
+  ==========================================
+  
+
+[2023-03-13T20:12:28.037Z] : [info]: 923.14 : Preprocesamiento
+
+[2023-03-13T20:12:28.276Z] : [info]: 923.14 : Procesamiento final
+
+[2023-03-13T20:18:52.844Z] : [info]: 5100 : Preprocesamiento
+
+[2023-03-13T20:18:52.982Z] : [info]: 5100.00 : Procesamiento final
+
+[2023-03-13T20:19:37.355Z] : [info]: 4640 : Preprocesamiento
+
+[2023-03-13T20:19:37.482Z] : [info]: 4640.00 : Procesamiento final
+
+[2023-03-13T20:21:24.638Z] : [info]: 5247.52 : Preprocesamiento
+
+[2023-03-13T20:21:24.795Z] : [info]: 5247.52 : Procesamiento final
+
+[2023-03-13T20:22:48.667Z] : [warn]: Keep in mind that it is good practice to set different names for variables. If a global and a local variable have the same name, the local one may shadow the global one. In case, you want to keep the names alike, we recommend you enable the Clear variables before execution option or add a lowercase “g” to the global one
+
+[2023-03-13T20:22:50.217Z] : [error]: Script Stopped.
+
+[2023-03-13T20:22:50.220Z] : [info]: Total execution time: 12m 27s 708ms
+
+[2023-03-13T20:22:50.222Z] : [info]: ---------------------------------------------
+
+[2023-03-13T20:22:52.011Z] : [success]: Robot saved successfully
+
+[2023-03-13T20:26:37.870Z] : [info]: 923.14 : Procesamiento final
+
+[2023-03-13T20:26:51.311Z] : [info]: 5100.00 : Procesamiento final
+
+[2023-03-13T20:27:13.286Z] : [info]: 4640.00 : Procesamiento final
+
+[2023-03-13T20:47:57.664Z] : [error]: Cannot read properties of undefined (reading 'toString')
+
+[2023-03-13T20:47:57.667Z] : [info]: Total execution time: 1m 36s 848ms
+
+[2023-03-13T20:47:57.669Z] : [info]: ---------------------------------------------
+
+[2023-03-13T22:39:13.432Z] : [error]: Cannot read properties of undefined (reading 'toString')
+
+[2023-03-13T22:39:13.435Z] : [info]: Total execution time: 1m 38s 354ms
+
+[2023-03-13T22:39:13.436Z] : [info]: ---------------------------------------------
+
+[2023-03-13T22:44:34.979Z] : [error]: Cannot read properties of undefined (reading 'toString')
+
+[2023-03-13T22:44:34.982Z] : [info]: Total execution time: 2m 7s 244ms
+
+[2023-03-13T22:44:34.984Z] : [info]: ---------------------------------------------
+
+[2023-03-13T22:50:15.545Z] : [error]: Cannot read properties of undefined (reading 'toString')
+
+[2023-03-13T22:50:15.549Z] : [info]: Total execution time: 1m 40s 101ms
+
+[2023-03-13T22:50:15.551Z] : [info]: ---------------------------------------------
+
+[2023-03-13T22:56:16.973Z] : [error]: Cannot read properties of undefined (reading 'toString')
+
+[2023-03-13T22:56:16.976Z] : [info]: Total execution time: 1m 38s 540ms
+
+[2023-03-13T22:56:16.978Z] : [info]: ---------------------------------------------
+
+[2023-03-13T23:01:17.570Z] : [error]: Cannot read properties of undefined (reading 'toString')
+
+[2023-03-13T23:01:17.574Z] : [info]: Total execution time: 2m 5s 317ms
+
+[2023-03-13T23:01:17.576Z] : [info]: ---------------------------------------------
+
+[2023-03-13T23:40:44.976Z] : [error]: Cannot read properties of undefined (reading 'toString')
+
+[2023-03-13T23:40:44.990Z] : [info]: Total execution time: 2m 58s 425ms
+
+[2023-03-13T23:40:44.993Z] : [info]: ---------------------------------------------
+
+[2023-03-13T23:51:17.006Z] : [success]: Robot saved successfully
+
